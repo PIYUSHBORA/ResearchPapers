@@ -14,9 +14,15 @@ Scalability is anything to make myself a programmer that can work with scalabili
 ## Conferences
 ## Researchers 
 ## Video Lectures
-## Courses
+
+## Courses (Just notes, no videos)
+- [Harvard OS161](http://os161.eecs.harvard.edu/)
+- [Harvard CS161](http://www.eecs.harvard.edu/~cs161/syllabus.html)
+
 ## Books
 ## Papers
+
+- **(OS161 Paper) A new instructional Operating System** (2002) David Holland [[pdf]](http://www.eecs.harvard.edu/~dholland/pubs/sigcse-02/)
 
 # Distributed Systems
 ## Blogs
