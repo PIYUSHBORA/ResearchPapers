@@ -20,8 +20,14 @@ Scalability is anything to make myself a programmer that can work with scalabili
 - [Harvard CS161](http://www.eecs.harvard.edu/~cs161/syllabus.html)
 
 ## Books
+- Operating Systems 3 Easy Pieces
+- Modern Operating Systems
+
 ## Papers
 
+### Virtual Memory
+
+### OS161
 - **(OS161 Paper) A new instructional Operating System** (2002) David Holland [[pdf]](http://www.eecs.harvard.edu/~dholland/pubs/sigcse-02/)
 
 # Distributed Systems
