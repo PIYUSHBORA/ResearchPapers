@@ -27,6 +27,7 @@ Scalability is anything to make myself a programmer that can work with scalabili
 - [CSC2227S Winter 2015 Topics in the Design and Implementation of Operating Systems Networked Systems by Demke](http://www.cs.toronto.edu/~demke/2227/S.15/index.shtml)
 - [ECE1759 Fall 2017 Advances in Operating System by Ding Yuan](http://www.eecg.toronto.edu/~yuan/teaching/gradOS/schedule.html)
 - [ECE1781 Winter 2018 Dependeable Software Systems by Ashvin Goel](http://www.eecg.toronto.edu/~ashvin/courses/ece1781/current/)
+- [ECE1746 Fall 2004 Advances in Distributed Systems by Ashvin Goel](http://www.eecg.toronto.edu/~ashvin/courses/ece1746/2004/index.html)
 ### Stanford
 - [CS140 Operating Systems](http://www.scs.stanford.edu/17wi-cs140/notes/)
 
