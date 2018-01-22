@@ -68,7 +68,10 @@ Scalability is anything to make myself a programmer that can work with scalabili
 ## Blogs
 ## Conferences
 ## Researchers 
+
 ## Video Lectures
+- [CMU 15-721 Database Systems Spring 2016](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbisIGOepfnlbfxeH7TW-8O)
+
 ## Courses
 ## Books
 ## Papers
