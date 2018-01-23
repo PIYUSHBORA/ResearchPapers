@@ -16,6 +16,7 @@ Scalability is anything to make myself a programmer that can work with scalabili
 ## Video Lectures
 - [John Kubiatowicz Many Courses](https://people.eecs.berkeley.edu/~kubitron/courses/index.html)
 - [Berkeley CS162 Fall 2010](https://www.youtube.com/watch?v=feAOZuID1HM&index=1&list=PLggtecHMfYHA7j2rF7nZFgnepu_uPuYws)
+- [Berkeley CS194 Fall 2014](https://www.youtube.com/watch?v=pG6ODynD1hw&list=PLkFD6_40KJIwbUFN4LaTnEeK6gXrdSeFv&index=1)
 
 ## Courses (Just notes, no videos)
 ### Harvard
