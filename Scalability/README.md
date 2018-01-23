@@ -22,6 +22,8 @@ Scalability is anything to make myself a programmer that can work with scalabili
 ### Harvard
 - [Harvard OS161](http://os161.eecs.harvard.edu/)
 - [Harvard CS161](http://www.eecs.harvard.edu/~cs161/syllabus.html)
+### Texas
+- [Texas CS372 Introduction to Operating Systems](http://www.cs.utexas.edu/users/dahlin/Classes/UGOS/)
 ### University of Toronto
 - [CSC369 Fall 2017 Operating Systems by Larry](http://www.cs.toronto.edu/~ylzhang/csc369/)
 - [CSC369 Fall 2015 Operating Systems by Larry](http://www.cs.toronto.edu/~ylzhang/csc369f15/)
