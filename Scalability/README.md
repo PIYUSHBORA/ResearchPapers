@@ -12,18 +12,25 @@ Scalability is anything to make myself a programmer that can work with scalabili
 # Operating Systems
 ## Blogs
 ## Conferences
+
 ## Researchers 
+- [Mike Dahlin](http://www.cs.utexas.edu/users/dahlin/)
+
 ## Video Lectures
 - [John Kubiatowicz Many Courses](https://people.eecs.berkeley.edu/~kubitron/courses/index.html)
 - [Berkeley CS162 Fall 2010](https://www.youtube.com/watch?v=feAOZuID1HM&index=1&list=PLggtecHMfYHA7j2rF7nZFgnepu_uPuYws)
 - [Berkeley CS194 Fall 2014](https://www.youtube.com/watch?v=pG6ODynD1hw&list=PLkFD6_40KJIwbUFN4LaTnEeK6gXrdSeFv&index=1)
 
 ## Courses (Just notes, no videos)
-### Harvard
+
+### Harvard University
 - [Harvard OS161](http://os161.eecs.harvard.edu/)
 - [Harvard CS161](http://www.eecs.harvard.edu/~cs161/syllabus.html)
-### Texas
-- [Texas CS372 Introduction to Operating Systems](http://www.cs.utexas.edu/users/dahlin/Classes/UGOS/)
+
+### University of Texas Austin
+- [Texas CS372 Introduction to Operating Systems by Mike Dahlin](http://www.cs.utexas.edu/users/dahlin/Classes/UGOS/)
+- [Texas CS439 Principles of Computer Systems by Mike Dahlin](http://www.cs.utexas.edu/users/dahlin/Classes/439/syllabus.html)
+
 ### University of Toronto
 - [CSC369 Fall 2017 Operating Systems by Larry](http://www.cs.toronto.edu/~ylzhang/csc369/)
 - [CSC369 Fall 2015 Operating Systems by Larry](http://www.cs.toronto.edu/~ylzhang/csc369f15/)
@@ -31,6 +38,7 @@ Scalability is anything to make myself a programmer that can work with scalabili
 - [ECE1759 Fall 2017 Advances in Operating System by Ding Yuan](http://www.eecg.toronto.edu/~yuan/teaching/gradOS/schedule.html)
 - [ECE1781 Winter 2018 Dependeable Software Systems by Ashvin Goel](http://www.eecg.toronto.edu/~ashvin/courses/ece1781/current/)
 - [ECE1746 Fall 2004 Advances in Distributed Systems by Ashvin Goel](http://www.eecg.toronto.edu/~ashvin/courses/ece1746/2004/index.html)
+
 ### Stanford
 - [CS140 Operating Systems](http://www.scs.stanford.edu/17wi-cs140/notes/)
 
