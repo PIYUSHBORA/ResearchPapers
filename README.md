@@ -937,6 +937,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **A Comparison of Algorithms for Inference and Learning in Probabilistic Graphical Models** (2005, PAMI) Brendan Frey [[pdf]](http://www.psi.toronto.edu/~frey/ece1510/ReviewPaper.pdf)
 - **Statistical inference with probabilistic graphical models** (2014), Angelique [[pdf]](https://arxiv.org/abs/1409.4928)
 
+### Conditional Random Fields
+- **An Introduction to Conditional Random Fields** (2011) Charles Sutton [[pdf]](http://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf)
 
 ## Reinforcement Learning
 - **Learning to predict by the methods of temporal differences** (1988), Richard Sutton [[pdf]](https://link.springer.com/article/10.1023/A:1022633531479)
