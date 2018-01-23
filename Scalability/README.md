@@ -37,7 +37,24 @@ Scalability is anything to make myself a programmer that can work with scalabili
 
 ## Papers
 
+### Processes and Threads
+- **Concepts for Concurrent Programming** Fred Schneider [[pdf]] (https://www.cs.cornell.edu/fbs/publications/concepts_espirit.pdf)
+- **Algorithm and Data Optimization Techniques for Scaling to Massively Threaded Systems** (2012) John Stratton [[pdf]] (http://impact.crhc.illinois.edu/shared/papers/algorithm2012.pdf)
+- **Survey of Scheduling Techniques for Addressing Shared Resources in Multicore Processors** (2011) Zhuravlev [[pdf]](http://www.blagodurov.net/files/zhuravlev_csur11.pdf)
+
 ### Virtual Memory
+- **Virtual Memory** (1970) Peter Denning [[pdf]](https://dl.acm.org/citation.cfm?id=356573)
+- **Working Sets Past and Present** (1979) Peter Denning [[pdf]](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1207&context=cstech)
+
+### File Systems
+- **A Fast File System for UNIX** (1984) [[pdf]](https://people.eecs.berkeley.edu/~brewer/cs262/FFS.pdf)
+- **Anatomy of a Solid-state Drive** (2012) Michael Cornwell (https://queue.acm.org/detail.cfm?id=2385276)
+
+### Deadlocks
+- **System Deadlocks** (1971) Michael Coffman [[pdf]](https://dl.acm.org/citation.cfm?id=356588)
+- **Some Deadlock Properties of Computer Systems** (1972) Richard Holt [[pdf]](https://dl.acm.org/citation.cfm?id=356607)
+- **The Deadlock Problem: An Overview** (1980) Isloor [[pdf]](http://ieeexplore.ieee.org/document/1653786/)
+- **A Unified Treatment of Deadlock** (2003) Charles [[pdf]](https://dl.acm.org/citation.cfm?id=948765)
 
 ### OS161
 - **(OS161 Paper) A new instructional Operating System** (2002) David Holland [[pdf]](http://www.eecs.harvard.edu/~dholland/pubs/sigcse-02/)
