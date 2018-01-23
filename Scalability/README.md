@@ -31,6 +31,7 @@ Scalability is anything to make myself a programmer that can work with scalabili
 - [Texas CS372 Introduction to Operating Systems by Mike Dahlin](http://www.cs.utexas.edu/users/dahlin/Classes/UGOS/)
 - [Texas CS380 Advanced Operating Systems by Mike Dahlin](http://www.cs.utexas.edu/users/dahlin/Classes/GradOS/index.html)
 - [Texas CS439 Principles of Computer Systems by Mike Dahlin](http://www.cs.utexas.edu/users/dahlin/Classes/439/syllabus.html)
+- [Texas CS395 Web Operating Systems by Mike Dahlin](http://www.cs.utexas.edu/users/dahlin/Classes/WebOS/reading.html)
 
 ### University of Toronto
 - [CSC369 Fall 2017 Operating Systems by Larry](http://www.cs.toronto.edu/~ylzhang/csc369/)
