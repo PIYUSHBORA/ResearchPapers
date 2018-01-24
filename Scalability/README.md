@@ -33,6 +33,8 @@ Scalability is anything to make myself a programmer that can work with scalabili
 - [Texas CS380 Advanced Operating Systems by Mike Dahlin](http://www.cs.utexas.edu/users/dahlin/Classes/GradOS/index.html)
 - [Texas CS439 Principles of Computer Systems by Mike Dahlin](http://www.cs.utexas.edu/users/dahlin/Classes/439/syllabus.html)
 - [Texas CS395 Web Operating Systems by Mike Dahlin](http://www.cs.utexas.edu/users/dahlin/Classes/WebOS/reading.html)
+### University of Washingotn
+- [Washington CSE451 Fall 2014 Introduction to Operating Systems](https://courses.cs.washington.edu/courses/cse451/14au/)
 
 ### University of Toronto
 - [CSC369 Fall 2017 Operating Systems by Larry](http://www.cs.toronto.edu/~ylzhang/csc369/)
@@ -41,9 +43,13 @@ Scalability is anything to make myself a programmer that can work with scalabili
 - [ECE1759 Fall 2017 Advances in Operating System by Ding Yuan](http://www.eecg.toronto.edu/~yuan/teaching/gradOS/schedule.html)
 - [ECE1781 Winter 2018 Dependeable Software Systems by Ashvin Goel](http://www.eecg.toronto.edu/~ashvin/courses/ece1781/current/)
 - [ECE1746 Fall 2004 Advances in Distributed Systems by Ashvin Goel](http://www.eecg.toronto.edu/~ashvin/courses/ece1746/2004/index.html)
-
+### Cornell
+- [Cornell CS4410 Practicum in Operating Systems](http://www.cs.cornell.edu/courses/cs4410/2014fa/CS4411/index.html)
 ### Stanford
-- [CS140 Operating Systems](http://www.scs.stanford.edu/17wi-cs140/notes/)
+- [Stanford CS140 Winter 2017 Operating Systems](http://www.scs.stanford.edu/17wi-cs140/notes/)
+- [Stanford CS140 Winter 2014 Operating Systems](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14)
+### Columbia
+- [Columbia COMSW4118 Operating Systems I](http://www.cs.columbia.edu/~nieh/teaching/w4118/lectures/)
 
 ## Papers
 
