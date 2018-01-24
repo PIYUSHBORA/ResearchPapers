@@ -47,8 +47,14 @@ Scalability is anything to make myself a programmer that can work with scalabili
 
 ## Papers
 
+### Instructional Materials
+- **A survey of contemporary instructional operating systems for use in undergraduate courses** (2005) Charles [[pdf]](https://dl.acm.org/citation.cfm?id=1088822)
+- **The Nachos Instructional Operating System** (1993) Christopher [[pdf]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/1993/CSD-93-739.pdf)
+- **(OS161 Paper) A new instructional Operating System** (2002) David Holland [[pdf]](http://www.eecs.harvard.edu/~dholland/pubs/sigcse-02/)
+
 ### Processes and Threads
-- **Concepts for Concurrent Programming** Fred Schneider [[pdf]] (https://www.cs.cornell.edu/fbs/publications/concepts_espirit.pdf)
+- **An Introduction to Programming with Threads** (1989) Andrew Birrell [[pdf]](https://birrell.org/andrew/papers/035-Threads.pdf)
+- **Concepts for Concurrent Programming** Fred Schneider [[pdf]](https://www.cs.cornell.edu/fbs/publications/concepts_espirit.pdf)
 - **Algorithm and Data Optimization Techniques for Scaling to Massively Threaded Systems** (2012) John Stratton [[pdf]] (http://impact.crhc.illinois.edu/shared/papers/algorithm2012.pdf)
 - **Survey of Scheduling Techniques for Addressing Shared Resources in Multicore Processors** (2011) Zhuravlev [[pdf]](http://www.blagodurov.net/files/zhuravlev_csur11.pdf)
 
@@ -65,9 +71,6 @@ Scalability is anything to make myself a programmer that can work with scalabili
 - **Some Deadlock Properties of Computer Systems** (1972) Richard Holt [[pdf]](https://dl.acm.org/citation.cfm?id=356607)
 - **The Deadlock Problem: An Overview** (1980) Isloor [[pdf]](http://ieeexplore.ieee.org/document/1653786/)
 - **A Unified Treatment of Deadlock** (2003) Charles [[pdf]](https://dl.acm.org/citation.cfm?id=948765)
-
-### OS161
-- **(OS161 Paper) A new instructional Operating System** (2002) David Holland [[pdf]](http://www.eecs.harvard.edu/~dholland/pubs/sigcse-02/)
 
 # Distributed Systems
 ## Blogs
