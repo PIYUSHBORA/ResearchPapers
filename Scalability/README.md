@@ -62,11 +62,12 @@ Scalability is anything to make myself a programmer that can work with scalabili
 - **A survey of contemporary instructional operating systems for use in undergraduate courses** (2005) Charles [[pdf]](https://dl.acm.org/citation.cfm?id=1088822)
 - **(Nachos) The Nachos Instructional Operating System** (1993) Christopher [[pdf]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/1993/CSD-93-739.pdf)
 - **(OS161) A new instructional Operating System** (2002) David Holland [[pdf]](http://www.eecs.harvard.edu/~dholland/pubs/sigcse-02/)
+- [(MINIX3) Publications relating to Minix3](http://wiki.minix3.org/doku.php?id=publications)
 
 ### Processes and Threads
 - **An Introduction to Programming with Threads** (1989) Andrew Birrell [[pdf]](https://birrell.org/andrew/papers/035-Threads.pdf)
 - **Concepts for Concurrent Programming** Fred Schneider [[pdf]](https://www.cs.cornell.edu/fbs/publications/concepts_espirit.pdf)
-- **Algorithm and Data Optimization Techniques for Scaling to Massively Threaded Systems** (2012) John Stratton [[pdf]] (http://impact.crhc.illinois.edu/shared/papers/algorithm2012.pdf)
+- **Algorithm and Data Optimization Techniques for Scaling to Massively Threaded Systems** (2012) John Stratton [[pdf]](http://impact.crhc.illinois.edu/shared/papers/algorithm2012.pdf)
 - **Survey of Scheduling Techniques for Addressing Shared Resources in Multicore Processors** (2011) Zhuravlev [[pdf]](http://www.blagodurov.net/files/zhuravlev_csur11.pdf)
 
 ### Virtual Memory
