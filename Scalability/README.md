@@ -47,6 +47,8 @@ Scalability is anything to make myself a programmer that can work with scalabili
 - [ECE1746 Fall 2004 Advances in Distributed Systems by Ashvin Goel](http://www.eecg.toronto.edu/~ashvin/courses/ece1746/2004/index.html)
 ### Cornell
 - [Cornell CS4410 Practicum in Operating Systems](http://www.cs.cornell.edu/courses/cs4410/2014fa/CS4411/index.html)
+### MIT
+- [MIT 6.828 Operating Systems Engineering](https://pdos.csail.mit.edu/6.828/2017/)
 ### Stanford
 - [Stanford CS140 Winter 2017 Operating Systems](http://www.scs.stanford.edu/17wi-cs140/notes/)
 - [Stanford CS140 Winter 2014 Operating Systems](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14)
