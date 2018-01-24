@@ -11,6 +11,8 @@ Scalability is anything to make myself a programmer that can work with scalabili
 
 # Operating Systems
 ## Blogs
+- [OSDev](https://wiki.osdev.org/Main_Page)
+
 ## Conferences
 
 ## Researchers 
