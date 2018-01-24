@@ -49,8 +49,8 @@ Scalability is anything to make myself a programmer that can work with scalabili
 
 ### Instructional Materials
 - **A survey of contemporary instructional operating systems for use in undergraduate courses** (2005) Charles [[pdf]](https://dl.acm.org/citation.cfm?id=1088822)
-- **The Nachos Instructional Operating System** (1993) Christopher [[pdf]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/1993/CSD-93-739.pdf)
-- **(OS161 Paper) A new instructional Operating System** (2002) David Holland [[pdf]](http://www.eecs.harvard.edu/~dholland/pubs/sigcse-02/)
+- **(Nachos) The Nachos Instructional Operating System** (1993) Christopher [[pdf]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/1993/CSD-93-739.pdf)
+- **(OS161) A new instructional Operating System** (2002) David Holland [[pdf]](http://www.eecs.harvard.edu/~dholland/pubs/sigcse-02/)
 
 ### Processes and Threads
 - **An Introduction to Programming with Threads** (1989) Andrew Birrell [[pdf]](https://birrell.org/andrew/papers/035-Threads.pdf)
