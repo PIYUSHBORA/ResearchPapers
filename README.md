@@ -938,8 +938,22 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **A Comparison of Algorithms for Inference and Learning in Probabilistic Graphical Models** (2005, PAMI) Brendan Frey [[pdf]](http://www.psi.toronto.edu/~frey/ece1510/ReviewPaper.pdf)
 - **Statistical inference with probabilistic graphical models** (2014), Angelique [[pdf]](https://arxiv.org/abs/1409.4928)
 
+### Bayesian Networks
+
+### Markov Random Fields
+
+### Factor Graphs
+- **Factor graphs and the sum-product algorithm** (2001, IEEE) Frank Kschischang [[pdf]](http://www.psi.toronto.edu/~psi/pubs2/2001/frey2001factor.pdf) 
+
+### Hidden Markov Models
+- **Statistical Inference for Probabilistic Functions of Finite State Markov Chains** (1966) Leonard Baum [[pdf]](https://projecteuclid.org/download/pdf_1/euclid.aoms/1177699147)
+- **A tutorial on hidden Markov models and selected applications in speech recognition** (1989, IEEE) Rabiner [[pdf]](http://ieeexplore.ieee.org/document/18626/)
+- **HMM-Based Word Alignment in Statistical Translation** (1996) Stephan Vogel [[pdf]](https://dl.acm.org/citation.cfm?id=993313)
+
 ### Conditional Random Fields
 - **An Introduction to Conditional Random Fields** (2011) Charles Sutton [[pdf]](http://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf)
+- **Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data** (2001) John Lafferty [[pdf]](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers)
+- **Dynamic Conditional Random Fields: Factorized Probabilistic Models for Labeling and Segmenting Sequence Data** (2007, JMLR) Charles Sutton [[pdf]](http://www.jmlr.org/papers/volume8/sutton07a/sutton07a.pdf)
 
 ## Reinforcement Learning
 - **Learning to predict by the methods of temporal differences** (1988), Richard Sutton [[pdf]](https://link.springer.com/article/10.1023/A:1022633531479)
