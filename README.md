@@ -952,6 +952,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ### Conditional Random Fields
 - **An Introduction to Conditional Random Fields** (2011) Charles Sutton [[pdf]](http://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf)
+- **Shallow Parsing with Conditional Random Fields** (2003, NAACL) Fei Sha [[pdf]](https://dl.acm.org/citation.cfm?id=1073473)
 - **Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data** (2001) John Lafferty [[pdf]](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers)
 - **Dynamic Conditional Random Fields: Factorized Probabilistic Models for Labeling and Segmenting Sequence Data** (2007, JMLR) Charles Sutton [[pdf]](http://www.jmlr.org/papers/volume8/sutton07a/sutton07a.pdf)
 
