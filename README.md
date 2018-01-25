@@ -950,6 +950,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **A tutorial on hidden Markov models and selected applications in speech recognition** (1989, IEEE) Rabiner [[pdf]](http://ieeexplore.ieee.org/document/18626/)
 - **HMM-Based Word Alignment in Statistical Translation** (1996) Stephan Vogel [[pdf]](https://dl.acm.org/citation.cfm?id=993313)
 
+### Maximum Entropy Markov Model
+- **A Simple Introduction to Maximum Entropy Models for Natural Language Processing** (1997) Adwait [[pdf]](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1083&context=ircs_reports)
+- **Maximum Entropy Markov Models for Information Extraction and Segmentation** (2000) Andrew McCallum [[pdf]](http://www.ai.mit.edu/courses/6.891-nlp/READINGS/maxent.pdf)
+
 ### Conditional Random Fields
 - **An Introduction to Conditional Random Fields** (2011) Charles Sutton [[pdf]](http://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf)
 - **Shallow Parsing with Conditional Random Fields** (2003, NAACL) Fei Sha [[pdf]](https://dl.acm.org/citation.cfm?id=1073473)
