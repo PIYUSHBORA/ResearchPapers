@@ -602,6 +602,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ## Probabilistic Generative Models
 - [Efficient Training of Conditional Random Fields by Hannah](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.134.8962&rep=rep1&type=pdf)
+- [Learning Large-Scale Conditional Random Fields by Joseph](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1222&context=dissertations)
 
 ## Neural Networks
 - [Improving Neural Networks with Dropout by Nitish](http://www.cs.toronto.edu/~nitish/msc_thesis.pdf)
@@ -951,6 +952,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ### Markov Random Fields
 
 ### Factor Graphs
+- **Iterative Decoding of Compound Codes by Probability Propagation in Graphical Models** (1998) Brendan Frey [[pdf]](http://www.psi.toronto.edu/~psi/pubs2/1999%20and%20before/ppid-jsac.pdf)
 - **Factor graphs and the sum-product algorithm** (2001, IEEE) Frank Kschischang [[pdf]](http://www.psi.toronto.edu/~psi/pubs2/2001/frey2001factor.pdf) 
 
 ### Hidden Markov Models
