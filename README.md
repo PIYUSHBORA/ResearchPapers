@@ -544,7 +544,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ## Bayesian Learning
 - [All of David Blei Courses](http://www.cs.columbia.edu/~blei/courses.html)
-- [Foundations of Graphical Models by David Blei](http://www.cs.columbia.edu/~blei/fogm/2016F/)
+- [COS513 Foundations of Probabilistic Modelling 2009 by David Blei](http://www.cs.princeton.edu/courses/archive/spring09/cos513/)
+- [CS597 Advanced Methods in Probabilistic Modelling 2011 by David Blei](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/)
+- [Foundations of Graphical Models 2016 by David Blei](http://www.cs.columbia.edu/~blei/fogm/2016F/)
 - [AM207 Harvard Stochastic Methods for Data Analysis, Inference and Optimization](http://am207.github.io/2016/index.html)
 - [AM207 Working Video Lectures Link](http://cm.dce.harvard.edu/2015/02/24104/publicationListing.shtml)
 
@@ -708,6 +710,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 # Papers 
 
 ## Optimization
+
+### Iterative Scaling
+- **Generalized Iterative Scaling for Log-Linear Models** (1972) Darroch [[pdf]](https://projecteuclid.org/euclid.aoms/1177692379)
 
 ### Stochastic Optimization
 - **A Stochastic Approximation Method** (1951) Herbert Robbins [[pdf]](https://projecteuclid.org/euclid.aoms/1177729586)
