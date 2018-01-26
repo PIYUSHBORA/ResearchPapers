@@ -598,6 +598,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Non-linear latent factor models for revealing structure in high-dimensional data by Roland Memisevic](http://www.cs.toronto.edu/~rfm/thesis/Memisevic08.pdf)
 - [Efficient Stopping Rules by Volodymyr Mnih](https://www.cs.toronto.edu/~vmnih/docs/msc-thesis.pdf)
 
+## Probabilistic Generative Models
+- [Efficient Training of Conditional Random Fields by Hannah](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.134.8962&rep=rep1&type=pdf)
+
 ## Neural Networks
 - [Improving Neural Networks with Dropout by Nitish](http://www.cs.toronto.edu/~nitish/msc_thesis.pdf)
 
@@ -956,8 +959,12 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ### Conditional Random Fields
 - **An Introduction to Conditional Random Fields** (2011) Charles Sutton [[pdf]](http://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf)
-- **Shallow Parsing with Conditional Random Fields** (2003, NAACL) Fei Sha [[pdf]](https://dl.acm.org/citation.cfm?id=1073473)
 - **Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data** (2001) John Lafferty [[pdf]](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers)
+- **Efficient Training of Conditional Random Fields** (2002)  Hannah [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.134.8962&rep=rep1&type=pdf)
+- **Machine Learning for Sequential Data: A Review** (2002) Thomas Dietterich [[pdf]](http://web.engr.oregonstate.edu/~tgd/publications/mlsd-ssspr.pdf)
+- **Shallow Parsing with Conditional Random Fields** (2003, NAACL) Fei Sha [[pdf]](https://dl.acm.org/citation.cfm?id=1073473)
+- **Efficiently Inducing Features of Conditional Random Fields** (2003, UAI) Andrew McCallum [[pdf]](https://people.cs.umass.edu/~mccallum/papers/ifcrf-uai2003.pdf)
+- **Table Extraction Using Conditional Random Fields** (2003) David Pinto [[pdf]](http://ciir.cs.umass.edu/pubfiles/ir-276.pdf)
 - **Dynamic Conditional Random Fields: Factorized Probabilistic Models for Labeling and Segmenting Sequence Data** (2007, JMLR) Charles Sutton [[pdf]](http://www.jmlr.org/papers/volume8/sutton07a/sutton07a.pdf)
 
 ## Reinforcement Learning
