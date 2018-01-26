@@ -414,6 +414,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Brendan Frey](http://www.psi.toronto.edu/~frey/)
 - [Daphne Koller](http://ai.stanford.edu/users/koller/) 
 - [Michael I Jordan](https://people.eecs.berkeley.edu/~jordan/)
+- [Andrew McCallum](https://people.cs.umass.edu/~mccallum/)
 - [Alireza Makhzani](http://www.alireza.ai/)
 - [Eric Xing](http://www.cs.cmu.edu/~epxing/) 
 
@@ -962,6 +963,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **HMM-Based Word Alignment in Statistical Translation** (1996) Stephan Vogel [[pdf]](https://dl.acm.org/citation.cfm?id=993313)
 
 ### Maximum Entropy Markov Model
+- **Information Theory and Statistical Mechanics** (1957) Jaynes [[pdf]](https://journals.aps.org/pr/abstract/10.1103/PhysRev.106.620)
 - **A Simple Introduction to Maximum Entropy Models for Natural Language Processing** (1997) Adwait [[pdf]](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1083&context=ircs_reports)
 - **Maximum Entropy Markov Models for Information Extraction and Segmentation** (2000) Andrew McCallum [[pdf]](http://www.ai.mit.edu/courses/6.891-nlp/READINGS/maxent.pdf)
 
@@ -974,6 +976,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Efficiently Inducing Features of Conditional Random Fields** (2003, UAI) Andrew McCallum [[pdf]](https://people.cs.umass.edu/~mccallum/papers/ifcrf-uai2003.pdf)
 - **Table Extraction Using Conditional Random Fields** (2003) David Pinto [[pdf]](http://ciir.cs.umass.edu/pubfiles/ir-276.pdf)
 - **Dynamic Conditional Random Fields: Factorized Probabilistic Models for Labeling and Segmenting Sequence Data** (2007, JMLR) Charles Sutton [[pdf]](http://www.jmlr.org/papers/volume8/sutton07a/sutton07a.pdf)
+- **An Introduction to Conditional Random Fields for Relational Learning** (2006) Charles Sutton [[pdf]](https://cis.temple.edu/~latecki/Courses/RobotFall08/Papers/ConditionalRandomFieldsRelationalLearning.pdf)
 
 ## Reinforcement Learning
 - **Learning to predict by the methods of temporal differences** (1988), Richard Sutton [[pdf]](https://link.springer.com/article/10.1023/A:1022633531479)
