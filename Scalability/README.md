@@ -94,6 +94,9 @@ Scalability is anything to make myself a programmer that can work with scalabili
 ### Stanford
 - [Stanford CS347 Parallel and Distributed Data Management Spring 2016](http://web.stanford.edu/class/cs347/index.html)
 
+### Washington
+- [CSEP552 Distributed Systems](https://courses.cs.washington.edu/courses/csep552/16wi/)
+
 ## Books
 ## Papers
 
