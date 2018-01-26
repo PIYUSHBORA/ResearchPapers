@@ -855,9 +855,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Bayesian Compression for Deep Learning** (2017, NIPS) Christos Louizos [[pdf]](https://arxiv.org/abs/1705.08665)
 
 ### Restricted Boltzman Machines
-- **Restricted Boltzmann Machines for Collaborative Filtering** (2007), Ruslan Salakhutdinov [[pdf]](http://www.machinelearning.org/proceedings/icml2007/papers/407.pdf)
-- **Classification using Discriminative Restricted Boltzmann Machines** (2008), Hugo Larochelle [[pdf]](http://machinelearning.org/archive/icml2008/papers/601.pdf)
-- **An Introduction to Restricted Boltzmann Machines** (2012), Asja [[pdf]](https://link.springer.com/chapter/10.1007%2F978-3-642-33275-3_2?LI=true)
+- **Restricted Boltzmann Machines for Collaborative Filtering** (2007) Ruslan Salakhutdinov [[pdf]](http://www.machinelearning.org/proceedings/icml2007/papers/407.pdf)
+- **Classification using Discriminative Restricted Boltzmann Machines** (2008) Hugo Larochelle [[pdf]](http://machinelearning.org/archive/icml2008/papers/601.pdf)
+- **Geometry of the restricted Boltzmann machine** (2009) Maria Angelica Cueto [[pdf]](https://arxiv.org/abs/0908.4425)
+- **An Introduction to Restricted Boltzmann Machines** (2012) Asja [[pdf]](https://link.springer.com/chapter/10.1007%2F978-3-642-33275-3_2?LI=true)
 - **Training restricted Boltzmann machines: An introduction** (2014), Asja [[pdf]](http://www.sciencedirect.com/science/article/pii/S0031320313002495)
 
 #### Deep Belief Networks
