@@ -575,6 +575,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ### David Duvenaud
 - [CSC2541 Differential Inference and Generative Models by David Duvenaud Fall 2016](https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
 - [CSC412 PGM by David Duvenaud Winter 2017](http://www.cs.toronto.edu/~duvenaud/courses/csc412/)
+### Tijmen Tieleman
+- [CSC321 Winter 2014 Introduction to Neural Networks](http://www.cs.toronto.edu/~tijmen/csc321/)
+
 ### Sheila 
 - [CSC2541 Algorithms for Sequential Decision Making by Sheila Winter 2017](http://www.teach.cs.toronto.edu/~csc2542h/fall/slides.html)
 
