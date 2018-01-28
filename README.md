@@ -954,6 +954,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ### Bayesian Networks
 
+#### Variable Elmination
+- **Exploiting Causal Independence in Bayesian Network Inference** (1996) Nevin Lianwen Zhang [[pdf]](https://www.jair.org/media/305/live-305-1566-jair.pdf)
+
 ### Markov Random Fields
 
 ### Factor Graphs
