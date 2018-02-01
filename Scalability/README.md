@@ -24,6 +24,7 @@ Scalability is anything to make myself a programmer that can work with scalabili
 - [Washington CS162 OS with Nachos](https://homes.cs.washington.edu/~tom/nachos/)
 - [Berkeley CS194 Fall 2014](https://www.youtube.com/watch?v=pG6ODynD1hw&list=PLkFD6_40KJIwbUFN4LaTnEeK6gXrdSeFv&index=1)
 - [Carolina Mike Murphy](https://www.youtube.com/watch?v=2Z0yIguC5eU&list=PL56B156F5D73BBD77&index=1)
+- [Bowdoin Sean Barker](https://www.bowdoin.edu/~sbarker/teaching/courses/spring14/lectures.html)
 
 ## Courses (Just notes, no videos)
 
@@ -72,6 +73,8 @@ Scalability is anything to make myself a programmer that can work with scalabili
 
 ### Locks
 - **Wait-free Synchronization** (1991) Maurice [[pdf]](https://dl.acm.org/citation.cfm?id=102808)
+- **Synchronization without contention** (1991) John Mellor [[pdf]](https://dl.acm.org/citation.cfm?id=106999)
+- **Reactive Synchronization Algorithms for Multiprocessors** (1994) Anant Agarwal [[pdf]](https://dl.acm.org/citation.cfm?id=195490)
 
 ### Virtual Memory
 - **Virtual Memory** (1970) Peter Denning [[pdf]](https://dl.acm.org/citation.cfm?id=356573)
