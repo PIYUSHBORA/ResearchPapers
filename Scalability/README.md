@@ -70,6 +70,9 @@ Scalability is anything to make myself a programmer that can work with scalabili
 - **Algorithm and Data Optimization Techniques for Scaling to Massively Threaded Systems** (2012) John Stratton [[pdf]](http://impact.crhc.illinois.edu/shared/papers/algorithm2012.pdf)
 - **Survey of Scheduling Techniques for Addressing Shared Resources in Multicore Processors** (2011) Zhuravlev [[pdf]](http://www.blagodurov.net/files/zhuravlev_csur11.pdf)
 
+### Locks
+- **Wait-free Synchronization** (1991) Maurice [[pdf]](https://dl.acm.org/citation.cfm?id=102808)
+
 ### Virtual Memory
 - **Virtual Memory** (1970) Peter Denning [[pdf]](https://dl.acm.org/citation.cfm?id=356573)
 - **Working Sets Past and Present** (1979) Peter Denning [[pdf]](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1207&context=cstech)
