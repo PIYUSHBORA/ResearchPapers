@@ -535,6 +535,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ## Self Driving Cars
 - [MIT Deep Learning For Self Driving Car Winter 2017](http://selfdrivingcars.mit.edu/)
 
+## Artificial Intelligence
+- [Washington CSEP573 Artificial Intelligence](https://courses.cs.washington.edu/courses/csep573/12au/)
+
 # Courses (Just notes, no videos)
 ## Information Geometry
 - [University of Copenhagen Information Geometry In Learning and Optimization](http://image.diku.dk/MLLab/IG1.php)
