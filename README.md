@@ -517,6 +517,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [CS294 Berkeley Deep Reinforcement Learning by Sergey Levine Spring 2017](http://rll.berkeley.edu/deeprlcoursesp17/#lecture-videos)
 - [CS294 Berkeley Deep Reinforcement Learning by Sergey Levine Fall 2017](http://rll.berkeley.edu/deeprlcourse/#lecture-videos)
 - [RL by John Schulman](https://www.youtube.com/watch?v=aUrX-rP_ss4)
+- [RL by some guy on youtube](https://www.youtube.com/channel/UCZvMhJ3EaNvpacdlMmm3VKA/videos)
 
 ## Convolutional Neural Networks, Computer Vision
 - [CSC231N Andrej Karpathy 2016](https://www.youtube.com/watch?v=g-PvXUjD6qg&index=1&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
