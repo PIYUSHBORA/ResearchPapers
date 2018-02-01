@@ -255,6 +255,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
 - [Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)
+- [3D Reconstruction](https://github.com/openMVG/awesome_3DReconstruction_list)
 ## AI
 - [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 - [Random Forest](https://github.com/kjw0612/awesome-random-forest)
