@@ -248,6 +248,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
 - [Reinforcement Learning](https://github.com/aikorea/awesome-rl)
 - [Multi Agent Reinforcement Learning](https://github.com/LantaoYu/MARL-Papers)
+## Recommendation
+- [Deep Recommendation](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems)
 ## Robotics
 - [Autonomous Driving](https://github.com/takeitallsource/awesome-autonomous-vehicles)
 - [Robotics](https://github.com/Kiloreux/awesome-robotics)
