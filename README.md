@@ -261,10 +261,14 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Random Forest](https://github.com/kjw0612/awesome-random-forest)
 ## Information Retrieval
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval)
+## Concurrency
+- [Distributed Systems](https://github.com/theanalyst/awesome-distributed-systems)
 ## Math
 - [Math](https://github.com/rossant/awesome-math)
 ## Datasets
 - [Datasets](https://github.com/caesar0301/awesome-public-datasets)
+## Code
+- [C++](https://github.com/fffaraz/awesome-cpp)
 <!--------------------------------------------------- RESEARCHERS -------------------------------------------------->
 # Journals
 
