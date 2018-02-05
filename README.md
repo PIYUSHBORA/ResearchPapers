@@ -1052,8 +1052,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Probabilistic Matrix Factorization** (2008, NIPS) Ruslan Salakhutdinov [[pdf]](https://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf)
 - **Bayesian probabilistic matrix factorization using Markov chain Monte Carlo** (2008, ICML) Ruslan Salakhutdinov [[pdf]](https://dl.acm.org/citation.cfm?id=1390267)
 - **Large-Scale Parallel Collaborative Filtering for the Netflix Prize** (2008, AAIM) Yunhong Zhou [[pdf]](https://link.springer.com/content/pdf/10.1007/978-3-540-68880-8_32.pdf)
-- **Matchbox: Large Scale Bayesian Recommendations** (2009, WWW), David Stern [[pdf]](https://www.microsoft.com/en-us/research/publication/matchbox-large-scale-bayesian-recommendations/)
-- **BPR: Bayesian personalized ranking from implicit feedback** (2009, UAI), Steffen Rendle [[pdf]](https://dl.acm.org/citation.cfm?id=1795167)
+- **(BiasedMF) Matrix Factorization Techniques for Recommender Systems** (2009, IEEE), Yehuda Koren [[pdf]](http://ieeexplore.ieee.org/document/5197422/)
+- **Matchbox: Large Scale Bayesian Recommendations** (2009, WWW) David Stern [[pdf]](https://www.microsoft.com/en-us/research/publication/matchbox-large-scale-bayesian-recommendations/)
+- **BPR: Bayesian personalized ranking from implicit feedback** (2009, UAI) Steffen Rendle [[pdf]](https://dl.acm.org/citation.cfm?id=1795167)
+- **LLORMA: Local Low-Rank Matrix Approximation** (2016, ICML) Joonseok Lee [[pdf]](http://jmlr.org/papers/volume17/14-301/14-301.pdf)
 
 #### One Class Matrix Factorization
 - **One-Class Collaborative Filtering** (2008, ICDM) Rong Pan [[pdf]](https://dl.acm.org/citation.cfm?id=1511402)
