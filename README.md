@@ -519,6 +519,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ## Information Theory
 - [Information Theory by Mackay](https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)
+- [EE514 Information Theory I by Jeffrey Bilmes Fall 2013](http://j.ee.washington.edu/~bilmes/classes/ee514a_fall_2013/)
+- [EE515 Information Theory II by Jeffrey Bilmes Winter 2014](http://j.ee.washington.edu/~bilmes/classes/ee515a_winter_2014/)
 
 ## Reinforcement Learning
 - [Deep Reinforcement BootCamp 2017](https://sites.google.com/view/deep-rl-bootcamp/lectures)
@@ -621,6 +623,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ## Probabilistic Generative Models
 - [Efficient Training of Conditional Random Fields by Hannah](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.134.8962&rep=rep1&type=pdf)
 - [Learning Large-Scale Conditional Random Fields by Joseph](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1222&context=dissertations)
+- [Efficient Methods for Learning and Inference in Structured Output Prediction by Ofer Meshi](http://ttic.uchicago.edu/~meshi/papers/Meshi-PhD.pdf)
 
 ## Neural Networks
 - [Improving Neural Networks with Dropout by Nitish](http://www.cs.toronto.edu/~nitish/msc_thesis.pdf)
@@ -749,6 +752,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Maximum Likelihood from Incomplete Data via the EM Algorithm** (1977) Dempster [[pdf]](http://web.mit.edu/6.435/www/Dempster77.pdf)
 - **The Calculation of Posterior Distributions by Data Augmentation** (1987) Martin Tanner [[pdf]](http://www.stat.cmu.edu/~brian/905-2009/all-papers/tanner-wong-1987-with-disc.pdf)
 - **A View of the Em Algorithm that Justifies Incremental, Sparse, and other Variants** (1998) [[pdf]](http://www.cs.toronto.edu/~radford/em.abstract.html)
+- **A Gentle Tutorial of the EM Algorithm and its Application to Parameter Estimation for Gaussian Mixture and Hidden Markov Models** (1998) Jeff Bilmes [[pdf]](http://melodi.ee.washington.edu/people/bilmes/mypapers/em.pdf)
 - **What is the expectation maximization algorithm** (2008) Chuong B Do [[pdf]](https://www.nature.com/articles/nbt1406)
 
 ### Monte Carlo
