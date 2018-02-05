@@ -422,6 +422,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Daphne Koller](http://ai.stanford.edu/users/koller/) 
 - [Michael I Jordan](https://people.eecs.berkeley.edu/~jordan/)
 - [Andrew McCallum](https://people.cs.umass.edu/~mccallum/)
+- [Jeffrey Bilmes](http://melodi.ee.washington.edu/~bilmes/pgs/index.html)
 - [Alireza Makhzani](http://www.alireza.ai/)
 - [Eric Xing](http://www.cs.cmu.edu/~epxing/) 
 
@@ -985,6 +986,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Statistical Inference for Probabilistic Functions of Finite State Markov Chains** (1966) Leonard Baum [[pdf]](https://projecteuclid.org/download/pdf_1/euclid.aoms/1177699147)
 - **A tutorial on hidden Markov models and selected applications in speech recognition** (1989, IEEE) Rabiner [[pdf]](http://ieeexplore.ieee.org/document/18626/)
 - **HMM-Based Word Alignment in Statistical Translation** (1996) Stephan Vogel [[pdf]](https://dl.acm.org/citation.cfm?id=993313)
+- **What HMMs Can Do** (2006) Jeff Bilmes [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.98.2702&rep=rep1&type=pdf)
 
 ### Maximum Entropy Markov Model
 - **Information Theory and Statistical Mechanics** (1957) Jaynes [[pdf]](https://journals.aps.org/pr/abstract/10.1103/PhysRev.106.620)
