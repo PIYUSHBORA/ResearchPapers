@@ -486,7 +486,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [MIT 9.520 Statistical Learning Theory and Applications by Lorenso Rosasco Fall 2015](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O) 
 
 ## Probabilistic Graphical Models
-- [Washington EE512 Advanced Inference in Graphical Models by Jeffrey Bilmes](http://j.ee.washington.edu/~bilmes/classes/ee512a_fall_2014/)
+- [Washington EE512 Advanced Inference in Graphical Models by Jeffrey Bilmes 2014](http://j.ee.washington.edu/~bilmes/classes/ee512a_fall_2014/)
 
 ## Bayesian Learning
 - [University of Notre Dame by Nicholas Zabaras](https://www.zabaras.com/statisticalcomputing)
