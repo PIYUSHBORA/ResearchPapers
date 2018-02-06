@@ -679,38 +679,38 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 # Surveys 
 
 ## Deep Learning
-- **Representation Learning: A Review and New Perspectives** (2012), Yoshua Bengio [[pdf]](https://arxiv.org/abs/1206.5538)
-- **Deep Learning: Method and Applications** (2014), Li Deng [[pdf]](https://www.microsoft.com/en-us/research/publication/deep-learning-methods-and-applications/)
-- **Deep Learning Review** (2015, Nature), Yann LeCunn [[pdf]](https://www.nature.com/articles/nature14539)
-- **Deep Learning in Neural Networks: An Overview** (2015), Jurgen [[pdf]](http://people.idsia.ch/~juergen/deep-learning-overview.html)
-- **On the Origin of Deep Learning** (2017), Haohan Wang [[pdf]](https://arxiv.org/pdf/1702.07800.pdf)
+- **Representation Learning: A Review and New Perspectives** (2012) Yoshua Bengio [[pdf]](https://arxiv.org/abs/1206.5538)
+- **Deep Learning: Method and Applications** (2014) Li Deng [[pdf]](https://www.microsoft.com/en-us/research/publication/deep-learning-methods-and-applications/)
+- **Deep Learning Review** (2015, Nature) Yann LeCunn [[pdf]](https://www.nature.com/articles/nature14539)
+- **Deep Learning in Neural Networks: An Overview** (2015) Jurgen [[pdf]](http://people.idsia.ch/~juergen/deep-learning-overview.html)
+- **On the Origin of Deep Learning** (2017) Haohan Wang [[pdf]](https://arxiv.org/pdf/1702.07800.pdf)
 
 ### Recurrent Neural Networks
 - **A Critical Review of Recurrent Neural Networks for Sequence Learning** Zachary Lipton [[pdf]](https://arxiv.org/abs/1506.00019)
 
 ## Recommendation Systems
 ### Collaborative Filtering
-- **A survey of collaborative filtering techniques** (2009), Xiaoyuan Su [[pdf]](https://dl.acm.org/citation.cfm?id=1722966)
+- **A survey of collaborative filtering techniques** (2009) Xiaoyuan Su [[pdf]](https://dl.acm.org/citation.cfm?id=1722966)
 ### Hybrid 
-- **Hybrid Recommender Systems: Survey and Experiments** (2002), Robin Burke [[pdf]](https://link.springer.com/article/10.1023/A:1021240730564)
+- **Hybrid Recommender Systems: Survey and Experiments** (2002) Robin Burke [[pdf]](https://link.springer.com/article/10.1023/A:1021240730564)
 ### Deep Learning
-- **Deep Learning Based Recommendation: A Survey** (2017), Juntao [[pdf]](https://link.springer.com/chapter/10.1007/978-981-10-4154-9_52)
-- **Deep Learning based Recommender System: A Survey and New Perspectives** (2017), SHUAI ZHANG et al. [[pdf]](https://arxiv.org/pdf/1707.07435.pdf)
+- **Deep Learning Based Recommendation: A Survey** (2017) Juntao [[pdf]](https://link.springer.com/chapter/10.1007/978-981-10-4154-9_52)
+- **Deep Learning based Recommender System: A Survey and New Perspectives** (2017) SHUAI ZHANG et al. [[pdf]](https://arxiv.org/pdf/1707.07435.pdf)
 
-- **Towards Bayesian Deep Learning: A Survey** (2016), Hao Wang et al. [[pdf]](https://arxiv.org/pdf/1604.01662v2.pdf)
+- **Towards Bayesian Deep Learning: A Survey** (2016) Hao Wang et al. [[pdf]](https://arxiv.org/pdf/1604.01662v2.pdf)
 ### Point of Interest Recommendation
-- **Point-of-Interest Recommendation in Location Based Social Networks with Topic and Location Awareness** (2013, SIAM), Bin Liu [[pdf]](http://epubs.siam.org/doi/abs/10.1137/1.9781611972832.44)
-- **Recommendations in Location-based Social Networks: A Survey** (2014), Jie Bao [[pdf]](https://link.springer.com/article/10.1007/s10707-014-0220-8)
-- **A Survey of Point-of-Interest Recommendation in Location-Based Social Networks** (2015, AAAI), Yonghong Yu [[pdf]](https://www.aaai.org/ocs/index.php/WS/AAAIW15/paper/viewFile/10132/10253)
-- **A Survey of Point-of-interest Recommendation in Location-based Social Networks** (2016), Shengling Zhao [[pdf]](https://arxiv.org/abs/1607.00647)
+- **Point-of-Interest Recommendation in Location Based Social Networks with Topic and Location Awareness** (2013, SIAM) Bin Liu [[pdf]](http://epubs.siam.org/doi/abs/10.1137/1.9781611972832.44)
+- **Recommendations in Location-based Social Networks: A Survey** (2014) Jie Bao [[pdf]](https://link.springer.com/article/10.1007/s10707-014-0220-8)
+- **A Survey of Point-of-Interest Recommendation in Location-Based Social Networks** (2015, AAAI) Yonghong Yu [[pdf]](https://www.aaai.org/ocs/index.php/WS/AAAIW15/paper/viewFile/10132/10253)
+- **A Survey of Point-of-interest Recommendation in Location-based Social Networks** (2016) Shengling Zhao [[pdf]](https://arxiv.org/abs/1607.00647)
 
 ## Reinforcement Learning
-- **DEEP REINFORCEMENT LEARNING: AN OVERVIEW** (2017), Yuxi Li [[pdf]](https://arxiv.org/pdf/1701.07274.pdf)
-- **A Brief Survey of Deep Reinforcement Learning** (2016), Kai Arulkumaran et al. [[pdf]](https://arxiv.org/pdf/1708.05866.pdf)
-- **A Survey of Online Experiment Design with the Stochastic Multi-Armed Bandit** (2016), Giuseppe Burtini et al. [[pdf]](https://arxiv.org/pdf/1510.00757v4.pdf)
-- **Reinforcement Learning in Robotics: A Survey** (2013), Jens Kober et al. [[pdf]](http://journals.sagepub.com/doi/abs/10.1177/0278364913495721)
+- **DEEP REINFORCEMENT LEARNING: AN OVERVIEW** (2017) Yuxi Li [[pdf]](https://arxiv.org/pdf/1701.07274.pdf)
+- **A Brief Survey of Deep Reinforcement Learning** (2016) Kai Arulkumaran et al. [[pdf]](https://arxiv.org/pdf/1708.05866.pdf)
+- **A Survey of Online Experiment Design with the Stochastic Multi-Armed Bandit** (2016) Giuseppe Burtini et al. [[pdf]](https://arxiv.org/pdf/1510.00757v4.pdf)
+- **Reinforcement Learning in Robotics: A Survey** (2013) Jens Kober et al. [[pdf]](http://journals.sagepub.com/doi/abs/10.1177/0278364913495721)
 - **Reinforcement Learning: A Tutorial Survey and Recent Advances** (2009) Abhijit Gosavi [[pdf]](http://pubsonline.informs.org/doi/pdf/10.1287/ijoc.1080.0305)
-- **A tutorial survey of reinforcement learning** (1994), S Sathiya [[pdf]](https://link.springer.com/article/10.1007/BF02743935)
+- **A tutorial survey of reinforcement learning** (1994) S Sathiya [[pdf]](https://link.springer.com/article/10.1007/BF02743935)
 
 ## Bandits
 - **A Survey on Contextual Multi-armed Bandits** (2015) Li Zhou [[pdf]](https://arxiv.org/abs/1508.03326) 
@@ -725,22 +725,22 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Variational Inference: A Review for Statisticians** David M Blei [[pdf]](https://arxiv.org/abs/1601.00670)
 
 ## Optimization
-- **Automatic differentiation in machine learning: a survey** (2014), Atilim et al. [[pdf]](https://arxiv.org/abs/1502.05767)
+- **Automatic differentiation in machine learning: a survey** (2014) Atilim et al. [[pdf]](https://arxiv.org/abs/1502.05767)
 
 ## Music Generation
-- **Deep Learning Techniques for Music Generation - A Survey** (2017), Jean et al. [[pdf]](https://arxiv.org/pdf/1709.01620v1.pdf)
+- **Deep Learning Techniques for Music Generation - A Survey** (2017) Jean et al. [[pdf]](https://arxiv.org/pdf/1709.01620v1.pdf)
 
 ## Computer Vision
-- **A Review of Deep Learning Techniques Applied To Semantic Segmentation** (2017), Ali et al. [[pdf]](https://arxiv.org/pdf/1704.06857.pdf)
+- **A Review of Deep Learning Techniques Applied To Semantic Segmentation** (2017) Ali et al. [[pdf]](https://arxiv.org/pdf/1704.06857.pdf)
 
-- **Survey on the attention based RNN model and its applications in computer vision** (2016), Feng Wang et al. [[pdf]](https://arxiv.org/pdf/1601.06823v1.pdf)
+- **Survey on the attention based RNN model and its applications in computer vision** (2016) Feng Wang et al. [[pdf]](https://arxiv.org/pdf/1601.06823v1.pdf)
 
-- **Salient Object Detection: A Survey** (2014), Ali et al. [[pdf]](https://arxiv.org/pdf/1411.5878v4.pdf)
+- **Salient Object Detection: A Survey** (2014) Ali et al. [[pdf]](https://arxiv.org/pdf/1411.5878v4.pdf)
 
-- **Automatic Description Generation from Images: A Survey of Models, Datasets, and Evaluation Measures** (2016), Rafaella Bernardi [[pdf]](https://arxiv.org/abs/1601.03896)
+- **Automatic Description Generation from Images: A Survey of Models, Datasets, and Evaluation Measures** (2016) Rafaella Bernardi [[pdf]](https://arxiv.org/abs/1601.03896)
 
 ## Natural Language Processing
-- **Neural Machine Translation and Sequence-to-sequence Models: A Tutorial** (2017), Graham [[pdf]](https://arxiv.org/pdf/1703.01619v1.pdf)
+- **Neural Machine Translation and Sequence-to-sequence Models: A Tutorial** (2017) Graham [[pdf]](https://arxiv.org/pdf/1703.01619v1.pdf)
 
 
 <!--------------------------------------------------- PAPERS -------------------------------------------------->
@@ -806,7 +806,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ### Variational Inference
 - **A Mean Field Theory Learning Algorithm for Neural Networks** (1987) Carsten Peterson [[pdf]](http://www.complex-systems.com/pdf/01-5-6.pdf)
-- **Keeping the neural networks simple by minimizing the description length of the weights** (1993), Hinton [[pdf]](https://dl.acm.org/citation.cfm?id=168306)
+- **Keeping the neural networks simple by minimizing the description length of the weights** (1993) Hinton [[pdf]](https://dl.acm.org/citation.cfm?id=168306)
 - **Bayesian Methods for Mixtures of Experts** (1995, NIPS) Waterhouse [[pdf]](https://papers.nips.cc/paper/1167-bayesian-methods-for-mixtures-of-experts)
 - **Exploiting Tractable Substructures in Intractable Networks** (1996, NIPS) Saul [[pdf]](https://papers.nips.cc/paper/1155-exploiting-tractable-substructures-in-intractable-networks.pdf)
 - **Mean Field Theory for Sigmoid Belief Networks** (1996, JAIR) Saul [[pdf]](https://arxiv.org/abs/cs/9603102)
@@ -814,10 +814,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **A variational approach to Bayesian logistic regression models and their extensions** (1996) Tommi Jaakkola [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.49.5049)
 - **Factorial Hidden Markov Models** (1997) Ghahramani [[pdf]](http://www.ee.columbia.edu/~sfchang/course/svia-F03/papers/factorial-HMM-97.pdf)
 - **Ensemble Learning for Hidden Markov Models** (1997) Mackay [[pdf]](http://www.inference.org.uk/mackay/ensemblePaper.pdf)
-- **Variational Learning and Bits-Back Coding: An Information-Theoretic View to Bayesian Learning** (2004), Antti Honkela [[pdf]](http://www.cis.hut.fi/cis/projects/bayes/papers/files/Honkela04TNN.pdf)
+- **Variational Learning and Bits-Back Coding: An Information-Theoretic View to Bayesian Learning** (2004) Antti Honkela [[pdf]](http://www.cis.hut.fi/cis/projects/bayes/papers/files/Honkela04TNN.pdf)
 - **An Introduction to Variational Methods for Graphical Models** (1999) Michael Jordan [[pdf]](https://people.eecs.berkeley.edu/~jordan/papers/variational-intro.pdf)
 - **Graphical Models, Exponential Families, and Variational Inference** (2008) Martin Wainwright [[pdf]](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf)
-- **Stochastic Variational Inference** (2013), Matthew Hoffman [[pdf]](https://arxiv.org/abs/1206.7051)
+- **Stochastic Variational Inference** (2013) Matthew Hoffman [[pdf]](https://arxiv.org/abs/1206.7051)
 
 ### Information Geometry
 - **Information-Geometric Optimization Algorithms: A Unifying Picture via Invariance Principles** (2017, JMLR) Yann Ollivier [[pdf]](http://www.jmlr.org/papers/volume18/14-467/14-467.pdf)
@@ -825,7 +825,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ## Deep Learning
 
 ### Training and Optimization
-- **Training very deep networks** (2015), R. Srivastava et al. [[pdf]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
+- **Training very deep networks** (2015) R. Srivastava et al. [[pdf]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
 
 #### Universal Approximators
 - **Multilayer Feedforward Networks are Universal Approximators** (1989) Kurt [[pdf]](https://www.sciencedirect.com/science/article/pii/0893608089900208)
@@ -836,43 +836,43 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Random search for hyper-parameter optimization** (2012) J. Bergstra and Y. Bengio [[pdf]](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a)
 
 #### Activation Function
-- **Rectified Linear Units Improve Restricted Boltzmann Machines** (2010), Vinod [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.165.6419&rep=rep1&type=pdf)
-- **Deep Sparse Rectifier Neural Networks** (2011), Xavier [[pdf]](http://proceedings.mlr.press/v15/glorot11a/glorot11a.pdf)
-- **Rectifier Nonlinearities Improve Neural Network Acoustic Models** (2013), Andrew Maas [[pdf]](https://web.stanford.edu/~awni/papers/relu_hybrid_icml2013_final.pdf)
-- **Maxout Networks** (2013), Ian Goodfellow [[pdf]](https://arxiv.org/abs/1302.4389)
-- **Delving deep into rectifiers: Surpassing human-level performance on imagenet classification** (2015), K. He et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf)
-- **Zero-bias autoencoders and the benefits of co-adapting features** (2015), Kishore [[pdf]](https://arxiv.org/abs/1402.3337)
-- **Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)** (2016), Clevert [[pdf]](https://arxiv.org/abs/1511.07289)
-- **Self-Normalizing Neural Networks** (2017), Gunter [[pdf]](https://arxiv.org/abs/1706.02515)
+- **Rectified Linear Units Improve Restricted Boltzmann Machines** (2010) Vinod [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.165.6419&rep=rep1&type=pdf)
+- **Deep Sparse Rectifier Neural Networks** (2011) Xavier [[pdf]](http://proceedings.mlr.press/v15/glorot11a/glorot11a.pdf)
+- **Rectifier Nonlinearities Improve Neural Network Acoustic Models** (2013) Andrew Maas [[pdf]](https://web.stanford.edu/~awni/papers/relu_hybrid_icml2013_final.pdf)
+- **Maxout Networks** (2013) Ian Goodfellow [[pdf]](https://arxiv.org/abs/1302.4389)
+- **Delving deep into rectifiers: Surpassing human-level performance on imagenet classification** (2015) K. He et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf)
+- **Zero-bias autoencoders and the benefits of co-adapting features** (2015) Kishore [[pdf]](https://arxiv.org/abs/1402.3337)
+- **Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)** (2016) Clevert [[pdf]](https://arxiv.org/abs/1511.07289)
+- **Self-Normalizing Neural Networks** (2017) Gunter [[pdf]](https://arxiv.org/abs/1706.02515)
 
 #### Normalization
-- **A Literature Survey on Domain Adaptation of Statistical Classifiers** (2008), Jiang [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.231.7952&rep=rep1&type=pdf)
-- **Batch Normalization: Accelerating deep network training by reducing internal covariate shift** (2015), S. Loffe and C. Szegedy [[pdf]](http://arxiv.org/pdf/1502.03167)
-- **Layer Normalization** (2016), Jimmy Ba [[pdf]](https://arxiv.org/pdf/1607.06450.pdf?utm_source=sciontist.com&utm_medium=refer&utm_campaign=promote)
+- **A Literature Survey on Domain Adaptation of Statistical Classifiers** (2008) Jiang [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.231.7952&rep=rep1&type=pdf)
+- **Batch Normalization: Accelerating deep network training by reducing internal covariate shift** (2015) S. Loffe and C. Szegedy [[pdf]](http://arxiv.org/pdf/1502.03167)
+- **Layer Normalization** (2016) Jimmy Ba [[pdf]](https://arxiv.org/pdf/1607.06450.pdf?utm_source=sciontist.com&utm_medium=refer&utm_campaign=promote)
 
 #### Optimizer
-- **Adaptive Subgradient Methods for Online Learning and Stochastic Optimization** (2011), John Duchi [[pdf]](http://jmlr.org/papers/v12/duchi11a.html)
-- **ADADELTA: An Adaptive Learning Rate Method** (2012), Matt Zeiler [[pdf]](https://arxiv.org/abs/1212.5701)
-- **No More Pesky Learning Rates** (2013), Tom Schaul [[pdf]](https://arxiv.org/pdf/1206.1106.pdf)
-- **On the importance of initialization and momentum in deep learning** (2013), Ilya Sutskever [[pdf]](http://proceedings.mlr.press/v28/sutskever13.pdf)
-- **RMSProp CSC321 Lecture 6e** (2014), Hinton [[pdf]](https://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)
-- **Adam: A method for stochastic optimization** (2014), D. Kingma and J. Ba [[pdf]](http://arxiv.org/pdf/1412.6980)
+- **Adaptive Subgradient Methods for Online Learning and Stochastic Optimization** (2011) John Duchi [[pdf]](http://jmlr.org/papers/v12/duchi11a.html)
+- **ADADELTA: An Adaptive Learning Rate Method** (2012) Matt Zeiler [[pdf]](https://arxiv.org/abs/1212.5701)
+- **No More Pesky Learning Rates** (2013) Tom Schaul [[pdf]](https://arxiv.org/pdf/1206.1106.pdf)
+- **On the importance of initialization and momentum in deep learning** (2013) Ilya Sutskever [[pdf]](http://proceedings.mlr.press/v28/sutskever13.pdf)
+- **RMSProp CSC321 Lecture 6e** (2014) Hinton [[pdf]](https://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)
+- **Adam: A method for stochastic optimization** (2014) D. Kingma and J. Ba [[pdf]](http://arxiv.org/pdf/1412.6980)
 
 #### Regularization
-- **Improving neural networks by preventing co-adaptation of feature detectors** (2012), G. Hinton et al. [[pdf]](http://arxiv.org/pdf/1207.0580.pdf)
-- **Dropout: A simple way to prevent neural networks from overfitting** (2014), N. Srivastava et al. [[pdf]](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
+- **Improving neural networks by preventing co-adaptation of feature detectors** (2012) G. Hinton et al. [[pdf]](http://arxiv.org/pdf/1207.0580.pdf)
+- **Dropout: A simple way to prevent neural networks from overfitting** (2014) N. Srivastava et al. [[pdf]](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
 
 #### Saddle Point
-- **Identifying and attacking the saddle point problem in high-dimensional non-convex optimization** (2014), Dauphin [[pdf]](https://arxiv.org/abs/1406.2572)
-- **The Loss Surfaces of Multilayer Networks** (2014), Choromanska [[pdf]](https://arxiv.org/abs/1412.0233)
+- **Identifying and attacking the saddle point problem in high-dimensional non-convex optimization** (2014) Dauphin [[pdf]](https://arxiv.org/abs/1406.2572)
+- **The Loss Surfaces of Multilayer Networks** (2014) Choromanska [[pdf]](https://arxiv.org/abs/1412.0233)
 
 ### AutoEncoders
-- **Autoencoders, Minimum Description Length and Helmholtz Free Energy** (1993), Geoffrey Hinton [[pdf]](https://papers.nips.cc/paper/798-autoencoders-minimum-description-length-and-helmholtz-free-energy)
-- **. Reducing the dimensionality of data with neural networks** (2006), Geoffrey Hinton [[pdf]](https://www.cs.toronto.edu/~hinton/science.pdf)
+- **Autoencoders, Minimum Description Length and Helmholtz Free Energy** (1993) Geoffrey Hinton [[pdf]](https://papers.nips.cc/paper/798-autoencoders-minimum-description-length-and-helmholtz-free-energy)
+- **. Reducing the dimensionality of data with neural networks** (2006) Geoffrey Hinton [[pdf]](https://www.cs.toronto.edu/~hinton/science.pdf)
 
 #### Denoising AutoEncoders
-- **Extracting and composing robust features with denoising autoencoders** (2008), Pascal Vincent [[pdf]](https://dl.acm.org/citation.cfm?id=1390294)
-- **Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion** (2010), Pascal Vincent [[pdf]](http://www.jmlr.org/papers/v11/vincent10a.html)
+- **Extracting and composing robust features with denoising autoencoders** (2008) Pascal Vincent [[pdf]](https://dl.acm.org/citation.cfm?id=1390294)
+- **Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion** (2010) Pascal Vincent [[pdf]](http://www.jmlr.org/papers/v11/vincent10a.html)
 
 ### Bayesian Neural Networks
 - **Bayesian Interpolation** (1992) David Mackay [[pdf]](https://authors.library.caltech.edu/13792/1/MACnc92a.pdf)
@@ -896,12 +896,12 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Classification using Discriminative Restricted Boltzmann Machines** (2008) Hugo Larochelle [[pdf]](http://machinelearning.org/archive/icml2008/papers/601.pdf)
 - **Geometry of the restricted Boltzmann machine** (2009) Maria Angelica Cueto [[pdf]](https://arxiv.org/abs/0908.4425)
 - **An Introduction to Restricted Boltzmann Machines** (2012) Asja [[pdf]](https://link.springer.com/chapter/10.1007%2F978-3-642-33275-3_2?LI=true)
-- **Training restricted Boltzmann machines: An introduction** (2014), Asja [[pdf]](http://www.sciencedirect.com/science/article/pii/S0031320313002495)
+- **Training restricted Boltzmann machines: An introduction** (2014) Asja [[pdf]](http://www.sciencedirect.com/science/article/pii/S0031320313002495)
 
 #### Deep Belief Networks
-- **A fast learning algorithm for deep belief nets.** (2006), Geoffrey Hinton [[pdf]](https://www.ncbi.nlm.nih.gov/pubmed/16764513)
-- **Greedy Layer-Wise Training of Deep Networks** (2006), Yoshua Bengio [[pdf]](https://papers.nips.cc/paper/3048-greedy-layer-wise-training-of-deep-networks)
-- **Sparse feature learning for deep belief networks** (2007), Marc Ranzato [[pdf]](https://dl.acm.org/citation.cfm?id=2981711)
+- **A fast learning algorithm for deep belief nets.** (2006) Geoffrey Hinton [[pdf]](https://www.ncbi.nlm.nih.gov/pubmed/16764513)
+- **Greedy Layer-Wise Training of Deep Networks** (2006) Yoshua Bengio [[pdf]](https://papers.nips.cc/paper/3048-greedy-layer-wise-training-of-deep-networks)
+- **Sparse feature learning for deep belief networks** (2007) Marc Ranzato [[pdf]](https://dl.acm.org/citation.cfm?id=2981711)
 
 ### Deep Boltzmann Machines
 - **Deep Boltzmann Machines** (2009) Ruslan Salakhutdinov [[pdf]](http://proceedings.mlr.press/v5/salakhutdinov09a/salakhutdinov09a.pdf)
@@ -942,21 +942,21 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **On the difficulty of training recurrent neural networks** (2012) Pascanu [[pdf]](https://arxiv.org/abs/1211.5063)
 - **Joint Language and Translation Modelling with Recurrent Neural Networks** (2013) Auli [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/EMNLP2013RNNMT.pdf)
 - **Recurrent Continuous Translation Models** (2013) Klachbrenner [[pdf]](http://www.aclweb.org/anthology/D13-1176)
-- **Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation** (2014), Kyunghyun Cho [[pdf]](https://arxiv.org/pdf/1406.1078.pdf)
+- **Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation** (2014) Kyunghyun Cho [[pdf]](https://arxiv.org/pdf/1406.1078.pdf)
 
 #### Long Short Term Memory
-- **LONG SHORT-TERM MEMORY** (1991), Sepp Hochreiter [[pdf]](http://www.bioinf.jku.at/publications/older/2604.pdf)
-- **Long Short-Term Memory** (1997), Sepp Hochreiter [[pdf]](https://www.mitpressjournals.org/doi/abs/10.1162/neco.1997.9.8.1735)
-- **Learning to Forget:Continual Prediction with LSTM** (1999), Felix et. al [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=4470EA6066E8E851EA63E0100978D6B5?doi=10.1.1.55.5709&rep=rep1&type=pdf)
+- **LONG SHORT-TERM MEMORY** (1991) Sepp Hochreiter [[pdf]](http://www.bioinf.jku.at/publications/older/2604.pdf)
+- **Long Short-Term Memory** (1997) Sepp Hochreiter [[pdf]](https://www.mitpressjournals.org/doi/abs/10.1162/neco.1997.9.8.1735)
+- **Learning to Forget:Continual Prediction with LSTM** (1999) Felix et. al [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=4470EA6066E8E851EA63E0100978D6B5?doi=10.1.1.55.5709&rep=rep1&type=pdf)
 - **Recurrent nets that time and count** (2000, IEEE) F.A. Gers [[pdf]](http://ieeexplore.ieee.org/abstract/document/861302/)
-- **LSTM: A Search Space Odyssey** (2015), Klaus Greff [[pdf]](https://arxiv.org/abs/1503.04069)
+- **LSTM: A Search Space Odyssey** (2015) Klaus Greff [[pdf]](https://arxiv.org/abs/1503.04069)
 
 #### Gated Recurrent Unit
 - **On the Properties of Neural Machine Translation: Encoder-Decoder Approaches** (2014) Kyunghyun Cho [[pdf]]
 - **Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling** (2014, NIPS) Junyoung Chung [[pdf]](https://arxiv.org/abs/1412.3555)
 
 #### Bi-directional Recurrent Neural Network
-- **Bidirectional Recurrent Neural Networks** (1997), Mike Schuster [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.331.9441&rep=rep1&type=pdf)
+- **Bidirectional Recurrent Neural Networks** (1997) Mike Schuster [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.331.9441&rep=rep1&type=pdf)
 
 #### Sequence to Sequence
 - **Sequence to Sequence Learning with Neural Networks** (2014) Sutskever [[pdf]](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
@@ -979,12 +979,12 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Probabilistic Topic Models** (2012) David Blei [[pdf]](https://dl.acm.org/citation.cfm?id=2133826)
 
 ### Bayesian Nonparametrics
-- **Hierarchical Bayesian Nonparametric Models with Applications** (2009), Yee Whye Teh [[pdf]](https://www.stats.ox.ac.uk/~teh/research/npbayes/TehJor2010a.pdf)
+- **Hierarchical Bayesian Nonparametric Models with Applications** (2009) Yee Whye Teh [[pdf]](https://www.stats.ox.ac.uk/~teh/research/npbayes/TehJor2010a.pdf)
 
 ## Probabilistic Graphical Models
 - **Structured Learning and Prediction in Computer Vision** (2011) Sebastian [[pdf]](http://www.nowozin.net/sebastian/papers/nowozin2011structured-tutorial.pdf)
 - **A Comparison of Algorithms for Inference and Learning in Probabilistic Graphical Models** (2005, PAMI) Brendan Frey [[pdf]](http://www.psi.toronto.edu/~frey/ece1510/ReviewPaper.pdf)
-- **Statistical inference with probabilistic graphical models** (2014), Angelique [[pdf]](https://arxiv.org/abs/1409.4928)
+- **Statistical inference with probabilistic graphical models** (2014) Angelique [[pdf]](https://arxiv.org/abs/1409.4928)
 
 ### Bayesian Networks
 
@@ -1021,36 +1021,36 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Classical Probabilistic Models and Conditional Random Fields** (2007) Roman Klinger [[pdf]](http://www.eng.utah.edu/~cs6961/papers/klinger-crf-intro.pdf)
 
 ## Reinforcement Learning
-- **Learning to predict by the methods of temporal differences** (1988), Richard Sutton [[pdf]](https://link.springer.com/article/10.1023/A:1022633531479)
-- **Reinforcement Learning Algorithms as Function Approximators** (1989), Richard Sutton 
+- **Learning to predict by the methods of temporal differences** (1988) Richard Sutton [[pdf]](https://link.springer.com/article/10.1023/A:1022633531479)
+- **Reinforcement Learning Algorithms as Function Approximators** (1989) Richard Sutton 
 
 ### Deep Reinforcement Learning
-- **Playing Atari with Deep Reinforcement Learning** (2012), Volodymyr Mnih et al. [[pdf]](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
-- **Human-level control through deep reinforcement learning** (2015), Volodymyr Mnih et al. [[pdf]](https://www.nature.com/nature/journal/v518/n7540/full/nature14236.html)
-- **Deep Reinforcement Learning with Double Q-learning** (2015), van Hasselt et al. [[pdf]](https://arxiv.org/pdf/1509.06461.pdf)
-- **Prioritized Experience Replay** (2016), Tom Schaul et al. [[pdf]](https://arxiv.org/abs/1511.05952)
-- **Dueling Network Architectures for Deep Reinforcement Learning** (2016), Ziyu Wang et al. [[pdf]](https://arxiv.org/abs/1511.06581)
+- **Playing Atari with Deep Reinforcement Learning** (2012) Volodymyr Mnih et al. [[pdf]](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
+- **Human-level control through deep reinforcement learning** (2015) Volodymyr Mnih et al. [[pdf]](https://www.nature.com/nature/journal/v518/n7540/full/nature14236.html)
+- **Deep Reinforcement Learning with Double Q-learning** (2015) van Hasselt et al. [[pdf]](https://arxiv.org/pdf/1509.06461.pdf)
+- **Prioritized Experience Replay** (2016) Tom Schaul et al. [[pdf]](https://arxiv.org/abs/1511.05952)
+- **Dueling Network Architectures for Deep Reinforcement Learning** (2016) Ziyu Wang et al. [[pdf]](https://arxiv.org/abs/1511.06581)
 
 ### Temporal Differences
-- **Learning to Predict by the Methods of Temporal Differences** (1988), Richard Sutton [[pdf]](https://link.springer.com/article/10.1023/A:1022633531479)
+- **Learning to Predict by the Methods of Temporal Differences** (1988) Richard Sutton [[pdf]](https://link.springer.com/article/10.1023/A:1022633531479)
 
 ### Policy Gradient
-- **Simple statistical gradient-following algorithms for connectionist reinforcement learning** (1992), Ronald Williams [[pdf]](https://link.springer.com/article/10.1007/BF00992696)
-- **(REINFORCE) Policy Gradient Methods for Reinforcement Learning With Function Approximation** (2000), Richard Sutton et al. [[pdf]](https://homes.cs.washington.edu/~todorov/courses/amath579/reading/PolicyGradient.pdf)
-- **A Natural Policy Gradient** (2001), Kakade et al. [[pdf]](https://papers.nips.cc/paper/2073-a-natural-policy-gradient.pdf)
-- **Approximately Approximate Optimal Reinforcement Learning** (2002), Sham Kakade [[pdf]](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf)
-- **Variance Reduction Techniques for Gradient Estimates in Reinforcement Learning** (2004), Greensmith et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.8286&rep=rep1&type=pdf)
-- **Natural Actor Critic** (2007), Peter et al. [[pdf]](http://www.kyb.tuebingen.mpg.de/fileadmin/user_upload/files/publications/attachments/NEUCOM-D-07-00618-1_%5b0%5d.pdf)
-- **Relative Entropy Policy Search** (2011), Peter et al. [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/viewFile/1851/2264)
-- **High-Dimensional Continuous Control Using Generalized Advantage Estimation** (2015), Schulman et al. [[pdf]](https://arxiv.org/abs/1506.02438)
-- **Trust Region Policy Optimization** (2017), Schulman et al. [[pdf]](https://arxiv.org/abs/1502.05477)
+- **Simple statistical gradient-following algorithms for connectionist reinforcement learning** (1992) Ronald Williams [[pdf]](https://link.springer.com/article/10.1007/BF00992696)
+- **(REINFORCE) Policy Gradient Methods for Reinforcement Learning With Function Approximation** (2000) Richard Sutton et al. [[pdf]](https://homes.cs.washington.edu/~todorov/courses/amath579/reading/PolicyGradient.pdf)
+- **A Natural Policy Gradient** (2001) Kakade et al. [[pdf]](https://papers.nips.cc/paper/2073-a-natural-policy-gradient.pdf)
+- **Approximately Approximate Optimal Reinforcement Learning** (2002) Sham Kakade [[pdf]](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf)
+- **Variance Reduction Techniques for Gradient Estimates in Reinforcement Learning** (2004) Greensmith et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.8286&rep=rep1&type=pdf)
+- **Natural Actor Critic** (2007) Peter et al. [[pdf]](http://www.kyb.tuebingen.mpg.de/fileadmin/user_upload/files/publications/attachments/NEUCOM-D-07-00618-1_%5b0%5d.pdf)
+- **Relative Entropy Policy Search** (2011) Peter et al. [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/viewFile/1851/2264)
+- **High-Dimensional Continuous Control Using Generalized Advantage Estimation** (2015) Schulman et al. [[pdf]](https://arxiv.org/abs/1506.02438)
+- **Trust Region Policy Optimization** (2017) Schulman et al. [[pdf]](https://arxiv.org/abs/1502.05477)
 
 ### Actor Critic 
-- **A Mathematical Analysis of Actor-Critic Architectures for Learning Optimal Controls Through Incremental Dynamic Programming** (1990), Ronald Williams [[pdf]](http://www.leemon.com/papers/1990wb.pdf)
+- **A Mathematical Analysis of Actor-Critic Architectures for Learning Optimal Controls Through Incremental Dynamic Programming** (1990) Ronald Williams [[pdf]](http://www.leemon.com/papers/1990wb.pdf)
 
 ## Active Learning
-- **Information-Based Objective Functions for Active Data Selection** (1992), David Mackay et al. [[pdf]](https://authors.library.caltech.edu/13795/1/MACnc92c.pdf)
-- **Automated Curriculum Learning for Neural Networks** (2016), Alex Graves et al. [[pdf]](https://arxiv.org/abs/1704.03003)
+- **Information-Based Objective Functions for Active Data Selection** (1992) David Mackay et al. [[pdf]](https://authors.library.caltech.edu/13795/1/MACnc92c.pdf)
+- **Automated Curriculum Learning for Neural Networks** (2016) Alex Graves et al. [[pdf]](https://arxiv.org/abs/1704.03003)
 
 ## Exploration vs Exhaustation 
 
@@ -1064,8 +1064,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Recommender Systems: Missing Data and Statistical Model Estimation** (2011, AAAI) Marlin [[pdf]](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI11/paper/view/3078)
 
 ### Linear
-- **(LREC) On the Effectiveness of Linear Models for One-Class Collaborative Filtering** (2016, AAAI), Sedhain [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12333)
-- **(Linear Flow) Practical linear models for large-scale one-class collaborative filtering** (2016, IJCAI), Sedhain [[pdf]](https://dl.acm.org/citation.cfm?id=3061158)
+- **(LREC) On the Effectiveness of Linear Models for One-Class Collaborative Filtering** (2016, AAAI) Sedhain [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12333)
+- **(Linear Flow) Practical linear models for large-scale one-class collaborative filtering** (2016, IJCAI) Sedhain [[pdf]](https://dl.acm.org/citation.cfm?id=3061158)
 
 ### Social Collaborative Filtering
 - **New objective functions for social collaborative filtering** (2012, WWW) Joseph Noel [[pdf]](https://dl.acm.org/citation.cfm?id=2187952)
@@ -1076,7 +1076,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Probabilistic Matrix Factorization** (2008, NIPS) Ruslan Salakhutdinov [[pdf]](https://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf)
 - **Bayesian probabilistic matrix factorization using Markov chain Monte Carlo** (2008, ICML) Ruslan Salakhutdinov [[pdf]](https://dl.acm.org/citation.cfm?id=1390267)
 - **Large-Scale Parallel Collaborative Filtering for the Netflix Prize** (2008, AAIM) Yunhong Zhou [[pdf]](https://link.springer.com/content/pdf/10.1007/978-3-540-68880-8_32.pdf)
-- **(BiasedMF) Matrix Factorization Techniques for Recommender Systems** (2009, IEEE), Yehuda Koren [[pdf]](http://ieeexplore.ieee.org/document/5197422/)
+- **(BiasedMF) Matrix Factorization Techniques for Recommender Systems** (2009, IEEE) Yehuda Koren [[pdf]](http://ieeexplore.ieee.org/document/5197422/)
 - **Matchbox: Large Scale Bayesian Recommendations** (2009, WWW) David Stern [[pdf]](https://www.microsoft.com/en-us/research/publication/matchbox-large-scale-bayesian-recommendations/)
 - **BPR: Bayesian personalized ranking from implicit feedback** (2009, UAI) Steffen Rendle [[pdf]](https://dl.acm.org/citation.cfm?id=1795167)
 - **LLORMA: Local Low-Rank Matrix Approximation** (2016, ICML) Joonseok Lee [[pdf]](http://jmlr.org/papers/volume17/14-301/14-301.pdf)
@@ -1085,21 +1085,21 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **One-Class Collaborative Filtering** (2008, ICDM) Rong Pan [[pdf]](https://dl.acm.org/citation.cfm?id=1511402)
 
 ### Deep Neural Networks
-- **Deep content-based music recommendation** (2013, NIPS), Aaron Van den Oord [[pdf]](https://papers.nips.cc/paper/5004-deep-content-based-music-recommendation)
-- **Deep Neural Networks for YouTube Recommendations** (2016, RecSys), Paul Covington [[pdf]](https://research.google.com/pubs/pub45530.html)
-- **Wide & Deep Learning for Recommender Systems** (2016, RecSys), Cheng [[pdf]](https://arxiv.org/abs/1606.07792)
-- **Embedding-based News Recommendation for Millions of Users** (2017, RecSys), Shumpei Okura [[pdf]](http://www.kdd.org/kdd2017/papers/view/embedding-based-news-recommendation-for-millions-of-users)
+- **Deep content-based music recommendation** (2013, NIPS) Aaron Van den Oord [[pdf]](https://papers.nips.cc/paper/5004-deep-content-based-music-recommendation)
+- **Deep Neural Networks for YouTube Recommendations** (2016, RecSys) Paul Covington [[pdf]](https://research.google.com/pubs/pub45530.html)
+- **Wide & Deep Learning for Recommender Systems** (2016, RecSys) Cheng [[pdf]](https://arxiv.org/abs/1606.07792)
+- **Embedding-based News Recommendation for Millions of Users** (2017, RecSys) Shumpei Okura [[pdf]](http://www.kdd.org/kdd2017/papers/view/embedding-based-news-recommendation-for-millions-of-users)
 
 ### Restricted Boltzmann Machines
-- **Restricted Boltzmann machines for collaborative filtering** (2007, ICML), Ruslan Salakhutdinov [[pdf]](https://dl.acm.org/citation.cfm?id=1273596)
-- **Improving Content-based and Hybrid Music Recommendation using Deep Learning** (2014, MM), Xinxi Wang [[pdf]](https://dl.acm.org/citation.cfm?id=2654940)
+- **Restricted Boltzmann machines for collaborative filtering** (2007, ICML) Ruslan Salakhutdinov [[pdf]](https://dl.acm.org/citation.cfm?id=1273596)
+- **Improving Content-based and Hybrid Music Recommendation using Deep Learning** (2014, MM) Xinxi Wang [[pdf]](https://dl.acm.org/citation.cfm?id=2654940)
 
 ### AutoEncoder 
-- **Collaborative Deep Learning for Recommender Systems** (2015, KDD), Hao Wang [[pdf]](http://www.wanghao.in/CDL.htm)
-- **AutoRec: Autoencoders Meet Collaborative Filtering** (2015, WWW), Sedhain [[pdf]](http://users.cecs.anu.edu.au/~u5098633/papers/www15.pdf)
+- **Collaborative Deep Learning for Recommender Systems** (2015, KDD) Hao Wang [[pdf]](http://www.wanghao.in/CDL.htm)
+- **AutoRec: Autoencoders Meet Collaborative Filtering** (2015, WWW) Sedhain [[pdf]](http://users.cecs.anu.edu.au/~u5098633/papers/www15.pdf)
 
 #### Denoising AutoEncoders
-- **(CDAE) Collaborative Denoising Auto-Encoders for Top-N Recommender Systems** (2016, WSDM), Yao Wu [[pdf]](https://dl.acm.org/citation.cfm?id=2835837)
+- **(CDAE) Collaborative Denoising Auto-Encoders for Top-N Recommender Systems** (2016, WSDM) Yao Wu [[pdf]](https://dl.acm.org/citation.cfm?id=2835837)
 
 ### Recurrent Neural Networks 
 - **Session-based Recommendations with Recurrent Neural Networks** (2016, ICLR) Balazs Hidasi [[pdf]](https://arxiv.org/abs/1511.06939)
@@ -1112,13 +1112,13 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems** (2015, WWW) Ali Elkahk [[pdf]](https://dl.acm.org/citation.cfm?id=2741667)
 
 ### Autoregressive Networks
-- **(CF-NADE) A Neural Autoregressive Approach to Collaborative Filtering** (2016, ICML), Yin Zheng [[pdf]](https://arxiv.org/abs/1605.09477)
+- **(CF-NADE) A Neural Autoregressive Approach to Collaborative Filtering** (2016, ICML) Yin Zheng [[pdf]](https://arxiv.org/abs/1605.09477)
 
 ### Something To Vec
-- **(prod2vec) E-commerce in Your Inbox: Product Recommendations at ScaleA** (2015, KDD), Mihajlo [[pdf]](https://dl.acm.org/citation.cfm?id=2788627)
-- **Meta-Prod2Vec: Product Embeddings Using Side-Information for Recommendation** (2016, RecSys), Flavian [[pdf]](https://dl.acm.org/citation.cfm?id=2959160)
-- **Item2Vec: Neural Item Embedding for Collaborative Filtering** (2016), Oren [[pdf]](https://arxiv.org/abs/1603.04259)
-- **node2vec: Scalable Feature Learning for Networks** (2016, KDD), Aditya [[pdf]](https://snap.stanford.edu/node2vec/)
+- **(prod2vec) E-commerce in Your Inbox: Product Recommendations at ScaleA** (2015, KDD) Mihajlo [[pdf]](https://dl.acm.org/citation.cfm?id=2788627)
+- **Meta-Prod2Vec: Product Embeddings Using Side-Information for Recommendation** (2016, RecSys) Flavian [[pdf]](https://dl.acm.org/citation.cfm?id=2959160)
+- **Item2Vec: Neural Item Embedding for Collaborative Filtering** (2016) Oren [[pdf]](https://arxiv.org/abs/1603.04259)
+- **node2vec: Scalable Feature Learning for Networks** (2016, KDD) Aditya [[pdf]](https://snap.stanford.edu/node2vec/)
 
 ### Multi-domain Collaborative Filtering 
 - **Multi-Domain Collaborative Filtering** (2010, UAI) Yu Zhang [[pdf]](https://arxiv.org/abs/1203.3535)
@@ -1160,21 +1160,21 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ## Computer Vision
 
 ### Object Detection
-- **Deep Neural Networks for Object Detection** (2013), Christian Szegedy et al. [[pdf]](https://papers.nips.cc/paper/5207-deep-neural-networks-for-object-detection.pdf) 
-- **OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks** (2013), Pierre [[pdf]](https://arxiv.org/abs/1312.6229)
-- **Rich feature hierarchies for accurate object detection and semantic segmentation** (2013), Ross Girshick [[pdf]](https://arxiv.org/abs/1311.2524)
-- **Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition** (2013), Kaiming He [[pdf]](https://arxiv.org/abs/1406.4729)
-- **Fast R-CNN** (2015), Kaiming He [[pdf]](https://arxiv.org/abs/1504.08083) 
-- **You Only Look Once: Unified, Real-Time Object Detection** (2015), Joseph Redmon [[pdf]](https://arxiv.org/abs/1506.02640)
-- **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks** (2015), Shaoqing Ren [[pdf]](https://arxiv.org/abs/1506.01497)
-- **R-FCN: Object Detection via Region-based Fully Convolutional Networks** (2016), Jifeng Dai [[pdf]](https://arxiv.org/abs/1605.06409)
-- **SSD: Single Shot MultiBox Detector** (2016), Wei Liu [[pdf]](https://arxiv.org/abs/1512.02325)
-- **Mask R-CNN** (2017), Kaiming He [[pdf]](https://arxiv.org/abs/1703.06870)
+- **Deep Neural Networks for Object Detection** (2013) Christian Szegedy et al. [[pdf]](https://papers.nips.cc/paper/5207-deep-neural-networks-for-object-detection.pdf) 
+- **OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks** (2013) Pierre [[pdf]](https://arxiv.org/abs/1312.6229)
+- **Rich feature hierarchies for accurate object detection and semantic segmentation** (2013) Ross Girshick [[pdf]](https://arxiv.org/abs/1311.2524)
+- **Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition** (2013) Kaiming He [[pdf]](https://arxiv.org/abs/1406.4729)
+- **Fast R-CNN** (2015) Kaiming He [[pdf]](https://arxiv.org/abs/1504.08083) 
+- **You Only Look Once: Unified, Real-Time Object Detection** (2015) Joseph Redmon [[pdf]](https://arxiv.org/abs/1506.02640)
+- **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks** (2015) Shaoqing Ren [[pdf]](https://arxiv.org/abs/1506.01497)
+- **R-FCN: Object Detection via Region-based Fully Convolutional Networks** (2016) Jifeng Dai [[pdf]](https://arxiv.org/abs/1605.06409)
+- **SSD: Single Shot MultiBox Detector** (2016) Wei Liu [[pdf]](https://arxiv.org/abs/1512.02325)
+- **Mask R-CNN** (2017) Kaiming He [[pdf]](https://arxiv.org/abs/1703.06870)
 
 ### Image Segmentation
 
 ### Scene Labelling
-- **Recurrent Convolutional Neural Networks for Scene Labeling** (2014, PMLR), Pedro Pinheiro [[pdf]](http://proceedings.mlr.press/v32/pinheiro14.html)
+- **Recurrent Convolutional Neural Networks for Scene Labeling** (2014, PMLR) Pedro Pinheiro [[pdf]](http://proceedings.mlr.press/v32/pinheiro14.html)
 
 ### Image Description Generation
 - **Multimodal Neural Language Models** (2014, PMLR) Ryan Kiros [[pdf]](http://proceedings.mlr.press/v32/kiros14.html)
@@ -1184,7 +1184,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Deep Visual-Semantic Alignments for Generating Image Descriptions** (2015, CVPR) Andrej Karpathy [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.html)
 
 ### Fine Art
-- **A Neural Algorithm of Artistic Style** (2015), Leon A. Gatys [[pdf]](https://arxiv.org/abs/1508.06576)
+- **A Neural Algorithm of Artistic Style** (2015) Leon A. Gatys [[pdf]](https://arxiv.org/abs/1508.06576)
 
 ## Natural Language Processing
 
