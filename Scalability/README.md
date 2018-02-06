@@ -99,6 +99,8 @@ Scalability is anything to make myself a programmer that can work with scalabili
 ## Researchers 
 ## Video Lectures
 
+- [Waterloo CS436 Distributed Computer Systems by Keshav 2014](https://www.youtube.com/watch?v=w8KFPWkK0bI&index=1&list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
+
 ## Courses (Just notes, no videos)
 ### Stanford
 - [Stanford CS347 Parallel and Distributed Data Management Spring 2016](http://web.stanford.edu/class/cs347/index.html)

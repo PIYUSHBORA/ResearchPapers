@@ -485,8 +485,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [CMU 10702 Statistical Machine Learning by Larry Wasserman Spring 2017](http://www.stat.cmu.edu/~ryantibs/statml/)
 - [CMU 10715 Advanced Introduction to Machine Learning by Alexander Smola Fall 2015](http://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/)
 - [MIT 9.520 Statistical Learning Theory and Applications by Lorenso Rosasco Fall 2015](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O) 
+- [Waterloo STAT 441 Classification by Ali Ghodsi](https://www.youtube.com/watch?v=VR5ZRr4QOYk&list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG)
 
 ## Probabilistic Graphical Models
+- [Daphne Koller Coursera PGM Course](https://www.youtube.com/watch?v=WPSQfOkb1M8&list=PL50E6E80E8525B59C)
+- [CMU 10708 Probabilistic Graphical Models by Eric Xing 2014](https://www.youtube.com/watch?v=lcVJ_zsynMc&list=PLI3nIOD-p5aoXrOzTd1P6CcLavu9rNtC-&index=1)
 - [Washington EE512 Advanced Inference in Graphical Models by Jeffrey Bilmes 2014](http://j.ee.washington.edu/~bilmes/classes/ee512a_fall_2014/)
 
 ## Bayesian Learning
@@ -498,6 +501,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ## Neural Networks
 - [CSC321 Coursera by Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)
+- [University Sherbrooke Neural Networks by Hugo Larochelle](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
 - [Deep Learning Summer School Montreal 2015](http://videolectures.net/deeplearning2015_montreal/)
 - [Deep Learning Summer School Montreal 2016](http://videolectures.net/deeplearning2016_montreal/)
 - [University of Amsterdam Deep Learning Course](http://uvadlc.github.io/) 
@@ -513,10 +517,14 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ## Statistics 
 - [CMU 36705 2016](https://www.youtube.com/watch?v=uonMnn7BLX0&list=PLcW8xNfZoh7eI7KSWneVWq-7wr8ffRtHF)
+- [Waterloo STAT443 Data Visualization by Ali Ghodsi](https://www.youtube.com/watch?v=L-pQtGm3VS8&list=PLehuLRPyt1HzQoXEhtNuYTmd0aNQvtyAK&index=1)
+- [Computational Linear Algebra](https://www.youtube.com/watch?v=8iGzBMboA0I&index=1&list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY)
 
 ## Convex Optimization
-- [EE364a Convex Optimization 1 by Stephen Boyd 2008](https://stanford.edu/class/ee364a/videos.html)
-- [EE364b Convex Optimization 2 by Stephen Boyd 2008](https://stanford.edu/class/ee364b/videos.html)
+- [Stanford EE364a Convex Optimization 1 by Stephen Boyd 2008](https://stanford.edu/class/ee364a/videos.html)
+- [Stanford EE364b Convex Optimization 2 by Stephen Boyd 2008](https://stanford.edu/class/ee364b/videos.html)
+- [Stanford Convex Optimization Stephen Boyd 2008](https://www.youtube.com/watch?v=McLq1hEq3UY&list=PL7A3953FD9E6F4912)
+- [CMU 10-725 Optimization by Geoff Gordon](https://www.youtube.com/playlist?list=PL7y-1rk2cCsDOv91McLOnV4kExFfTB7dU)
 
 ## Information Theory
 - [Information Theory by Mackay](https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)
@@ -532,8 +540,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [RL by some guy on youtube](https://www.youtube.com/channel/UCZvMhJ3EaNvpacdlMmm3VKA/videos)
 
 ## Convolutional Neural Networks, Computer Vision
-- [CSC231N Andrej Karpathy 2016](https://www.youtube.com/watch?v=g-PvXUjD6qg&index=1&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
-- [CSC231N FeifeiLi 2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+- [Stanford CSC231N by Andrej Karpathy 2016](https://www.youtube.com/watch?v=g-PvXUjD6qg&index=1&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
+- [Stanford CSC231N by FeifeiLi 2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+- [Machine Learning for Computer Vision by Rudolph](https://www.youtube.com/watch?v=QZmZFeZxEKI&list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl&index=1) [[notes]](https://vision.in.tum.de/teaching/ws2016/mlcv16)
 
 ## Recurrent Neural Networks, Natural Language Processing
 - [CS224d Richard Socher 2016](https://www.youtube.com/watch?v=Qy0oEkCZkBI&list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG&index=1)
@@ -567,6 +576,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Foundations of Graphical Models 2016 by David Blei](http://www.cs.columbia.edu/~blei/fogm/2016F/)
 - [AM207 Harvard Stochastic Methods for Data Analysis, Inference and Optimization](http://am207.github.io/2016/index.html)
 - [AM207 Working Video Lectures Link](http://cm.dce.harvard.edu/2015/02/24104/publicationListing.shtml)
+- [Advances in Approximate Bayesian](https://www.youtube.com/watch?v=gRvxr47Gj3k&list=PLsatQfvo0v3sUhi3ijRme9MyqwLL5EOiG&index=4)
 
 ## Deep Learning
 - [CUHK ELEG5040 Introduction to Deep Learning](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/resources)
