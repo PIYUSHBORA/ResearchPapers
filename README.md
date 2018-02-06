@@ -1079,6 +1079,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **(CTR) Collaborative Topic Modeling for Recommending Scientific Articles** (2011, KDD) Chong Wang [[pdf]](http://www.cs.columbia.edu/~blei/papers/WangBlei2011.pdf)
 - **LLORMA: Local Low-Rank Matrix Approximation** (2016, ICML) Joonseok Lee [[pdf]](http://jmlr.org/papers/volume17/14-301/14-301.pdf)
 
+#### Latent Dirichlet Allocation Recommendation
+- **fLDA: matrix factorization through latent dirichlet allocation** (2010, WSDM) Agarwal [[pdf]](https://dl.acm.org/citation.cfm?id=1718499)
+
 #### One Class Matrix Factorization
 - **One-Class Collaborative Filtering** (2008, ICDM) Rong Pan [[pdf]](https://dl.acm.org/citation.cfm?id=1511402)
 - **One-Class Matrix Completion with Low-Density Factorizations** (2010, ICDM) Vikas [[pdf]](http://www.vikas.sindhwani.org/OneClassMatrixCompletion.pdf)
