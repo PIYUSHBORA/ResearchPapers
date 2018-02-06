@@ -1064,10 +1064,6 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Collaborative prediction and ranking with non-random missing data** (2009, RecSys) Marlin [[pdf]](https://dl.acm.org/citation.cfm?id=1639717)
 - **Recommender Systems: Missing Data and Statistical Model Estimation** (2011, AAAI) Marlin [[pdf]](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI11/paper/view/3078)
 
-### Linear
-- **(LREC) On the Effectiveness of Linear Models for One-Class Collaborative Filtering** (2016, AAAI) Sedhain [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12333)
-- **(Linear Flow) Practical linear models for large-scale one-class collaborative filtering** (2016, IJCAI) Sedhain [[pdf]](https://dl.acm.org/citation.cfm?id=3061158)
-
 ### Social Collaborative Filtering
 - **New objective functions for social collaborative filtering** (2012, WWW) Joseph Noel [[pdf]](https://dl.acm.org/citation.cfm?id=2187952)
 - **Social affinity filtering: recommendation through fine-grained analysis of user interactions and activities** (2013, COSN) Suvash Sedhain [[pdf]](https://dl.acm.org/citation.cfm?id=2512947)
@@ -1085,6 +1081,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 #### One Class Matrix Factorization
 - **One-Class Collaborative Filtering** (2008, ICDM) Rong Pan [[pdf]](https://dl.acm.org/citation.cfm?id=1511402)
+- **(LREC) On the Effectiveness of Linear Models for One-Class Collaborative Filtering** (2016, AAAI) Sedhain [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12333)
+- **(Linear Flow) Practical linear models for large-scale one-class collaborative filtering** (2016, IJCAI) Sedhain [[pdf]](https://dl.acm.org/citation.cfm?id=3061158)
+
 
 ### Deep Neural Networks
 - **Deep content-based music recommendation** (2013, NIPS) Aaron Van den Oord [[pdf]](https://papers.nips.cc/paper/5004-deep-content-based-music-recommendation)
