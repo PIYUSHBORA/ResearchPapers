@@ -422,9 +422,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Daphne Koller](http://ai.stanford.edu/users/koller/) 
 - [Michael I Jordan](https://people.eecs.berkeley.edu/~jordan/)
 - [Andrew McCallum](https://people.cs.umass.edu/~mccallum/)
+- [Eric Xing](http://www.cs.cmu.edu/~epxing/) 
 - [Jeffrey Bilmes](http://melodi.ee.washington.edu/~bilmes/pgs/index.html)
 - [Alireza Makhzani](http://www.alireza.ai/)
-- [Eric Xing](http://www.cs.cmu.edu/~epxing/) 
 
 ## Bayesian 
 - [David Mackay](http://www.inference.org.uk/mackay/) 
@@ -978,6 +978,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Hierarchical Bayesian Nonparametric Models with Applications** (2009), Yee Whye Teh [[pdf]](https://www.stats.ox.ac.uk/~teh/research/npbayes/TehJor2010a.pdf)
 
 ## Probabilistic Graphical Models
+- **Structured Learning and Prediction in Computer Vision** (2011) Sebastian [[pdf]](http://www.nowozin.net/sebastian/papers/nowozin2011structured-tutorial.pdf)
 - **A Comparison of Algorithms for Inference and Learning in Probabilistic Graphical Models** (2005, PAMI) Brendan Frey [[pdf]](http://www.psi.toronto.edu/~frey/ece1510/ReviewPaper.pdf)
 - **Statistical inference with probabilistic graphical models** (2014), Angelique [[pdf]](https://arxiv.org/abs/1409.4928)
 
