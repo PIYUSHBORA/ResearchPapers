@@ -1081,6 +1081,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 #### One Class Matrix Factorization
 - **One-Class Collaborative Filtering** (2008, ICDM) Rong Pan [[pdf]](https://dl.acm.org/citation.cfm?id=1511402)
+- **One-Class Matrix Completion with Low-Density Factorizations** (2010, ICDM) Vikas [[pdf]](http://www.vikas.sindhwani.org/OneClassMatrixCompletion.pdf)
 - **SLIM: Sparse Linear Methods for Top-N Recommender Systems** (2011, ICDM) Xia Ning [[pdf]](https://dl.acm.org/citation.cfm?id=2118303) [[code]](https://www-users.cs.umn.edu/~ningx005/slim/html/index.html)
 - **(LREC) On the Effectiveness of Linear Models for One-Class Collaborative Filtering** (2016, AAAI) Sedhain [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12333)
 - **(Linear Flow) Practical linear models for large-scale one-class collaborative filtering** (2016, IJCAI) Sedhain [[pdf]](https://dl.acm.org/citation.cfm?id=3061158)
