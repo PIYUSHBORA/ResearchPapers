@@ -255,6 +255,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Robotics](https://github.com/Kiloreux/awesome-robotics)
 ## Computer Vision
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+- [Object Proposals](https://github.com/caocuong0306/awesome-object-proposals)
 - [Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
 - [Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)
 - [3D Reconstruction](https://github.com/openMVG/awesome_3DReconstruction_list)
@@ -711,8 +712,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Reinforcement Learning: A Tutorial Survey and Recent Advances** (2009) Abhijit Gosavi [[pdf]](http://pubsonline.informs.org/doi/pdf/10.1287/ijoc.1080.0305)
 - **A tutorial survey of reinforcement learning** (1994), S Sathiya [[pdf]](https://link.springer.com/article/10.1007/BF02743935)
 
+## Bandits
+- **A Survey on Contextual Multi-armed Bandits** (2015) Li Zhou [[pdf]](https://arxiv.org/abs/1508.03326) 
+
 ## Active Learning
-- **Active Learning Literature Survey** (2010), Burr Settles [[pdf]](http://burrsettles.com/pub/settles.activelearning.pdf)
+- **Active Learning Literature Survey** (2010) Burr Settles [[pdf]](http://burrsettles.com/pub/settles.activelearning.pdf)
 
 ## Markov Chain Monte Carlo
 - **An Introduction to MCMC for Machine Learning** (2003) Christophe [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.13.7133)
