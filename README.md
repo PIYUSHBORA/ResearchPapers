@@ -1080,6 +1080,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **(BiasedMF) Matrix Factorization Techniques for Recommender Systems** (2009, IEEE) Yehuda Koren [[pdf]](http://ieeexplore.ieee.org/document/5197422/)
 - **Matchbox: Large Scale Bayesian Recommendations** (2009, WWW) David Stern [[pdf]](https://www.microsoft.com/en-us/research/publication/matchbox-large-scale-bayesian-recommendations/)
 - **BPR: Bayesian personalized ranking from implicit feedback** (2009, UAI) Steffen Rendle [[pdf]](https://dl.acm.org/citation.cfm?id=1795167)
+- **Collaborative Topic Modeling for Recommending Scientific Articles** (2011, KDD) Chong Wang [[pdf]](http://www.cs.columbia.edu/~blei/papers/WangBlei2011.pdf)
 - **LLORMA: Local Low-Rank Matrix Approximation** (2016, ICML) Joonseok Lee [[pdf]](http://jmlr.org/papers/volume17/14-301/14-301.pdf)
 
 #### One Class Matrix Factorization
