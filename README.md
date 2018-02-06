@@ -1097,10 +1097,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Improving Content-based and Hybrid Music Recommendation using Deep Learning** (2014, MM) Xinxi Wang [[pdf]](https://dl.acm.org/citation.cfm?id=2654940)
 
 ### AutoEncoder 
-- **Collaborative Deep Learning for Recommender Systems** (2015, KDD) Hao Wang [[pdf]](http://www.wanghao.in/CDL.htm)
 - **AutoRec: Autoencoders Meet Collaborative Filtering** (2015, WWW) Sedhain [[pdf]](http://users.cecs.anu.edu.au/~u5098633/papers/www15.pdf)
 
 #### Denoising AutoEncoders
+- **Collaborative Deep Learning for Recommender Systems** (2015, KDD) Hao Wang [[pdf]](http://www.wanghao.in/CDL.htm)
 - **(CDAE) Collaborative Denoising Auto-Encoders for Top-N Recommender Systems** (2016, WSDM) Yao Wu [[pdf]](https://dl.acm.org/citation.cfm?id=2835837)
 
 ### Recurrent Neural Networks 
