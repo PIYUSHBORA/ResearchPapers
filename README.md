@@ -692,6 +692,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ## Recommendation Systems
 ### Collaborative Filtering
 - **A survey of collaborative filtering techniques** (2009) Xiaoyuan Su [[pdf]](https://dl.acm.org/citation.cfm?id=1722966)
+### Collaborative Filtering Item-based
+- **Item-based collaborative filtering recommendation algorithms** (2001, WWW) Badrul Sarwar [[pdf]](https://dl.acm.org/citation.cfm?id=372071)
+- **Amazon.com recommendations: item-to-item collaborative filtering** (2003, IEEE) Linden [[pdf]](https://dl.acm.org/citation.cfm?id=642471)
+- **Item-based top-N recommendation algorithms** (2004, TOIS) Mukund [[pdf]](https://dl.acm.org/citation.cfm?id=963776)
+
 ### Hybrid 
 - **Hybrid Recommender Systems: Survey and Experiments** (2002) Robin Burke [[pdf]](https://link.springer.com/article/10.1023/A:1021240730564)
 ### Deep Learning
@@ -1070,6 +1075,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Social collaborative filtering for cold-start recommendations** (2014, RecSys) [[pdf]](https://dl.acm.org/citation.cfm?id=2645772)
 
 ### Matrix Factorization
+- **Weighted Low-Rank Approximations** (2003, ICML) Nathan [[pdf]](https://www.aaai.org/Papers/ICML/2003/ICML03-094.pdf)
 - **Probabilistic Matrix Factorization** (2008, NIPS) Ruslan Salakhutdinov [[pdf]](https://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf)
 - **Bayesian probabilistic matrix factorization using Markov chain Monte Carlo** (2008, ICML) Ruslan Salakhutdinov [[pdf]](https://dl.acm.org/citation.cfm?id=1390267)
 - **Large-Scale Parallel Collaborative Filtering for the Netflix Prize** (2008, AAIM) Yunhong Zhou [[pdf]](https://link.springer.com/content/pdf/10.1007/978-3-540-68880-8_32.pdf)
@@ -1079,11 +1085,15 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **(CTR) Collaborative Topic Modeling for Recommending Scientific Articles** (2011, KDD) Chong Wang [[pdf]](http://www.cs.columbia.edu/~blei/papers/WangBlei2011.pdf)
 - **LLORMA: Local Low-Rank Matrix Approximation** (2016, ICML) Joonseok Lee [[pdf]](http://jmlr.org/papers/volume17/14-301/14-301.pdf)
 
+### Singular Value Decomposition Recommendation
+- **(PureSVD) Performance of recommender algorithms on top-n recommendation tasks** (2010, RecSys) Paolo [[pdf]](https://dl.acm.org/citation.cfm?id=1864721)
+
 #### Latent Dirichlet Allocation Recommendation
 - **fLDA: matrix factorization through latent dirichlet allocation** (2010, WSDM) Agarwal [[pdf]](https://dl.acm.org/citation.cfm?id=1718499)
 
 #### One Class Matrix Factorization
-- **One-Class Collaborative Filtering** (2008, ICDM) Rong Pan [[pdf]](https://dl.acm.org/citation.cfm?id=1511402)
+- **(WRMF) One-Class Collaborative Filtering** (2008, ICDM) Rong Pan [[pdf]](https://dl.acm.org/citation.cfm?id=1511402)
+- **Mind the gaps: weighting the unknown in large-scale one-class collaborative filtering** (2009, KDD) Rong Pan [[pdf]](https://dl.acm.org/citation.cfm?id=1557094) 
 - **One-Class Matrix Completion with Low-Density Factorizations** (2010, ICDM) Vikas [[pdf]](http://www.vikas.sindhwani.org/OneClassMatrixCompletion.pdf)
 - **SLIM: Sparse Linear Methods for Top-N Recommender Systems** (2011, ICDM) Xia Ning [[pdf]](https://dl.acm.org/citation.cfm?id=2118303) [[code]](https://www-users.cs.umn.edu/~ningx005/slim/html/index.html)
 - **(LREC) On the Effectiveness of Linear Models for One-Class Collaborative Filtering** (2016, AAAI) Sedhain [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12333)
