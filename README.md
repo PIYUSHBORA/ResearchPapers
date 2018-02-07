@@ -1066,6 +1066,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ### Missing Data 
 - **Collaborative Filtering and the Missing at Random Assumption** (2007, UAI) Marlin [[pdf]](https://arxiv.org/abs/1206.5267)
+- **Learning classifiers from only positive and unlabeled data** (2008, KDD) Charles Elkan [[pdf]](https://dl.acm.org/citation.cfm?id=1401920)
 - **Collaborative prediction and ranking with non-random missing data** (2009, RecSys) Marlin [[pdf]](https://dl.acm.org/citation.cfm?id=1639717)
 - **Recommender Systems: Missing Data and Statistical Model Estimation** (2011, AAAI) Marlin [[pdf]](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI11/paper/view/3078)
 
