@@ -570,6 +570,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ## Reinforcement Learning
 - [CMU 10703 RL by Ruslan](https://katefvision.github.io/)
+- [Inria Fr Reinforcement Learning by Alessandro](http://chercheurs.lille.inria.fr/~lazaric/Webpage/Home/Home.html)
+- [Learning in Complex Systems by Shimkin 2011](http://webee.technion.ac.il/shimkin/LCS11/LCS11index.html)
 
 ## Bayesian Learning
 - [All of David Blei Courses](http://www.cs.columbia.edu/~blei/courses.html)
@@ -1068,6 +1070,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 # Applications
 
 ## Recommendation Systems
+
+### Bandit Recommendation Systems
+- **Cascading Bandits for Large-Scale Recommendation Problems** (2016, UAI) Shi Zong [[pdf]](http://www.bkveton.com/docs/uai2016.pdf)
+- **A Multiple-Play Bandit Algorithm Applied to Recommender Systems** (2015, AAAI) Jonathan [[pdf]](https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS15/paper/viewFile/10385/10364)
 
 ### Missing Data 
 - **Collaborative Filtering and the Missing at Random Assumption** (2007, UAI) Marlin [[pdf]](https://arxiv.org/abs/1206.5267)
