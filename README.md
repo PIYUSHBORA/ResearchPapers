@@ -920,7 +920,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Deep Boltzmann Machines** (2009) Ruslan Salakhutdinov [[pdf]](http://proceedings.mlr.press/v5/salakhutdinov09a/salakhutdinov09a.pdf)
 
 ### Neural Autoregressive Distribution Estimation
-- **The Neural Autoregressive Distribution Estimator** (2011, JMLR) Hugo Larochelle [[pdf]](http://proceedings.mlr.press/v15/larochelle11a/larochelle11a.pdf)
+- **(NADE) The Neural Autoregressive Distribution Estimator** (2011, JMLR) Hugo Larochelle [[pdf]](http://proceedings.mlr.press/v15/larochelle11a/larochelle11a.pdf)
 - **Neural Autoregressive Distribution Estimation** (2016, JMLR) Benigno [[pdf]](https://arxiv.org/abs/1605.02226)
 
 ### Fully-Connected Neural Networks
@@ -1095,8 +1095,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Matchbox: Large Scale Bayesian Recommendations** (2009, WWW) David Stern [[pdf]](https://www.microsoft.com/en-us/research/publication/matchbox-large-scale-bayesian-recommendations/)
 - **BPR: Bayesian personalized ranking from implicit feedback** (2009, UAI) Steffen Rendle [[pdf]](https://dl.acm.org/citation.cfm?id=1795167)
 - **(CTR) Collaborative Topic Modeling for Recommending Scientific Articles** (2011, KDD) Chong Wang [[pdf]](http://www.cs.columbia.edu/~blei/papers/WangBlei2011.pdf)
+- **(PoissonMF) Bayesian Nonparametric Poisson Factorization for Recommendation Systems** (2014, JMLR) Gopalan [[pdf]](http://proceedings.mlr.press/v33/gopalan14.pdf)
+- **(NNMF) Neural Network Matrix Factorization** (2017, ICLR) Gintare [[pdf]](https://arxiv.org/pdf/1511.06443.pdf)
 - **LLORMA: Local Low-Rank Matrix Approximation** (2016, ICML) Joonseok Lee [[pdf]](http://jmlr.org/papers/volume17/14-301/14-301.pdf)
-
 
 #### Singular Value Decomposition Recommendation
 - **(PureSVD) Performance of recommender algorithms on top-n recommendation tasks** (2010, RecSys) Paolo [[pdf]](https://dl.acm.org/citation.cfm?id=1864721)
