@@ -1097,11 +1097,16 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **(CTR) Collaborative Topic Modeling for Recommending Scientific Articles** (2011, KDD) Chong Wang [[pdf]](http://www.cs.columbia.edu/~blei/papers/WangBlei2011.pdf)
 - **LLORMA: Local Low-Rank Matrix Approximation** (2016, ICML) Joonseok Lee [[pdf]](http://jmlr.org/papers/volume17/14-301/14-301.pdf)
 
-### Singular Value Decomposition Recommendation
+
+#### Singular Value Decomposition Recommendation
 - **(PureSVD) Performance of recommender algorithms on top-n recommendation tasks** (2010, RecSys) Paolo [[pdf]](https://dl.acm.org/citation.cfm?id=1864721)
 
 #### Latent Dirichlet Allocation Recommendation
 - **fLDA: matrix factorization through latent dirichlet allocation** (2010, WSDM) Agarwal [[pdf]](https://dl.acm.org/citation.cfm?id=1718499)
+
+#### Maximum Margin Matrix Factorization
+- **Maximum-Margin Matrix Factorization** (2005, NIPS) Nathan [[pdf]](http://ttic.uchicago.edu/~nati/Publications/MMMFnips04.pdf)
+- **COFI RANK - Maximum Margin Matrix Factorization for Collaborative Ranking** (2008, NIPS) Markus Weimer [[pdf]](https://papers.nips.cc/paper/3359-cofi-rank-maximum-margin-matrix-factorization-for-collaborative-ranking)
 
 #### One Class Matrix Factorization
 - **(WRMF) One-Class Collaborative Filtering** (2008, ICDM) Rong Pan [[pdf]](https://dl.acm.org/citation.cfm?id=1511402)
@@ -1140,7 +1145,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems** (2015, WWW) Ali Elkahk [[pdf]](https://dl.acm.org/citation.cfm?id=2741667)
 
 ### Autoregressive Networks
-- **(CF-NADE) A Neural Autoregressive Approach to Collaborative Filtering** (2016, ICML) Yin Zheng [[pdf]](https://arxiv.org/abs/1605.09477)
+- **(CF-NADE) A Neural Autoregressive Approach to Collaborative Filtering** (2016, ICML) Yin Zheng [[pdf]](https://arxiv.org/abs/1605.09477) [[code]](https://github.com/Ian09/CF-NADE)
 
 ### Something To Vec
 - **(prod2vec) E-commerce in Your Inbox: Product Recommendations at ScaleA** (2015, KDD) Mihajlo [[pdf]](https://dl.acm.org/citation.cfm?id=2788627)
