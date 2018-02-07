@@ -1109,6 +1109,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Maximum-Margin Matrix Factorization** (2005, NIPS) Nathan [[pdf]](http://ttic.uchicago.edu/~nati/Publications/MMMFnips04.pdf)
 - **COFI RANK - Maximum Margin Matrix Factorization for Collaborative Ranking** (2008, NIPS) Markus Weimer [[pdf]](https://papers.nips.cc/paper/3359-cofi-rank-maximum-margin-matrix-factorization-for-collaborative-ranking)
 
+#### Gaussian Processes Matrix Factorization
+- **Non-linear matrix factorization with Gaussian processes** (2009, ICML) Neil Lawrence [[pdf]](https://dl.acm.org/citation.cfm?id=1553452)
+
 #### One Class Matrix Factorization
 - **(WRMF) One-Class Collaborative Filtering** (2008, ICDM) Rong Pan [[pdf]](https://dl.acm.org/citation.cfm?id=1511402)
 - **Mind the gaps: weighting the unknown in large-scale one-class collaborative filtering** (2009, KDD) Rong Pan [[pdf]](https://dl.acm.org/citation.cfm?id=1557094) 
