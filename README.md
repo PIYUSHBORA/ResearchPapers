@@ -834,7 +834,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Reversible jump Markov chain Monte Carlo computation and Bayesian model determination** (1995, Biometrika) Peter Green [[pdf]](https://academic.oup.com/biomet/article/82/4/711/252058)
 
 ##### MCMC Hamiltonian Dynamics
-- **MCMC using Hamiltonian dynamics** (2012) Radford Neal [[pdf]](https://arxiv.org/abs/1206.1901)
+- **(HMC) MCMC using Hamiltonian dynamics** (2012) Radford Neal [[pdf]](https://arxiv.org/abs/1206.1901)
 
 ### Variational Inference
 - **A Mean Field Theory Learning Algorithm for Neural Networks** (1987) Carsten Peterson [[pdf]](http://www.complex-systems.com/pdf/01-5-6.pdf)
@@ -1137,6 +1137,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Non-linear matrix factorization with Gaussian processes** (2009, ICML) Neil Lawrence [[pdf]](https://dl.acm.org/citation.cfm?id=1553452)
 
 #### One Class Matrix Factorization
+- **Collaborative Filtering for Implicit Feedback Datasets** (2008) Yifan Hu [[pdf]](http://yifanhu.net/PUB/cf.pdf) 
 - **(WRMF) One-Class Collaborative Filtering** (2008, ICDM) Rong Pan [[pdf]](https://dl.acm.org/citation.cfm?id=1511402)
 - **Mind the gaps: weighting the unknown in large-scale one-class collaborative filtering** (2009, KDD) Rong Pan [[pdf]](https://dl.acm.org/citation.cfm?id=1557094) 
 - **One-Class Matrix Completion with Low-Density Factorizations** (2010, ICDM) Vikas [[pdf]](http://www.vikas.sindhwani.org/OneClassMatrixCompletion.pdf)
@@ -1203,6 +1204,13 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ### Models
 - **Semantic Hashing** (2007, SIGIR) Ruslan Salakhutdinov [[pdf]](https://dl.acm.org/citation.cfm?id=1558446)
 - **Learning Deep Structured Semantic Models for Web Search using Clickthrough Data** (2013, CIKM) Po-Sen Huang [[pdf]](https://www.microsoft.com/en-us/research/publication/learning-deep-structured-semantic-models-for-web-search-using-clickthrough-data/)
+
+#### Latent Semantic Analysis
+- **Indexing by Latent Semantic Analysis** (1990) Scott Deerwester [[pdf]](http://lsa.colorado.edu/papers/JASIS.lsi.90.pdf)
+- **Probabilistic Latent Semantic Analysis** (1999, UAI) Thomas Hofmann [[pdf]](http://www.iro.umontreal.ca/~nie/IFT6255/Hofmann-UAI99.pdf)
+- **Probabilistic Latent Semantic Indexing** (1999, SIGIR) Thomas Hofmann [[pdf]](http://sigir.org/wp-content/uploads/2017/06/p211.pdf)
+- **On an equivalence between PLSI and LDA** (2003, SIGIR) Mark Girolami [[pdf]](https://dl.acm.org/citation.cfm?id=860537)
+- **Probabilistic Latent Semantic Analysis Tutorial** (2012) Liangjie Hong [[pdf]](https://arxiv.org/pdf/1212.3900.pdf)
 
 ### Evaluation Metrics for Information Retrieval 
 #### F-Measure
