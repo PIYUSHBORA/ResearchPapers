@@ -1136,7 +1136,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 #### Denoising AutoEncoders
 - **Collaborative Deep Learning for Recommender Systems** (2015, KDD) Hao Wang [[pdf]](http://www.wanghao.in/CDL.htm)
-- **(CDAE) Collaborative Denoising Auto-Encoders for Top-N Recommender Systems** (2016, WSDM) Yao Wu [[pdf]](https://dl.acm.org/citation.cfm?id=2835837)
+- **(CDAE) Collaborative Denoising Auto-Encoders for Top-N Recommender Systems** (2016, WSDM) Yao Wu [[pdf]](https://dl.acm.org/citation.cfm?id=2835837) [[code]](https://github.com/jasonyaw/CDAE)
 
 ### Recurrent Neural Networks 
 - **Session-based Recommendations with Recurrent Neural Networks** (2016, ICLR) Balazs Hidasi [[pdf]](https://arxiv.org/abs/1511.06939)
