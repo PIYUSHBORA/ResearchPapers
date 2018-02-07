@@ -1096,7 +1096,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **BPR: Bayesian personalized ranking from implicit feedback** (2009, UAI) Steffen Rendle [[pdf]](https://dl.acm.org/citation.cfm?id=1795167)
 - **(CTR) Collaborative Topic Modeling for Recommending Scientific Articles** (2011, KDD) Chong Wang [[pdf]](http://www.cs.columbia.edu/~blei/papers/WangBlei2011.pdf)
 - **(PoissonMF) Bayesian Nonparametric Poisson Factorization for Recommendation Systems** (2014, JMLR) Gopalan [[pdf]](http://proceedings.mlr.press/v33/gopalan14.pdf)
-- **(NNMF) Neural Network Matrix Factorization** (2017, ICLR) Gintare [[pdf]](https://arxiv.org/pdf/1511.06443.pdf)
+- **(NNMF) Neural Network Matrix Factorization** (2015) Gintare [[pdf]](https://arxiv.org/pdf/1511.06443.pdf)
 - **LLORMA: Local Low-Rank Matrix Approximation** (2016, ICML) Joonseok Lee [[pdf]](http://jmlr.org/papers/volume17/14-301/14-301.pdf)
 
 #### Singular Value Decomposition Recommendation
