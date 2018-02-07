@@ -828,6 +828,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ### Information Geometry
 - **Information-Geometric Optimization Algorithms: A Unifying Picture via Invariance Principles** (2017, JMLR) Yann Ollivier [[pdf]](http://www.jmlr.org/papers/volume18/14-467/14-467.pdf)
 
+## Machine Learning
+
+### Loss Function
+- **Are Loss Functions All the Same?** (2003) Rosasco [[pdf]](http://web.mit.edu/lrosasco/www/publications/loss.pdf)
+
 ## Deep Learning
 
 ### Training and Optimization
