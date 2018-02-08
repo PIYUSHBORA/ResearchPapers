@@ -1107,6 +1107,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Collaborative prediction and ranking with non-random missing data** (2009, RecSys) Marlin [[pdf]](https://dl.acm.org/citation.cfm?id=1639717)
 - **Recommender Systems: Missing Data and Statistical Model Estimation** (2011, AAAI) Marlin [[pdf]](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI11/paper/view/3078)
 
+#### One Class Missing Data
+- **Mind the Gaps: Weighting the Unknown in Large-Scale One-Class Collaborative Filtering** (2009, KDD) Rong Pan [[pdf]](https://dl.acm.org/citation.cfm?id=1557094)
+
 ### Social Collaborative Filtering
 - **New objective functions for social collaborative filtering** (2012, WWW) Joseph Noel [[pdf]](https://dl.acm.org/citation.cfm?id=2187952)
 - **Social affinity filtering: recommendation through fine-grained analysis of user interactions and activities** (2013, COSN) Suvash Sedhain [[pdf]](https://dl.acm.org/citation.cfm?id=2512947)
