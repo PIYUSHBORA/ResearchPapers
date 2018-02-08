@@ -1112,8 +1112,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ### Matrix Factorization
 - **Weighted Low-Rank Approximations** (2003, ICML) Nathan [[pdf]](https://www.aaai.org/Papers/ICML/2003/ICML03-094.pdf)
-- **Probabilistic Matrix Factorization** (2008, NIPS) Ruslan Salakhutdinov [[pdf]](https://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf)
-- **Bayesian probabilistic matrix factorization using Markov chain Monte Carlo** (2008, ICML) Ruslan Salakhutdinov [[pdf]](https://dl.acm.org/citation.cfm?id=1390267)
+- **(PMF) Probabilistic Matrix Factorization** (2008, NIPS) Ruslan Salakhutdinov [[pdf]](https://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf)
+- **(BayesianPMF) Bayesian probabilistic matrix factorization using Markov chain Monte Carlo** (2008, ICML) Ruslan Salakhutdinov [[pdf]](https://dl.acm.org/citation.cfm?id=1390267)
 - **Large-Scale Parallel Collaborative Filtering for the Netflix Prize** (2008, AAIM) Yunhong Zhou [[pdf]](https://link.springer.com/content/pdf/10.1007/978-3-540-68880-8_32.pdf)
 - **(BiasedMF) Matrix Factorization Techniques for Recommender Systems** (2009, IEEE) Yehuda Koren [[pdf]](http://ieeexplore.ieee.org/document/5197422/)
 - **Matchbox: Large Scale Bayesian Recommendations** (2009, WWW) David Stern [[pdf]](https://www.microsoft.com/en-us/research/publication/matchbox-large-scale-bayesian-recommendations/)
