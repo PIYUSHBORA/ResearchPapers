@@ -511,6 +511,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [CMU 10702 Statistical Machine Learning by Larry Wasserman Spring 2017](http://www.stat.cmu.edu/~ryantibs/statml/)
 - [CMU 10715 Advanced Introduction to Machine Learning by Alexander Smola Fall 2015](http://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/)
 - [MIT 9.520 Statistical Learning Theory and Applications by Lorenso Rosasco Fall 2015](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O) 
+- [MIT 6.867 Machine Learning by Tommi Jaakola Fall 2004](http://www.ai.mit.edu/courses/6.867-f04/index.html)
 - [Waterloo STAT 441 Classification by Ali Ghodsi](https://www.youtube.com/watch?v=VR5ZRr4QOYk&list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG)
 
 ## Probabilistic Graphical Models
