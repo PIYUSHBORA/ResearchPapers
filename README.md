@@ -1124,6 +1124,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **LLORMA: Local Low-Rank Matrix Approximation** (2016, ICML) Joonseok Lee [[pdf]](http://jmlr.org/papers/volume17/14-301/14-301.pdf)
 
 #### Singular Value Decomposition Recommendation
+- **Variational Bayesian Approach to Movie Rating Prediction** (2007, KDD) Yew Jin Lim [[pdf]](https://www.cs.uic.edu/~liub/KDD-cup-2007/proceedings/variational-Lim.pdf)
 - **(PureSVD) Performance of recommender algorithms on top-n recommendation tasks** (2010, RecSys) Paolo [[pdf]](https://dl.acm.org/citation.cfm?id=1864721)
 
 #### Latent Dirichlet Allocation Recommendation
