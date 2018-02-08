@@ -897,6 +897,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Adam: A method for stochastic optimization** (2014) D. Kingma and J. Ba [[pdf]](http://arxiv.org/pdf/1412.6980)
 
 #### Regularization
+- **Simplifying Neural Networks by Soft Weight-Sharing** (1992) Hinton [[pdf]](http://www.cs.toronto.edu/~fritz/absps/sunspots.pdf)
 - **Improving neural networks by preventing co-adaptation of feature detectors** (2012) G. Hinton et al. [[pdf]](http://arxiv.org/pdf/1207.0580.pdf)
 - **Dropout: A simple way to prevent neural networks from overfitting** (2014) N. Srivastava et al. [[pdf]](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
 
