@@ -1109,6 +1109,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 #### One Class Missing Data
 - **Mind the Gaps: Weighting the Unknown in Large-Scale One-Class Collaborative Filtering** (2009, KDD) Rong Pan [[pdf]](https://dl.acm.org/citation.cfm?id=1557094)
+- **Efficient Top-N Recommendation for Very Large Scale Binary Rated Datasets** (2013, RecSys) Fabio [[pdf]](https://dl.acm.org/citation.cfm?id=2507189)
 
 ### Social Collaborative Filtering
 - **New objective functions for social collaborative filtering** (2012, WWW) Joseph Noel [[pdf]](https://dl.acm.org/citation.cfm?id=2187952)
