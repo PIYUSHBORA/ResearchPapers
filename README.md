@@ -738,24 +738,31 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **A Survey of Point-of-interest Recommendation in Location-based Social Networks** (2016) Shengling Zhao [[pdf]](https://arxiv.org/abs/1607.00647)
 
 ## Reinforcement Learning
-- **DEEP REINFORCEMENT LEARNING: AN OVERVIEW** (2017) Yuxi Li [[pdf]](https://arxiv.org/pdf/1701.07274.pdf)
+- **A tutorial survey of reinforcement learning** (1994) S Sathiya [[pdf]](https://link.springer.com/article/10.1007/BF02743935)
+- **Reinforcement Learning: A Survey** (1996, JAIR) Leslie [[pdf]](https://www.jair.org/media/301/live-301-1562-jair.pdf)
+- **A Survey of Reinforcement Learning in Relational Domains** (2005) Martijn van Otterlo  [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.104.7558&rep=rep1&type=pdf)
+- **Reinforcement Learning: A Tutorial Survey and Recent Advances** (2009) Abhijit Gosavi [[pdf]](http://pubsonline.informs.org/doi/pdf/10.1287/ijoc.1080.0305)
+- **Reinforcement Learning in Robotics: A Survey** (2013) Jens Kober et al. [[pdf]](http://journals.sagepub.com/doi/abs/10.1177/0278364913495721)
 - **A Brief Survey of Deep Reinforcement Learning** (2016) Kai Arulkumaran et al. [[pdf]](https://arxiv.org/pdf/1708.05866.pdf)
 - **A Survey of Online Experiment Design with the Stochastic Multi-Armed Bandit** (2016) Giuseppe Burtini et al. [[pdf]](https://arxiv.org/pdf/1510.00757v4.pdf)
-- **Reinforcement Learning in Robotics: A Survey** (2013) Jens Kober et al. [[pdf]](http://journals.sagepub.com/doi/abs/10.1177/0278364913495721)
-- **Reinforcement Learning: A Tutorial Survey and Recent Advances** (2009) Abhijit Gosavi [[pdf]](http://pubsonline.informs.org/doi/pdf/10.1287/ijoc.1080.0305)
-- **A tutorial survey of reinforcement learning** (1994) S Sathiya [[pdf]](https://link.springer.com/article/10.1007/BF02743935)
+- **DEEP REINFORCEMENT LEARNING: AN OVERVIEW** (2017) Yuxi Li [[pdf]](https://arxiv.org/pdf/1701.07274.pdf)
 
 ## Bandits
 - **A Survey on Contextual Multi-armed Bandits** (2015) Li Zhou [[pdf]](https://arxiv.org/abs/1508.03326) 
 
 ## Active Learning
+1- **Theoretical Foundations of Active Learning** (2009) Steve Hanneke [[pdf]](https://pdfs.semanticscholar.org/027f/f5e1d93b740e02c042b515c83a1fafa312e7.pdf)
 - **Active Learning Literature Survey** (2010) Burr Settles [[pdf]](http://burrsettles.com/pub/settles.activelearning.pdf)
+- **Two faces of active learning** (2011) Sanjov [[pdf]](https://www.sciencedirect.com/science/article/pii/S0304397510007620)
 
 ## Markov Chain Monte Carlo
 - **An Introduction to MCMC for Machine Learning** (2003) Christophe [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.13.7133)
 
 ## Variational Inference
 - **Variational Inference: A Review for Statisticians** David M Blei [[pdf]](https://arxiv.org/abs/1601.00670)
+
+## Bayesian Nonparametrics
+- **Tutorial on Bayesian nonparametric models** (2011) Samuel [[pdf]](https://arxiv.org/abs/1106.2697)
 
 ## Optimization
 - **Automatic differentiation in machine learning: a survey** (2014) Atilim et al. [[pdf]](https://arxiv.org/abs/1502.05767)
@@ -934,6 +941,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Restricted Boltzmann Machines for Collaborative Filtering** (2007) Ruslan Salakhutdinov [[pdf]](http://www.machinelearning.org/proceedings/icml2007/papers/407.pdf)
 - **Classification using Discriminative Restricted Boltzmann Machines** (2008) Hugo Larochelle [[pdf]](http://machinelearning.org/archive/icml2008/papers/601.pdf)
 - **Geometry of the restricted Boltzmann machine** (2009) Maria Angelica Cueto [[pdf]](https://arxiv.org/abs/0908.4425)
+- **A Practical Guide to Training Restricted Boltzmann Machines** (2010) Geoffrey Hinton [[pdf]](https://www.cs.toronto.edu/~hinton/absps/guideTR.pdf)
 - **An Introduction to Restricted Boltzmann Machines** (2012) Asja [[pdf]](https://link.springer.com/chapter/10.1007%2F978-3-642-33275-3_2?LI=true)
 - **Training restricted Boltzmann machines: An introduction** (2014) Asja [[pdf]](http://www.sciencedirect.com/science/article/pii/S0031320313002495)
 
