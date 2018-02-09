@@ -859,6 +859,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Graphical Models, Exponential Families, and Variational Inference** (2008) Martin Wainwright [[pdf]](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf)
 - **Stochastic Variational Inference** (2013) Matthew Hoffman [[pdf]](https://arxiv.org/abs/1206.7051)
 
+### Conjugate Priors
+- **Conjugate Bayesian analysis of the Gaussian distribution** (2007) Kevin Murphy [[pdf]](http://www.cs.ubc.ca/~murphyk/Papers/bayesGauss.pdf)
+
 ### Information Geometry
 - **Information-Geometric Optimization Algorithms: A Unifying Picture via Invariance Principles** (2017, JMLR) Yann Ollivier [[pdf]](http://www.jmlr.org/papers/volume18/14-467/14-467.pdf)
 
