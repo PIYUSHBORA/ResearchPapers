@@ -437,6 +437,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Csaba Szepesvári]( https://sites.ualberta.ca/~szepesva/)
 - [Tom Schaul](http://schaul.site44.com/)
 - [Shang Tong Zhang](http://shangtongzhang.github.io/)
+- [Doina Precup](http://cs.mcgill.ca/~dprecup/publications.html)
 
 ## Generative Models
 - [Ian Goodfellow](http://www.iangoodfellow.com/) 
