@@ -584,6 +584,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ## Self Driving Cars
 - [MIT Deep Learning For Self Driving Car Winter 2017](http://selfdrivingcars.mit.edu/)
 
+## Robotics
+- [MIT Introduction to Robotics](https://see.stanford.edu/Course/CS223A)
+
 ## Artificial Intelligence
 - [Washington CSEP573 Artificial Intelligence](https://courses.cs.washington.edu/courses/csep573/12au/)
 
