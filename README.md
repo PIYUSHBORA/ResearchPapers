@@ -1053,6 +1053,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Statistical Inference for Probabilistic Functions of Finite State Markov Chains** (1966) Leonard Baum [[pdf]](https://projecteuclid.org/download/pdf_1/euclid.aoms/1177699147)
 - **A tutorial on hidden Markov models and selected applications in speech recognition** (1989, IEEE) Rabiner [[pdf]](http://ieeexplore.ieee.org/document/18626/)
 - **HMM-Based Word Alignment in Statistical Translation** (1996) Stephan Vogel [[pdf]](https://dl.acm.org/citation.cfm?id=993313)
+- **An Introduction to Hidden Markov Models and Bayesian Networks** (2001) Zoubin [[pdf]](http://mlg.eng.cam.ac.uk/zoubin/papers/ijprai.pdf)
 - **What HMMs Can Do** (2006) Jeff Bilmes [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.98.2702&rep=rep1&type=pdf)
 
 ### Maximum Entropy Markov Model
