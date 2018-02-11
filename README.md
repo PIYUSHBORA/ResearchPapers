@@ -709,6 +709,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 # Surveys 
 
 ## Deep Learning
+- **Deep Machine Learning - A New Frontier in Artificial Intelligence Research** (2010) Itamar [[pdf]](http://ieeexplore.ieee.org/document/5605630/)
 - **Representation Learning: A Review and New Perspectives** (2012) Yoshua Bengio [[pdf]](https://arxiv.org/abs/1206.5538)
 - **Deep Learning: Method and Applications** (2014) Li Deng [[pdf]](https://www.microsoft.com/en-us/research/publication/deep-learning-methods-and-applications/)
 - **Deep Learning Review** (2015, Nature) Yann LeCunn [[pdf]](https://www.nature.com/articles/nature14539)
