@@ -665,6 +665,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Efficient Training of Conditional Random Fields by Hannah](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.134.8962&rep=rep1&type=pdf)
 - [Learning Large-Scale Conditional Random Fields by Joseph](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1222&context=dissertations)
 - [Efficient Methods for Learning and Inference in Structured Output Prediction by Ofer Meshi](http://ttic.uchicago.edu/~meshi/papers/Meshi-PhD.pdf)
+- [Dynamic Bayesian Networks: Representation, Inference and Learning by Kevin Murphy 2002](http://www.cs.ubc.ca/~murphyk/Thesis/thesis.pdf)
 
 ## Neural Networks
 - [Improving Neural Networks with Dropout by Nitish](http://www.cs.toronto.edu/~nitish/msc_thesis.pdf)
@@ -1070,6 +1071,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Dynamic Conditional Random Fields: Factorized Probabilistic Models for Labeling and Segmenting Sequence Data** (2007, JMLR) Charles Sutton [[pdf]](http://www.jmlr.org/papers/volume8/sutton07a/sutton07a.pdf)
 - **An Introduction to Conditional Random Fields for Relational Learning** (2006) Charles Sutton [[pdf]](https://cis.temple.edu/~latecki/Courses/RobotFall08/Papers/ConditionalRandomFieldsRelationalLearning.pdf)
 - **Classical Probabilistic Models and Conditional Random Fields** (2007) Roman Klinger [[pdf]](http://www.eng.utah.edu/~cs6961/papers/klinger-crf-intro.pdf)
+
+### Dynamic Bayes Networks
+- **Dynamic Network Models for Forecasting** (1992, UAI) Paul Dagum [[pdf]](http://erichorvitz.com/dynamic_network_models_UAI_1992.pdf)
 
 ## Reinforcement Learning
 - **Learning to predict by the methods of temporal differences** (1988) Richard Sutton [[pdf]](https://link.springer.com/article/10.1023/A:1022633531479)
