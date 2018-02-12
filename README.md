@@ -1058,6 +1058,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ### Factor Graphs
 - **Iterative Decoding of Compound Codes by Probability Propagation in Graphical Models** (1998) Brendan Frey [[pdf]](http://www.psi.toronto.edu/~psi/pubs2/1999%20and%20before/ppid-jsac.pdf)
 - **Factor graphs and the sum-product algorithm** (2001, IEEE) Frank Kschischang [[pdf]](http://www.psi.toronto.edu/~psi/pubs2/2001/frey2001factor.pdf) 
+- **Extending Factor Graphs so as to Unify Directed and Undirected Graphical Models** (2003, UAI) Brendan Frey [[pdf]](http://www.psi.toronto.edu/publications/2003/dfg-uai03.pdf)
 
 ### Hidden Markov Models
 - **Statistical Inference for Probabilistic Functions of Finite State Markov Chains** (1966) Leonard Baum [[pdf]](https://projecteuclid.org/download/pdf_1/euclid.aoms/1177699147)
