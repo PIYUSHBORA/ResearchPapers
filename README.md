@@ -1047,8 +1047,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 #### Variable Elmination
 - **Exploiting Causal Independence in Bayesian Network Inference** (1996) Nevin Lianwen Zhang [[pdf]](https://www.jair.org/media/305/live-305-1566-jair.pdf)
 
-#### Context Specific Independence
-- **Context-Specific Independence in Bayesian Networks** (2013) Craig Boutilier [[pdf]](https://arxiv.org/abs/1302.3562)
+#### Algebraic Decision Diagram
+- **(BinaryDD)Graph-based algorithms for Boolean function manipulation** (1985) Randal Bryant [[pdf]](http://repository.cmu.edu/cgi/viewcontent.cgi?article=2529&context=compsci)
+- **(ADD)Algebraic Decision Diagrams and their Applications** (1993, IEEE) Bahar [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=580054)
+- **(Tree CPT)Context-Specific Independence in Bayesian Networks** (2013) Craig Boutilier [[pdf]](https://arxiv.org/abs/1302.3562)
+- **Affine Algebraic Decision Diagrams (AADDs) and their Application to Structured Probabilistic Inference** (2005, IJCAI) Scott Sanner [[pdf]](http://users.cecs.anu.edu.au/~ssanner/Papers/aadd.pdf)
 
 ### Markov Random Fields
 
