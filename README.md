@@ -1047,6 +1047,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 #### Variable Elmination
 - **Exploiting Causal Independence in Bayesian Network Inference** (1996) Nevin Lianwen Zhang [[pdf]](https://www.jair.org/media/305/live-305-1566-jair.pdf)
 
+#### Context Specific Independence
+- **Context-Specific Independence in Bayesian Networks** (2013) Craig Boutilier [[pdf]](https://arxiv.org/abs/1302.3562)
+
 ### Markov Random Fields
 
 ### Factor Graphs
