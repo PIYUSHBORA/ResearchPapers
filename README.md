@@ -876,6 +876,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ### Loss Function
 - **Are Loss Functions All the Same?** (2003) Rosasco [[pdf]](http://web.mit.edu/lrosasco/www/publications/loss.pdf)
 
+### Generative vs Discriminative Models
+    - **On Discriminative vs. Generative Classifiers: A comparison of logistic regression and naive Bayes** (2001, NIPS) Andrew Ng [[pdf]](https://papers.nips.cc/paper/2020-on-discriminative-vs-generative-classifiers-a-comparison-of-logistic-regression-and-naive-bayes)
+    - **An Asymptotic Analysis of Generative, Discriminative, and Pseudolikelihood Estimators** (2008, ICML) Percy Liang [[pdf]](https://cs.stanford.edu/~pliang/papers/asymptotics-icml2008.pdf)
+
 ## Mixture Models
  
 - **Bayesian Modelling and Inference on Mixtures of Distributions** (2005) Jean [[pdf]](https://www.ceremade.dauphine.fr/~xian/mixo.pdf)
