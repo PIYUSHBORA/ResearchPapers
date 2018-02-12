@@ -878,7 +878,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ### Generative vs Discriminative Models
     - **On Discriminative vs. Generative Classifiers: A comparison of logistic regression and naive Bayes** (2001, NIPS) Andrew Ng [[pdf]](https://papers.nips.cc/paper/2020-on-discriminative-vs-generative-classifiers-a-comparison-of-logistic-regression-and-naive-bayes)
+    - **Discriminative models, not discriminative training** (2005) Tom Minka [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-2005-144.pdf)
     - **An Asymptotic Analysis of Generative, Discriminative, and Pseudolikelihood Estimators** (2008, ICML) Percy Liang [[pdf]](https://cs.stanford.edu/~pliang/papers/asymptotics-icml2008.pdf)
+
 
 ## Mixture Models
  
