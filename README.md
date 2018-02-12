@@ -1042,10 +1042,22 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **A Comparison of Algorithms for Inference and Learning in Probabilistic Graphical Models** (2005, PAMI) Brendan Frey [[pdf]](http://www.psi.toronto.edu/~frey/ece1510/ReviewPaper.pdf)
 - **Statistical inference with probabilistic graphical models** (2014) Angelique [[pdf]](https://arxiv.org/abs/1409.4928)
 
-### Bayesian Networks
+### Inference in Probabilistic Graphical Models
 
 #### Variable Elmination
 - **Exploiting Causal Independence in Bayesian Network Inference** (1996) Nevin Lianwen Zhang [[pdf]](https://www.jair.org/media/305/live-305-1566-jair.pdf)
+
+#### Viterbi Algorithm
+- **(Viterbi Algorithm)Error Bounds for Convolutional Codes and an Asymptotically Optimum Decoding Algorithm** (1967) Viterbi [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1054010)
+
+#### Loopy Belief Propagation
+
+#### Forward Backward Algorithm
+
+#### Baum-Welch Algorithm
+- **(Baum-Welch)A Maximization Technique Occurring in the Statistical Analysis of Probabilistic Functions of Markov Chains** (1970) Baum [[pdf]](https://projecteuclid.org/euclid.aoms/1177697196)
+
+### Bayesian Networks (Directed Probabilistic Graphical Model)
 
 #### Algebraic Decision Diagram
 - **(BinaryDD)Graph-based algorithms for Boolean function manipulation** (1985) Randal Bryant [[pdf]](http://repository.cmu.edu/cgi/viewcontent.cgi?article=2529&context=compsci)
@@ -1053,26 +1065,19 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **(Tree CPT)Context-Specific Independence in Bayesian Networks** (2013) Craig Boutilier [[pdf]](https://arxiv.org/abs/1302.3562)
 - **Affine Algebraic Decision Diagrams (AADDs) and their Application to Structured Probabilistic Inference** (2005, IJCAI) Scott Sanner [[pdf]](http://users.cecs.anu.edu.au/~ssanner/Papers/aadd.pdf)
 
-### Markov Random Fields
-
-### Factor Graphs
-- **Iterative Decoding of Compound Codes by Probability Propagation in Graphical Models** (1998) Brendan Frey [[pdf]](http://www.psi.toronto.edu/~psi/pubs2/1999%20and%20before/ppid-jsac.pdf)
-- **Factor graphs and the sum-product algorithm** (2001, IEEE) Frank Kschischang [[pdf]](http://www.psi.toronto.edu/~psi/pubs2/2001/frey2001factor.pdf) 
-- **Extending Factor Graphs so as to Unify Directed and Undirected Graphical Models** (2003, UAI) Brendan Frey [[pdf]](http://www.psi.toronto.edu/publications/2003/dfg-uai03.pdf)
-
-### Hidden Markov Models
+#### Hidden Markov Models
 - **Statistical Inference for Probabilistic Functions of Finite State Markov Chains** (1966) Leonard Baum [[pdf]](https://projecteuclid.org/download/pdf_1/euclid.aoms/1177699147)
 - **A tutorial on hidden Markov models and selected applications in speech recognition** (1989, IEEE) Rabiner [[pdf]](http://ieeexplore.ieee.org/document/18626/)
 - **HMM-Based Word Alignment in Statistical Translation** (1996) Stephan Vogel [[pdf]](https://dl.acm.org/citation.cfm?id=993313)
 - **An Introduction to Hidden Markov Models and Bayesian Networks** (2001) Zoubin [[pdf]](http://mlg.eng.cam.ac.uk/zoubin/papers/ijprai.pdf)
 - **What HMMs Can Do** (2006) Jeff Bilmes [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.98.2702&rep=rep1&type=pdf)
 
-### Maximum Entropy Markov Model
+#### Maximum Entropy Markov Model
 - **Information Theory and Statistical Mechanics** (1957) Jaynes [[pdf]](https://journals.aps.org/pr/abstract/10.1103/PhysRev.106.620)
 - **A Simple Introduction to Maximum Entropy Models for Natural Language Processing** (1997) Adwait [[pdf]](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1083&context=ircs_reports)
 - **Maximum Entropy Markov Models for Information Extraction and Segmentation** (2000) Andrew McCallum [[pdf]](http://www.ai.mit.edu/courses/6.891-nlp/READINGS/maxent.pdf)
 
-### Conditional Random Fields
+#### Conditional Random Fields
 - **An Introduction to Conditional Random Fields** (2011) Charles Sutton [[pdf]](http://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf)
 - **Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data** (2001) John Lafferty [[pdf]](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers)
 - **Efficient Training of Conditional Random Fields** (2002)  Hannah [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.134.8962&rep=rep1&type=pdf)
@@ -1086,6 +1091,18 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ### Dynamic Bayes Networks
 - **Dynamic Network Models for Forecasting** (1992, UAI) Paul Dagum [[pdf]](http://erichorvitz.com/dynamic_network_models_UAI_1992.pdf)
+
+### Markov Random Fields (Undirected Probabilistic Graphical Model)
+
+#### Ising Model
+
+#### Hopfield Network
+- **Neural Network and Physical Systems with Emergent Collective Computational Abilities** (1982) Hopfield [[pdf]](http://www.dna.caltech.edu/courses/cs191/paperscs191/Hopfield82.pdf)
+
+### Factor Graphs
+- **Iterative Decoding of Compound Codes by Probability Propagation in Graphical Models** (1998) Brendan Frey [[pdf]](http://www.psi.toronto.edu/~psi/pubs2/1999%20and%20before/ppid-jsac.pdf)
+- **Factor graphs and the sum-product algorithm** (2001, IEEE) Frank Kschischang [[pdf]](http://www.psi.toronto.edu/~psi/pubs2/2001/frey2001factor.pdf) 
+- **Extending Factor Graphs so as to Unify Directed and Undirected Graphical Models** (2003, UAI) Brendan Frey [[pdf]](http://www.psi.toronto.edu/publications/2003/dfg-uai03.pdf)
 
 ## Reinforcement Learning
 - **Learning to predict by the methods of temporal differences** (1988) Richard Sutton [[pdf]](https://link.springer.com/article/10.1023/A:1022633531479)
