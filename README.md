@@ -876,6 +876,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ### Loss Function
 - **Are Loss Functions All the Same?** (2003) Rosasco [[pdf]](http://web.mit.edu/lrosasco/www/publications/loss.pdf)
 
+## Mixture Models
+ 
+- **Bayesian Modelling and Inference on Mixtures of Distributions** (2005) Jean [[pdf]](https://www.ceremade.dauphine.fr/~xian/mixo.pdf)
+
 ## Deep Learning
 
 ### Training and Optimization
