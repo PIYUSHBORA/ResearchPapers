@@ -1077,6 +1077,16 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **A Simple Introduction to Maximum Entropy Models for Natural Language Processing** (1997) Adwait [[pdf]](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1083&context=ircs_reports)
 - **Maximum Entropy Markov Models for Information Extraction and Segmentation** (2000) Andrew McCallum [[pdf]](http://www.ai.mit.edu/courses/6.891-nlp/READINGS/maxent.pdf)
 
+### Dynamic Bayes Networks
+- **Dynamic Network Models for Forecasting** (1992, UAI) Paul Dagum [[pdf]](http://erichorvitz.com/dynamic_network_models_UAI_1992.pdf)
+
+### Markov Random Fields (Undirected Probabilistic Graphical Model)
+
+#### Ising Model
+
+#### Hopfield Network
+- **Neural Network and Physical Systems with Emergent Collective Computational Abilities** (1982) Hopfield [[pdf]](http://www.dna.caltech.edu/courses/cs191/paperscs191/Hopfield82.pdf)
+
 #### Conditional Random Fields
 - **An Introduction to Conditional Random Fields** (2011) Charles Sutton [[pdf]](http://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf)
 - **Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data** (2001) John Lafferty [[pdf]](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers)
@@ -1089,15 +1099,6 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **An Introduction to Conditional Random Fields for Relational Learning** (2006) Charles Sutton [[pdf]](https://cis.temple.edu/~latecki/Courses/RobotFall08/Papers/ConditionalRandomFieldsRelationalLearning.pdf)
 - **Classical Probabilistic Models and Conditional Random Fields** (2007) Roman Klinger [[pdf]](http://www.eng.utah.edu/~cs6961/papers/klinger-crf-intro.pdf)
 
-### Dynamic Bayes Networks
-- **Dynamic Network Models for Forecasting** (1992, UAI) Paul Dagum [[pdf]](http://erichorvitz.com/dynamic_network_models_UAI_1992.pdf)
-
-### Markov Random Fields (Undirected Probabilistic Graphical Model)
-
-#### Ising Model
-
-#### Hopfield Network
-- **Neural Network and Physical Systems with Emergent Collective Computational Abilities** (1982) Hopfield [[pdf]](http://www.dna.caltech.edu/courses/cs191/paperscs191/Hopfield82.pdf)
 
 ### Factor Graphs
 - **Iterative Decoding of Compound Codes by Probability Propagation in Graphical Models** (1998) Brendan Frey [[pdf]](http://www.psi.toronto.edu/~psi/pubs2/1999%20and%20before/ppid-jsac.pdf)
