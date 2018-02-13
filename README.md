@@ -777,6 +777,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ## Optimization
 - **Automatic differentiation in machine learning: a survey** (2014) Atilim et al. [[pdf]](https://arxiv.org/abs/1502.05767)
 
+## Dimensionality Reduction 
+- **Dimensionality Reduction: A Comparative Review** (2009) Laurens [[pdf]](https://www.tilburguniversity.edu/upload/59afb3b8-21a5-4c78-8eb3-6510597382db_TR2009005.pdf)
+
 ## Music Generation
 - **Deep Learning Techniques for Music Generation - A Survey** (2017) Jean et al. [[pdf]](https://arxiv.org/pdf/1709.01620v1.pdf)
 
@@ -1167,6 +1170,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Learning classifiers from only positive and unlabeled data** (2008, KDD) Charles Elkan [[pdf]](https://dl.acm.org/citation.cfm?id=1401920)
 - **Collaborative prediction and ranking with non-random missing data** (2009, RecSys) Marlin [[pdf]](https://dl.acm.org/citation.cfm?id=1639717)
 - **Recommender Systems: Missing Data and Statistical Model Estimation** (2011, AAAI) Marlin [[pdf]](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI11/paper/view/3078)
+- **Autoencoders and Probabilistic Inference with Missing Data: An Exact Solution for The Factor Analysis Case** (2018) Christopher Williams [[pdf]](https://arxiv.org/pdf/1801.03851.pdf)
 
 #### One Class Missing Data
 - **Mind the Gaps: Weighting the Unknown in Large-Scale One-Class Collaborative Filtering** (2009, KDD) Rong Pan [[pdf]](https://dl.acm.org/citation.cfm?id=1557094)
