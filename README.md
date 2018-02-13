@@ -533,6 +533,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Deep Learning Summer School Montreal 2015](http://videolectures.net/deeplearning2015_montreal/)
 - [Deep Learning Summer School Montreal 2016](http://videolectures.net/deeplearning2016_montreal/)
 - [University of Amsterdam Deep Learning Course](http://uvadlc.github.io/) 
+- [STAT385 Theories of Deep Learning](https://www.researchgate.net/project/Theories-of-Deep-Learning)
 - [Bay Area Deep Learning School at CEMEX 2016](https://www.youtube.com/channel/UCb7PaTJYueRh6Y5rQ7h3U3w/videos)
 - [STA946 Deep Learning by Ali Ghodsi](https://www.youtube.com/playlist?list=PLehuLRPyt1HxTolYUWeyyIoxDabDmaOSB) 
 - [NYU Deep Learning by Yann Lecunn 2014](https://cilvr.cs.nyu.edu/doku.php?id=courses:deeplearning2014:start)
@@ -718,6 +719,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Deep Learning Review** (2015, Nature) Yann LeCunn [[pdf]](https://www.nature.com/articles/nature14539)
 - **Deep Learning in Neural Networks: An Overview** (2015) Jurgen [[pdf]](http://people.idsia.ch/~juergen/deep-learning-overview.html)
 - **On the Origin of Deep Learning** (2017) Haohan Wang [[pdf]](https://arxiv.org/pdf/1702.07800.pdf)
+
+### Convolutional Neural Networks
+- **A Mathematical Theory of Deep Convolutional Neural Networks for Feature Extraction** (2017) Thomas [[pdf]](https://www.nari.ee.ethz.ch/commth//pubs/files/deep-2016.pdf)
 
 ### Recurrent Neural Networks
 - **A Critical Review of Recurrent Neural Networks for Sequence Learning** Zachary Lipton [[pdf]](https://arxiv.org/abs/1506.00019)
