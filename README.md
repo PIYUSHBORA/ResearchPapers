@@ -1080,6 +1080,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 #### Algebraic Decision Diagram
 - **(BinaryDD)Graph-based algorithms for Boolean function manipulation** (1985) Randal Bryant [[pdf]](http://repository.cmu.edu/cgi/viewcontent.cgi?article=2529&context=compsci)
 - **(ADD)Algebraic Decision Diagrams and their Applications** (1993, IEEE) Bahar [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=580054)
+- **Binary decision diagrams in theory and practice** (2001) Rolf [[pdf]](https://link.springer.com/article/10.1007/s100090100056)
 - **(Tree CPT)Context-Specific Independence in Bayesian Networks** (2013) Craig Boutilier [[pdf]](https://arxiv.org/abs/1302.3562)
 - **Affine Algebraic Decision Diagrams (AADDs) and their Application to Structured Probabilistic Inference** (2005, IJCAI) Scott Sanner [[pdf]](http://users.cecs.anu.edu.au/~ssanner/Papers/aadd.pdf)
 
