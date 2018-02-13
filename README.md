@@ -1053,8 +1053,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Statistical inference with probabilistic graphical models** (2014) Angelique [[pdf]](https://arxiv.org/abs/1409.4928)
 
 ### Inference in Probabilistic Graphical Models
+- **The Generalized Distributive Law** (2000, IEEE) Srinivas [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.125.8954&rep=rep1&type=pdf)
 
-#### Variable Elmination
+#### Variable Elimination
 - **Exploiting Causal Independence in Bayesian Network Inference** (1996) Nevin Lianwen Zhang [[pdf]](https://www.jair.org/media/305/live-305-1566-jair.pdf)
 
 #### Viterbi Algorithm
