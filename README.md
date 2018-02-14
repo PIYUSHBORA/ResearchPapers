@@ -823,7 +823,15 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **A Gentle Tutorial of the EM Algorithm and its Application to Parameter Estimation for Gaussian Mixture and Hidden Markov Models** (1998) Jeff Bilmes [[pdf]](http://melodi.ee.washington.edu/people/bilmes/mypapers/em.pdf)
 - **What is the expectation maximization algorithm** (2008) Chuong B Do [[pdf]](https://www.nature.com/articles/nbt1406)
 
-### Monte Carlo
+### Information Geometry
+- **Information-Geometric Optimization Algorithms: A Unifying Picture via Invariance Principles** (2017, JMLR) Yann Ollivier [[pdf]](http://www.jmlr.org/papers/volume18/14-467/14-467.pdf)
+
+## Inference
+
+### Conjugate Priors
+- **Conjugate Bayesian analysis of the Gaussian distribution** (2007) Kevin Murphy [[pdf]](http://www.cs.ubc.ca/~murphyk/Papers/bayesGauss.pdf)
+
+### Monte Carlo Inference
 - **Stan Ulam, John Von Neumann and the Monte Carlo Method** (1987) Eckhard [[pdf]](http://www-star.st-and.ac.uk/~kw25/teaching/mcrt/MC_history_3.pdf)
 - **THE BEGINNING of the MONTE CARLO METHOD** (1987) Metropolis [[pdf]](http://library.lanl.gov/cgi-bin/getfile?00326866.pdf)
 
@@ -871,12 +879,6 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **An Introduction to Variational Methods for Graphical Models** (1999) Michael Jordan [[pdf]](https://people.eecs.berkeley.edu/~jordan/papers/variational-intro.pdf)
 - **Graphical Models, Exponential Families, and Variational Inference** (2008) Martin Wainwright [[pdf]](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf)
 - **Stochastic Variational Inference** (2013) Matthew Hoffman [[pdf]](https://arxiv.org/abs/1206.7051)
-
-### Conjugate Priors
-- **Conjugate Bayesian analysis of the Gaussian distribution** (2007) Kevin Murphy [[pdf]](http://www.cs.ubc.ca/~murphyk/Papers/bayesGauss.pdf)
-
-### Information Geometry
-- **Information-Geometric Optimization Algorithms: A Unifying Picture via Invariance Principles** (2017, JMLR) Yann Ollivier [[pdf]](http://www.jmlr.org/papers/volume18/14-467/14-467.pdf)
 
 ## Machine Learning
 
@@ -1074,6 +1076,15 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 #### Baum-Welch Algorithm
 - **(Baum-Welch)A Maximization Technique Occurring in the Statistical Analysis of Probabilistic Functions of Markov Chains** (1970) Baum [[pdf]](https://projecteuclid.org/euclid.aoms/1177697196)
+
+#### Sampling 
+
+##### Forward Sampling 
+- **Propagating Uncertainty in Bayesian Networks by Probabilistic Logic Sampling** (1988, UAI) Henrion [[pdf]](https://www.sciencedirect.com/science/article/pii/B9780444703965500194)
+- **Simulation Approaches to General Probabilistic Inference on Belief Networks** (1989, UAI) Ross [[pdf]](https://arxiv.org/abs/1304.1526)
+
+##### Importance Sampling 
+- **Importance sampling algorithms for Bayesian networks: Principles and performance** (2006) Changhe Yuan [[pdf]](https://www.sciencedirect.com/science/article/pii/S0895717705005443?via%3Dihub)
 
 ### Bayesian Networks (Directed Probabilistic Graphical Model)
 
