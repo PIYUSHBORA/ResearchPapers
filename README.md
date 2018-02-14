@@ -1079,11 +1079,15 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 #### Sampling 
 
-##### Forward Sampling 
-- **Propagating Uncertainty in Bayesian Networks by Probabilistic Logic Sampling** (1988, UAI) Henrion [[pdf]](https://www.sciencedirect.com/science/article/pii/B9780444703965500194)
-- **Simulation Approaches to General Probabilistic Inference on Belief Networks** (1989, UAI) Ross [[pdf]](https://arxiv.org/abs/1304.1526)
+##### Forward Propagation
+- **(Logic Sampling)Propagating Uncertainty in Bayesian Networks by Probabilistic Logic Sampling** (1988, UAI) Henrion [[pdf]](https://www.sciencedirect.com/science/article/pii/B9780444703965500194)
+
+##### Likelihood Weighting
+- **Weighing and Integrating Evidence for Stochastic Simulation in Bayesian Networks** (1989, UAI) Robert Fung [[pdf]](https://arxiv.org/abs/1304.1504)
 
 ##### Importance Sampling 
+- **Simulation Approaches to General Probabilistic Inference on Belief Networks** (1989, UAI) Ross [[pdf]](https://arxiv.org/abs/1304.1526)
+- **AIS-BN: An Adaptive Importance Sampling Algorithm for Evidential Reasoning in Large Bayesian Networks** (2000, JAIR) Cheng [[pdf]](https://arxiv.org/abs/1106.0253)
 - **Importance sampling algorithms for Bayesian networks: Principles and performance** (2006) Changhe Yuan [[pdf]](https://www.sciencedirect.com/science/article/pii/S0895717705005443?via%3Dihub)
 
 ### Bayesian Networks (Directed Probabilistic Graphical Model)
