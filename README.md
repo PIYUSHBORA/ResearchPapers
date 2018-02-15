@@ -767,6 +767,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ## Markov Chain Monte Carlo
 - **An Introduction to MCMC for Machine Learning** (2003) Christophe [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.13.7133)
+- **General State Space Markov Chains and MCMC Algorithms** (2004) Jeffrey Rosenthal [[pdf]](http://probability.ca/jeff/ftpdir/probsurv.pdf)
+AND MCMC ALGORITHMS**
 
 ## Variational Inference
 - **Variational Inference: A Review for Statisticians** David M Blei [[pdf]](https://arxiv.org/abs/1601.00670)
