@@ -838,6 +838,7 @@ AND MCMC ALGORITHMS**
 - **THE BEGINNING of the MONTE CARLO METHOD** (1987) Metropolis [[pdf]](http://library.lanl.gov/cgi-bin/getfile?00326866.pdf)
 
 #### Markov Chain Monte Carlo
+- **Convergence rates of Markov chains** (1994) Jeffrey Rosenthal [[pdf]](http://probability.ca/jeff/ftpdir/eigen.pdf)
 
 ##### Metropolis Hasting Monte Carlo
 - **Equation of State Calculations by Fast Computing Machines** (1953) Metropolis [[pdf]](http://aip.scitation.org/doi/abs/10.1063/1.1699114)
