@@ -855,6 +855,7 @@ AND MCMC ALGORITHMS**
 ##### Gibbs Sampler
 - **Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images** (1984, PAMI) Geman [[pdf]](http://ieeexplore.ieee.org/document/4767596/)
 - **Sampling-Based Approaches to Calculating Marginal Densities** (1990) Alan Gelfand [[pdf]](http://wwwf.imperial.ac.uk/~das01/MyWeb/SCBI/Papers/GelfandSmith.pdf)
+- **Bayesian Computation Via the Gibbs Sampler and Related Markov Chain Monte Carlo Methods** (1993) Smith [[pdf]](https://www.jstor.org/stable/pdf/2346063.pdf?refreqid=excelsior%3Aa91748e2636f33acc8addd5b281e57c7)
 
 ##### Monte Carlo Expectation Maximization
 - **A Maximization Technique Occurring in the Statistical Analysis of Probabilistic Functions of Markov Chains** (1970) Leonard Baum [[pdf]](https://projecteuclid.org/euclid.aoms/1177697196)
