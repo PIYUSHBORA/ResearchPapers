@@ -870,6 +870,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ##### MCMC Hamiltonian Dynamics
 - **(HMC) MCMC using Hamiltonian dynamics** (2012) Radford Neal [[pdf]](https://arxiv.org/abs/1206.1901)
+- **A Conceptual Introduction to Hamiltonian Monte Carlo** (2017) Michael [[pdf]](https://arxiv.org/pdf/1701.02434.pdf)
 
 ### Variational Inference
 - **A Mean Field Theory Learning Algorithm for Neural Networks** (1987) Carsten Peterson [[pdf]](http://www.complex-systems.com/pdf/01-5-6.pdf)
