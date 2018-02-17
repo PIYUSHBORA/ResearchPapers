@@ -642,6 +642,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ### Sheila 
 - [CSC2541 Algorithms for Sequential Decision Making by Sheila Winter 2017](http://www.teach.cs.toronto.edu/~csc2542h/fall/slides.html)
 
+### Daniel Roy
+- [STA4516 Probabilistic Programming](http://danroy.org/teaching/2015/STA4516/)
+
 ## Operations Research
 - [Georgia Tech Anton](https://www2.isye.gatech.edu/~anton/)
 
