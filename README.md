@@ -1334,6 +1334,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Optimizing the F-Measure in Multi-Label Classification: Plug-in Rule Approach versus Structured Loss Minimization** (2013, PMLR) [[pdf]](http://proceedings.mlr.press/v28/dembczynski13.html)
 - **Thresholding Classifiers to Maximize F1 Score** (2014) Zachary Chase Lipton [[pdf]](https://arxiv.org/abs/1402.1892)
 #### Receiver Operator Characteristic
+- **A Method of Comparing the Areas under Receiver Operating Characteristic Curves Derived from the Same Case** (1983) Hanley [[pdf]](https://pdfs.semanticscholar.org/4c65/2690f499afbce1498e21acf9409308d587eb.pdf)
 - **The Relationship Between Precision-Recall and ROC Curves** (2006, ICML) [[pdf]](https://dl.acm.org/citation.cfm?id=1143874)
 
 #### Normalized Discounted Cumulative Gain
