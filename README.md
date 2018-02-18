@@ -916,7 +916,6 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
     - **Discriminative models, not discriminative training** (2005) Tom Minka [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-2005-144.pdf)
     - **An Asymptotic Analysis of Generative, Discriminative, and Pseudolikelihood Estimators** (2008, ICML) Percy Liang [[pdf]](https://cs.stanford.edu/~pliang/papers/asymptotics-icml2008.pdf)
 
-
 ## Mixture Models
  
 - **Bayesian Modelling and Inference on Mixtures of Distributions** (2005) Jean [[pdf]](https://www.ceremade.dauphine.fr/~xian/mixo.pdf)
@@ -924,6 +923,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ## Deep Learning
 
 ### Training and Optimization
+- **Cost-Sensitive Learning with Neural Networks** (1998, ECAI) Matjaz [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.8285&rep=rep1&type=pdf)
+- **Training cost-sensitive neural networks with methods addressing the class imbalance problem** (2006) ZhiHua Zhou [[pdf]](http://ieeexplore.ieee.org/document/1549828/)
 - **Training very deep networks** (2015) R. Srivastava et al. [[pdf]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
 
 #### Universal Approximators
