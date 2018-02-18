@@ -711,6 +711,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ## Recommender Systems
 - [Collaborative Filtering: A Machine Learning Perspective by Benjamin Marlin](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.87.4817&rep=rep1&type=pdf)
 - [Missing Data Problems in Machine Learning by Benjamin Marlin](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.160.8408&rep=rep1&type=pdf)
+- [A Unified Approach to Collaborative Filtering via Linear Models and Beyond](https://mesuvash.github.io/assets/pdf/papers/thesis.pdf)
 
 <!--------------------------------------------------- SURVEYS -------------------------------------------------->
 # Surveys 
