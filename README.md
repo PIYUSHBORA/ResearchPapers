@@ -893,6 +893,21 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ## Machine Learning
 
+### Evaluation
+#### F-Measure
+- **Maximum expected F-measure training of logistic regression models** (2005, HLT) [[pdf]](https://dl.acm.org/citation.cfm?id=1220662)
+- **Optimizing the F-Measure in Multi-Label Classification: Plug-in Rule Approach versus Structured Loss Minimization** (2013, PMLR) [[pdf]](http://proceedings.mlr.press/v28/dembczynski13.html)
+- **Thresholding Classifiers to Maximize F1 Score** (2014) Zachary Chase Lipton [[pdf]](https://arxiv.org/abs/1402.1892)
+#### Receiver Operator Characteristic
+- **A Method of Comparing the Areas under Receiver Operating Characteristic Curves Derived from the Same Case** (1983) Hanley [[pdf]](https://pdfs.semanticscholar.org/4c65/2690f499afbce1498e21acf9409308d587eb.pdf)
+- **The Relationship Between Precision-Recall and ROC Curves** (2006, ICML) [[pdf]](https://dl.acm.org/citation.cfm?id=1143874)
+
+#### Normalized Discounted Cumulative Gain
+- **A Theoretical Analysis of NDCG Type Ranking Measures** (2013, COLT) Yining Wang [[pdf]](https://arxiv.org/abs/1304.6480)
+
+#### Maximal Marginal Relevance
+- **Learning Maximal Marginal Relevance Model via Directly Optimizing Diversity Evaluation Measures** (2015, SIGIR) Long Xia [[pdf]](https://dl.acm.org/citation.cfm?id=2767710)
+
 ### Loss Function
 - **Are Loss Functions All the Same?** (2003) Rosasco [[pdf]](http://web.mit.edu/lrosasco/www/publications/loss.pdf)
 
@@ -1327,21 +1342,6 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Probabilistic Latent Semantic Indexing** (1999, SIGIR) Thomas Hofmann [[pdf]](http://sigir.org/wp-content/uploads/2017/06/p211.pdf)
 - **On an equivalence between PLSI and LDA** (2003, SIGIR) Mark Girolami [[pdf]](https://dl.acm.org/citation.cfm?id=860537)
 - **Probabilistic Latent Semantic Analysis Tutorial** (2012) Liangjie Hong [[pdf]](https://arxiv.org/pdf/1212.3900.pdf)
-
-### Evaluation Metrics for Information Retrieval 
-#### F-Measure
-- **Maximum expected F-measure training of logistic regression models** (2005, HLT) [[pdf]](https://dl.acm.org/citation.cfm?id=1220662)
-- **Optimizing the F-Measure in Multi-Label Classification: Plug-in Rule Approach versus Structured Loss Minimization** (2013, PMLR) [[pdf]](http://proceedings.mlr.press/v28/dembczynski13.html)
-- **Thresholding Classifiers to Maximize F1 Score** (2014) Zachary Chase Lipton [[pdf]](https://arxiv.org/abs/1402.1892)
-#### Receiver Operator Characteristic
-- **A Method of Comparing the Areas under Receiver Operating Characteristic Curves Derived from the Same Case** (1983) Hanley [[pdf]](https://pdfs.semanticscholar.org/4c65/2690f499afbce1498e21acf9409308d587eb.pdf)
-- **The Relationship Between Precision-Recall and ROC Curves** (2006, ICML) [[pdf]](https://dl.acm.org/citation.cfm?id=1143874)
-
-#### Normalized Discounted Cumulative Gain
-- **A Theoretical Analysis of NDCG Type Ranking Measures** (2013, COLT) Yining Wang [[pdf]](https://arxiv.org/abs/1304.6480)
-
-#### Maximal Marginal Relevance
-- **Learning Maximal Marginal Relevance Model via Directly Optimizing Diversity Evaluation Measures** (2015, SIGIR) Long Xia [[pdf]](https://dl.acm.org/citation.cfm?id=2767710)
 
 ## Computer Vision
 
