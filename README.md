@@ -934,6 +934,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Layer Normalization** (2016) Jimmy Ba [[pdf]](https://arxiv.org/pdf/1607.06450.pdf?utm_source=sciontist.com&utm_medium=refer&utm_campaign=promote)
 
 #### Calibration
+- **Predicting good probabilities with supervised learning** (2005, ICML) Alexandru [[pdf]](https://dl.acm.org/citation.cfm?id=1102430)
 - **On Calibration of Modern Neural Networks** (2017) Chuan Guo [[pdf]](https://arxiv.org/abs/1706.04599)
 
 #### Optimizer
