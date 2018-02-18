@@ -933,6 +933,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Batch Normalization: Accelerating deep network training by reducing internal covariate shift** (2015) S. Loffe and C. Szegedy [[pdf]](http://arxiv.org/pdf/1502.03167)
 - **Layer Normalization** (2016) Jimmy Ba [[pdf]](https://arxiv.org/pdf/1607.06450.pdf?utm_source=sciontist.com&utm_medium=refer&utm_campaign=promote)
 
+#### Calibration
+- **On Calibration of Modern Neural Networks** (2017) Chuan Guo [[pdf]](https://arxiv.org/abs/1706.04599)
+
 #### Optimizer
 - **Adaptive Subgradient Methods for Online Learning and Stochastic Optimization** (2011) John Duchi [[pdf]](http://jmlr.org/papers/v12/duchi11a.html)
 - **ADADELTA: An Adaptive Learning Rate Method** (2012) Matt Zeiler [[pdf]](https://arxiv.org/abs/1212.5701)
