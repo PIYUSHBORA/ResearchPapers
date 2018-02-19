@@ -734,6 +734,12 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **A Critical Review of Recurrent Neural Networks for Sequence Learning** Zachary Lipton [[pdf]](https://arxiv.org/abs/1506.00019)
 
 ## Recommendation Systems
+
+### Datasets
+#### Netflix
+- **Robust De-anonymization of Large Sparse Datasets** (2008, SP) Arvind [[pdf]](https://www.cs.utexas.edu/~shmat/shmat_oak08netflix.pdf)
+- **The Million Dollar Programming Prize** (2009) Robert Bell [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4907383)
+
 ### Collaborative Filtering
 - **A survey of collaborative filtering techniques** (2009) Xiaoyuan Su [[pdf]](https://dl.acm.org/citation.cfm?id=1722966)
 ### Collaborative Filtering Item-based
