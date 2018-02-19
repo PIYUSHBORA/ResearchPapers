@@ -976,11 +976,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 #### Saddle Point
 - **Identifying and attacking the saddle point problem in high-dimensional non-convex optimization** (2014) Dauphin [[pdf]](https://arxiv.org/abs/1406.2572)
+- **The Loss Surfaces of Multilayer Networks** (2014) Choromanska [[pdf]](https://arxiv.org/abs/1412.0233)
 
 ### Perceptron
 - **The Linear Separability Problem: Some Testing Methods** (2006) [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1603620)
-
-- **The Loss Surfaces of Multilayer Networks** (2014) Choromanska [[pdf]](https://arxiv.org/abs/1412.0233)
 
 ### AutoEncoders
 - **Autoencoders, Minimum Description Length and Helmholtz Free Energy** (1993) Geoffrey Hinton [[pdf]](https://papers.nips.cc/paper/798-autoencoders-minimum-description-length-and-helmholtz-free-energy)
