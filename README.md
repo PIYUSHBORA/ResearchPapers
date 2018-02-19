@@ -501,6 +501,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 # Video Lectures
 
+## Artificial Intelligence
+- [CS188 Berkeley by Pieter Abbeel 2012-2014](http://ai.berkeley.edu/lecture_videos.html)
+
 ## Machine Learning
 - [CS229 Machine Learning by Andrew Ng 2008](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLFC36A799B7FFD0CF)
 - [STA4273 Large Scale Machine Learning By Ruslan 2015](http://www.fields.utoronto.ca/video-archive/event/323/2014)
