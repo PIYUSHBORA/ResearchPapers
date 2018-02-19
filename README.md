@@ -926,11 +926,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
     - **An Asymptotic Analysis of Generative, Discriminative, and Pseudolikelihood Estimators** (2008, ICML) Percy Liang [[pdf]](https://cs.stanford.edu/~pliang/papers/asymptotics-icml2008.pdf)
 
 ## Mixture Models
- 
 - **Bayesian Modelling and Inference on Mixtures of Distributions** (2005) Jean [[pdf]](https://www.ceremade.dauphine.fr/~xian/mixo.pdf)
 
 ## Deep Learning
-
 ### Training and Optimization
 - **Cost-Sensitive Learning with Neural Networks** (1998, ECAI) Matjaz [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.8285&rep=rep1&type=pdf)
 - **Training cost-sensitive neural networks with methods addressing the class imbalance problem** (2006) ZhiHua Zhou [[pdf]](http://ieeexplore.ieee.org/document/1549828/)
@@ -978,6 +976,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 #### Saddle Point
 - **Identifying and attacking the saddle point problem in high-dimensional non-convex optimization** (2014) Dauphin [[pdf]](https://arxiv.org/abs/1406.2572)
+
+### Perceptron
+- **The Linear Separability Problem: Some Testing Methods** (2006) [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1603620)
+
 - **The Loss Surfaces of Multilayer Networks** (2014) Choromanska [[pdf]](https://arxiv.org/abs/1412.0233)
 
 ### AutoEncoders
