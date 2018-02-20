@@ -735,11 +735,6 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ## Recommendation Systems
 
-### Datasets
-#### Netflix
-- **Robust De-anonymization of Large Sparse Datasets** (2008, SP) Arvind [[pdf]](https://www.cs.utexas.edu/~shmat/shmat_oak08netflix.pdf)
-- **The Million Dollar Programming Prize** (2009) Robert Bell [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4907383)
-
 ### Collaborative Filtering
 - **A survey of collaborative filtering techniques** (2009) Xiaoyuan Su [[pdf]](https://dl.acm.org/citation.cfm?id=1722966)
 ### Collaborative Filtering Item-based
@@ -1230,6 +1225,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 # Applications
 
 ## Recommendation Systems
+
+### Datasets
+#### Netflix
+- **Robust De-anonymization of Large Sparse Datasets** (2008, SP) Arvind [[pdf]](https://www.cs.utexas.edu/~shmat/shmat_oak08netflix.pdf)
+- **The Million Dollar Programming Prize** (2009) Robert Bell [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4907383)
 
 ### Bandit Recommendation Systems
 - **Cascading Bandits for Large-Scale Recommendation Problems** (2016, UAI) Shi Zong [[pdf]](http://www.bkveton.com/docs/uai2016.pdf)
