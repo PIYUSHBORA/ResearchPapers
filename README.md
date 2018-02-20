@@ -984,6 +984,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **PIECEWISE LINEAR CLASSIFIERS WITH AN APPROPRIATE NUMBER OF HYPERPLANES** (1998) Hiroshi [[pdf]](https://ac.els-cdn.com/S0031320398000168/1-s2.0-S0031320398000168-main.pdf?_tid=26b0d138-15ed-11e8-a35d-00000aacb360&acdnat=1519097074_0feee0b3276fdac6ad00582369f4d8d9)
 
 ### Perceptron
+- **The Perceptron: A Probabilistic Model for Information Storage and Organization in The Brain** (1958) Rosenblatt [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.588.3775)
 
 ### AutoEncoders
 - **Autoencoders, Minimum Description Length and Helmholtz Free Energy** (1993) Geoffrey Hinton [[pdf]](https://papers.nips.cc/paper/798-autoencoders-minimum-description-length-and-helmholtz-free-energy)
