@@ -789,6 +789,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ## Bayesian Nonparametrics
 - **Tutorial on Bayesian nonparametric models** (2011) Samuel [[pdf]](https://arxiv.org/abs/1106.2697)
+- **Lectures on Bayesian Nonparametrics** (2014) Peter Orbanz [[pdf]](http://stat.columbia.edu/~porbanz/papers/porbanz_BNP_draft.pdf)
 
 ## Optimization
 - **Automatic differentiation in machine learning: a survey** (2014) Atilim et al. [[pdf]](https://arxiv.org/abs/1502.05767)
