@@ -978,8 +978,12 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Identifying and attacking the saddle point problem in high-dimensional non-convex optimization** (2014) Dauphin [[pdf]](https://arxiv.org/abs/1406.2572)
 - **The Loss Surfaces of Multilayer Networks** (2014) Choromanska [[pdf]](https://arxiv.org/abs/1412.0233)
 
-### Perceptron
+### Piecewise Linear Classifiers
 - **The Linear Separability Problem: Some Testing Methods** (2006) [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1603620)
+- **Comparison of a neural network piecewise linear classifier** (1991) Zhen Ping Lo [[pdf]](https://ac.els-cdn.com/0167865591900013/1-s2.0-0167865591900013-main.pdf?_tid=f4c37e5a-15ec-11e8-8bd6-00000aab0f6c&acdnat=1519096990_136a057a772e6d15dd623eca5a6739c3)
+- **PIECEWISE LINEAR CLASSIFIERS WITH AN APPROPRIATE NUMBER OF HYPERPLANES** (1998) Hiroshi [[pdf]](https://ac.els-cdn.com/S0031320398000168/1-s2.0-S0031320398000168-main.pdf?_tid=26b0d138-15ed-11e8-a35d-00000aacb360&acdnat=1519097074_0feee0b3276fdac6ad00582369f4d8d9)
+
+### Perceptron
 
 ### AutoEncoders
 - **Autoencoders, Minimum Description Length and Helmholtz Free Energy** (1993) Geoffrey Hinton [[pdf]](https://papers.nips.cc/paper/798-autoencoders-minimum-description-length-and-helmholtz-free-energy)
