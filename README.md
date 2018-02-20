@@ -502,8 +502,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 # Video Lectures
 
 ## Machine Learning Code
-### Pytorch
+### PyTorch
 - [UTHKST PyTorch Zero To All](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&disable_polymer=true)
+- [FastAI PyTorch](https://www.youtube.com/watch?v=kzt3-FHdAeM&list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM)
 
 ## Artificial Intelligence
 - [CS188 Berkeley by Pieter Abbeel 2012-2014](http://ai.berkeley.edu/lecture_videos.html)
