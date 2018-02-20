@@ -473,6 +473,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Matthew Hoffman](http://matthewdhoffman.com/) 
 - [Michael I Jordan](https://people.eecs.berkeley.edu/~jordan/)
 
+## Bayesian Nonparametrics
+- [Yee Whye Teh](https://www.stats.ox.ac.uk/~teh/)
+- [Peter Orbanz](http://stat.columbia.edu/~porbanz/)
+
 ## Support Vector Machines
 - [Vapnik](https://scholar.google.com/citations?user=vtegaJgAAAAJ) 
 - [Alex Smola](https://alex.smola.org/) 
