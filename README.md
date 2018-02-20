@@ -988,7 +988,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ### AutoEncoders
 - **Autoencoders, Minimum Description Length and Helmholtz Free Energy** (1993) Geoffrey Hinton [[pdf]](https://papers.nips.cc/paper/798-autoencoders-minimum-description-length-and-helmholtz-free-energy)
-- **. Reducing the dimensionality of data with neural networks** (2006) Geoffrey Hinton [[pdf]](https://www.cs.toronto.edu/~hinton/science.pdf)
+- **Reducing the dimensionality of data with neural networks** (2006) Geoffrey Hinton [[pdf]](https://www.cs.toronto.edu/~hinton/science.pdf)
 
 #### Denoising AutoEncoders
 - **Extracting and composing robust features with denoising autoencoders** (2008) Pascal Vincent [[pdf]](https://dl.acm.org/citation.cfm?id=1390294)
