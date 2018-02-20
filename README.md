@@ -533,7 +533,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Washington EE512 Advanced Inference in Graphical Models by Jeffrey Bilmes 2014](http://j.ee.washington.edu/~bilmes/classes/ee512a_fall_2014/)
 
 ## Bayesian Learning
-- [University of Notre Dame by Nicholas Zabaras](https://www.zabaras.com/statisticalcomputing)
+- [University of Notre Dame Statistical Computing by Nicholas Zabaras Fall 2017](https://www.zabaras.com/statisticalcomputing)
 
 ## Dynamic Programming
 - [Dynamic Programming By Bertsekas](https://www.youtube.com/playlist?list=PLiCLbsFQNFAxOmVeqPhI5er1LGf2-L9I4) 
