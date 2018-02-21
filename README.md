@@ -778,7 +778,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **A Survey on Contextual Multi-armed Bandits** (2015) Li Zhou [[pdf]](https://arxiv.org/abs/1508.03326) 
 
 ## Active Learning
-1- **Theoretical Foundations of Active Learning** (2009) Steve Hanneke [[pdf]](https://pdfs.semanticscholar.org/027f/f5e1d93b740e02c042b515c83a1fafa312e7.pdf)
+- **Theoretical Foundations of Active Learning** (2009) Steve Hanneke [[pdf]](https://pdfs.semanticscholar.org/027f/f5e1d93b740e02c042b515c83a1fafa312e7.pdf)
 - **Active Learning Literature Survey** (2010) Burr Settles [[pdf]](http://burrsettles.com/pub/settles.activelearning.pdf)
 - **Two faces of active learning** (2011) Sanjov [[pdf]](https://www.sciencedirect.com/science/article/pii/S0304397510007620)
 
