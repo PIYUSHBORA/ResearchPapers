@@ -1262,7 +1262,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Social collaborative filtering for cold-start recommendations** (2014, RecSys) [[pdf]](https://dl.acm.org/citation.cfm?id=2645772)
 
 ### Matrix Factorization
-- **Weighted Low-Rank Approximations** (2003, ICML) Nathan [[pdf]](https://www.aaai.org/Papers/ICML/2003/ICML03-094.pdf)
+- **Lower Rank Approximation of Matrices by Least Squares with Any Choice of Weights** (1979) Ruben Gabriel [[pdf]](http://www.ma.huji.ac.il/~zamir/paper17.htm)
+- **Weighted Low-Rank Approximations** (2003, ICML) Nathan Srebro [[pdf]](https://www.aaai.org/Papers/ICML/2003/ICML03-094.pdf)
 - **Large-Scale Parallel Collaborative Filtering for the Netflix Prize** (2008, AAIM) Yunhong Zhou [[pdf]](https://link.springer.com/content/pdf/10.1007/978-3-540-68880-8_32.pdf)
 - **(BiasedMF) Matrix Factorization Techniques for Recommender Systems** (2009, IEEE) Yehuda Koren [[pdf]](http://ieeexplore.ieee.org/document/5197422/)
 - **Matchbox: Large Scale Bayesian Recommendations** (2009, WWW) David Stern [[pdf]](https://www.microsoft.com/en-us/research/publication/matchbox-large-scale-bayesian-recommendations/)
