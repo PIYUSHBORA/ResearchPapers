@@ -1272,6 +1272,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Matchbox: Large Scale Bayesian Recommendations** (2009, WWW) David Stern [[pdf]](https://www.microsoft.com/en-us/research/publication/matchbox-large-scale-bayesian-recommendations/)
 - **BPR: Bayesian personalized ranking from implicit feedback** (2009, UAI) Steffen Rendle [[pdf]](https://dl.acm.org/citation.cfm?id=1795167)
 - **(CTR) Collaborative Topic Modeling for Recommending Scientific Articles** (2011, KDD) Chong Wang [[pdf]](http://www.cs.columbia.edu/~blei/papers/WangBlei2011.pdf)
+- **Alternating Least Squares for Personalized Ranking** (2012, RecSys) Gabor [[pdf]](https://dl.acm.org/citation.cfm?id=2365972)
 - **(PoissonMF) Bayesian Nonparametric Poisson Factorization for Recommendation Systems** (2014, JMLR) Gopalan [[pdf]](http://proceedings.mlr.press/v33/gopalan14.pdf)
 - **(NNMF) Neural Network Matrix Factorization** (2015) Gintare [[pdf]](https://arxiv.org/pdf/1511.06443.pdf)
 - **LLORMA: Local Low-Rank Matrix Approximation** (2016, ICML) Joonseok Lee [[pdf]](http://jmlr.org/papers/volume17/14-301/14-301.pdf)
@@ -1305,7 +1306,6 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **SLIM: Sparse Linear Methods for Top-N Recommender Systems** (2011, ICDM) Xia Ning [[pdf]](https://dl.acm.org/citation.cfm?id=2118303) [[code]](https://www-users.cs.umn.edu/~ningx005/slim/html/index.html)
 - **(LREC) On the Effectiveness of Linear Models for One-Class Collaborative Filtering** (2016, AAAI) Sedhain [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12333)
 - **(Linear Flow) Practical linear models for large-scale one-class collaborative filtering** (2016, IJCAI) Sedhain [[pdf]](https://dl.acm.org/citation.cfm?id=3061158) [[slides]](https://31f4ea79-a-62cb3a1a-s-sites.googlegroups.com/site/buihhung/papers/linear-flow-ijcai16-slides.pdf?attachauth=ANoY7crFxEmfzWm1N7GIIMVOe6jysE96pWJVFaFoArTMH2sX9naOzH89PyZjMSYyWaOxeNpAaALorbuLicI0Tr-mSNKFwuo0AbrjG_0l9Bg7U_eXwJJ0IZLQzsj_kEYOsZYMj95jrcLQAKPpBTHVHWjQ0aXoi6vFtHop-b5JYQ7yBcYM9Ut0dKTTE_-UZGGpHRZ8pEZKx1lnsjPHlpakHx3NVJnzydZmVVVsNPPp2xYRf1PDHNpLuQw%3D&attredirects=0)
-
 
 ### Deep Neural Networks
 - **Deep content-based music recommendation** (2013, NIPS) Aaron Van den Oord [[pdf]](https://papers.nips.cc/paper/5004-deep-content-based-music-recommendation)
