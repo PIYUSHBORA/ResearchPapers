@@ -1251,13 +1251,13 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ### Missing Data 
 - **Collaborative Filtering and the Missing at Random Assumption** (2007, UAI) Marlin [[pdf]](https://arxiv.org/abs/1206.5267)
 - **Learning classifiers from only positive and unlabeled data** (2008, KDD) Charles Elkan [[pdf]](https://dl.acm.org/citation.cfm?id=1401920)
+- **Mind the Gaps: Weighting the Unknown in Large-Scale One-Class Collaborative Filtering** (2009, KDD) Rong Pan [[pdf]](https://dl.acm.org/citation.cfm?id=1557094)
 - **Collaborative prediction and ranking with non-random missing data** (2009, RecSys) Marlin [[pdf]](https://dl.acm.org/citation.cfm?id=1639717)
 - **Recommender Systems: Missing Data and Statistical Model Estimation** (2011, AAAI) Marlin [[pdf]](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI11/paper/view/3078)
+- **Ranking With Non-Random Missing Ratings: Influence Of Popularity And Positivity on Evaluation Metrics** (2012, Recsys) Bruno Pradel [[pdf]](https://dl.acm.org/citation.cfm?doid=2365952.2365982)
+- **Efficient Top-N Recommendation for Very Large Scale Binary Rated Datasets** (2013, RecSys) Fabio [[pdf]](https://dl.acm.org/citation.cfm?id=2507189)
 - **Autoencoders and Probabilistic Inference with Missing Data: An Exact Solution for The Factor Analysis Case** (2018) Christopher Williams [[pdf]](https://arxiv.org/pdf/1801.03851.pdf)
 
-#### One Class Missing Data
-- **Mind the Gaps: Weighting the Unknown in Large-Scale One-Class Collaborative Filtering** (2009, KDD) Rong Pan [[pdf]](https://dl.acm.org/citation.cfm?id=1557094)
-- **Efficient Top-N Recommendation for Very Large Scale Binary Rated Datasets** (2013, RecSys) Fabio [[pdf]](https://dl.acm.org/citation.cfm?id=2507189)
 
 ### Social Collaborative Filtering
 - **New objective functions for social collaborative filtering** (2012, WWW) Joseph Noel [[pdf]](https://dl.acm.org/citation.cfm?id=2187952)
