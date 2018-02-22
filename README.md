@@ -916,6 +916,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **A Method of Comparing the Areas under Receiver Operating Characteristic Curves Derived from the Same Case** (1983) Hanley [[pdf]](https://pdfs.semanticscholar.org/4c65/2690f499afbce1498e21acf9409308d587eb.pdf)
 - **The Relationship Between Precision-Recall and ROC Curves** (2006, ICML) [[pdf]](https://dl.acm.org/citation.cfm?id=1143874)
 
+#### Cost Curves
+- **Cost curves: An improved method for visualizing classifier performance** (2006) Chris Drummond [[pdf]](https://link.springer.com/content/pdf/10.1007/s10994-006-8199-5.pdf)
+
 #### Normalized Discounted Cumulative Gain
 - **A Theoretical Analysis of NDCG Type Ranking Measures** (2013, COLT) Yining Wang [[pdf]](https://arxiv.org/abs/1304.6480)
 
