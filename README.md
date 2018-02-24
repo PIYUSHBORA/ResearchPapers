@@ -951,10 +951,15 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ### VC Dimension
 - **Learnability and the Vapnik-Chervonenkis Dimension** (1989) Anselm Butler [[pdf]](http://www2.denizyuret.com/ref/blumer/ft_gateway.cfm.pdf)
+- **Bounds on the Sample Complexity of Bayesian Learning Using Information Theory and the VC Dimension** (1994) David Haussler [[pdf]](http://rob.schapire.net/papers/bounds-on-bayes.pdf)
 
 ## Boosting
 - **The Strength of Weak Learnability** (1990) Robert Schapire [[pdf]](http://rob.schapire.net/papers/strengthofweak.pdf)
-
+- **A decision-theoretic generalization of on-line learning and an application to boosting** (1995) Yoav Freund [[pdf]](http://rob.schapire.net/papers/FreundSc95.pdf)
+- **Experiments with a New Boosting Algorithm** (1996) Yoav Freund [[pdf]](http://rob.schapire.net/papers/FreundSc96.pdf)
+- **Theoretical Views of Boosting and Applications** (1999) Robert Schapire [[pdf]](http://rob.schapire.net/papers/Schapire99d.pdf)
+- **A Brief Introduction to Boosting** (1999) Robert Schapire [[pdf]](http://rob.schapire.net/papers/Schapire99c.pdf)
+- **Advances in Boosting** (2002, UAI) Robert Schapire [[pdf]](http://rob.schapire.net/papers/uai02.pdf)
 
 ## Mixture Models
 - **Bayesian Modelling and Inference on Mixtures of Distributions** (2005) Jean [[pdf]](https://www.ceremade.dauphine.fr/~xian/mixo.pdf)
