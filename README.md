@@ -879,7 +879,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Markov Chains for Exploring Posterior Distributions** (1994) Tierney [[pdf]](https://projecteuclid.org/euclid.aos/1176325750)
 
 ##### Gibbs Sampler
-- **Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images** (1984, PAMI) Geman [[pdf]](http://ieeexplore.ieee.org/document/4767596/)
+- **Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images** (1984, PAMI) Stuart Geman [[pdf]](http://ieeexplore.ieee.org/document/4767596/)
 - **Sampling-Based Approaches to Calculating Marginal Densities** (1990) Alan Gelfand [[pdf]](http://wwwf.imperial.ac.uk/~das01/MyWeb/SCBI/Papers/GelfandSmith.pdf)
 - **Bayesian Computation Via the Gibbs Sampler and Related Markov Chain Monte Carlo Methods** (1993) Smith [[pdf]](https://www.jstor.org/stable/pdf/2346063.pdf?refreqid=excelsior%3Aa91748e2636f33acc8addd5b281e57c7)
 - **Markov Chains for Exploring Posterior Distributions** (1994) Luke Tierney [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.110.5995&rep=rep1&type=pdf)
@@ -991,6 +991,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Simplifying Neural Networks by Soft Weight-Sharing** (1992) Hinton [[pdf]](http://www.cs.toronto.edu/~fritz/absps/sunspots.pdf)
 - **Improving neural networks by preventing co-adaptation of feature detectors** (2012) G. Hinton et al. [[pdf]](http://arxiv.org/pdf/1207.0580.pdf)
 - **Dropout: A simple way to prevent neural networks from overfitting** (2014) N. Srivastava et al. [[pdf]](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
+
+#### Neural Networks Bias Variance
+- **Neural Networks and the Bias/Variance Dilemma** (1992) Stuart Geman [[pdf]](http://www.dam.brown.edu/people/geman/Homepage/Essays%20and%20ideas%20about%20neurobiology/bias-variance.pdf)
 
 #### Saddle Point
 - **Identifying and attacking the saddle point problem in high-dimensional non-convex optimization** (2014) Dauphin [[pdf]](https://arxiv.org/abs/1406.2572)
