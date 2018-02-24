@@ -905,6 +905,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Graphical Models, Exponential Families, and Variational Inference** (2008) Martin Wainwright [[pdf]](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf)
 - **Stochastic Variational Inference** (2013) Matthew Hoffman [[pdf]](https://arxiv.org/abs/1206.7051)
 
+### Expectation Propagation
+- **Expectation Propagation for approximate Bayesian inference** (2001, UAI) Thomas Minka [[pdf]](https://arxiv.org/abs/1301.2294)
+
 ## Machine Learning
 
 ### Evaluation
@@ -1096,7 +1099,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Neural Machine Translation By Jointly Learning To Align And Translate** (2015) Dzmitry [[pdf]](https://arxiv.org/pdf/1409.0473.pdf)
 - **Multiple Object Recognition with Visual Attention** (2015, ICLR) Jimmy Ba [[pdf]](https://arxiv.org/abs/1412.7755) 
 ### Generative Adversarial Networks
-- **Generative Adversarial Networks** (2014, NIPS) Ian GoodFellow [[pdf]](https://arxiv.org/abs/1406.2661)
+- **Generative Adversarial Networks** (2014, NIPS) Ian Goodfellow [[pdf]](https://arxiv.org/abs/1406.2661)
+- **NIPS 2016 Tutorial: Generative Adversarial Networks** (2016, NIPS) Ian Goodfellow [[pdf]](https://arxiv.org/abs/1701.00160)
 
 #### Adversarial Attacks
 - **Explaining and Harnessing Adversarial Examples** (2014) Ian Goodfellow [[pdf]](https://arxiv.org/abs/1412.6572)
