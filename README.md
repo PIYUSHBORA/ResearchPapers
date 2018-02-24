@@ -388,6 +388,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ## Machine Learning
 - [Andrew Ng](http://www.andrewng.org/)
 
+## Boosting
+- [Robert Schapire](http://rob.schapire.net/)
+
 ## Deep Learning
 - [Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/)
 - [Alex Graves](https://www.cs.toronto.edu/~graves/)
@@ -943,6 +946,16 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Discriminative models, not discriminative training** (2005) Tom Minka [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-2005-144.pdf)
 - **An Asymptotic Analysis of Generative, Discriminative, and Pseudolikelihood Estimators** (2008, ICML) Percy Liang [[pdf]](https://cs.stanford.edu/~pliang/papers/asymptotics-icml2008.pdf)
 
+### PAC Probable Approximately Correct
+- **A Theory of the Learnable** (1984, ACM) Valiant [[pdf]](https://people.mpi-inf.mpg.de/~mehlhorn/SeminarEvolvability/ValiantLearnable.pdf)
+
+### VC Dimension
+- **Learnability and the Vapnik-Chervonenkis Dimension** (1989) Anselm Butler [[pdf]](http://www2.denizyuret.com/ref/blumer/ft_gateway.cfm.pdf)
+
+## Boosting
+- **The Strength of Weak Learnability** (1990) Robert Schapire [[pdf]](http://rob.schapire.net/papers/strengthofweak.pdf)
+
+
 ## Mixture Models
 - **Bayesian Modelling and Inference on Mixtures of Distributions** (2005) Jean [[pdf]](https://www.ceremade.dauphine.fr/~xian/mixo.pdf)
 
@@ -953,7 +966,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Training very deep networks** (2015) R. Srivastava et al. [[pdf]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
 
 #### Universal Approximators
-- **Multilayer Feedforward Networks are Universal Approximators** (1989) Kurt [[pdf]](https://www.sciencedirect.com/science/article/pii/0893608089900208)
+- **Multilayer Feedforward Networks are Universal Approximators** (1989) Kurt Hornik [[pdf]](https://www.sciencedirect.com/science/article/pii/0893608089900208)
 
 #### Initialization
 - **Why Does Unsupervised Pre-training Help Deep Learning?** (2010) Dumitru Erhan [[pdf]](http://www.jmlr.org/papers/v11/erhan10a.html)
