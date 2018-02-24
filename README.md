@@ -779,6 +779,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ## Active Learning
 - **Theoretical Foundations of Active Learning** (2009) Steve Hanneke [[pdf]](https://pdfs.semanticscholar.org/027f/f5e1d93b740e02c042b515c83a1fafa312e7.pdf)
+- **A literature survey of active machine learning in the context of natural language processing** (2009) Frederik Olsson [[pdf]](http://eprints.sics.se/3600/)
 - **Active Learning Literature Survey** (2010) Burr Settles [[pdf]](http://burrsettles.com/pub/settles.activelearning.pdf)
 - **Two faces of active learning** (2011) Sanjov [[pdf]](https://www.sciencedirect.com/science/article/pii/S0304397510007620)
 
