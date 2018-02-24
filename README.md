@@ -848,6 +848,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Information-Geometric Optimization Algorithms: A Unifying Picture via Invariance Principles** (2017, JMLR) Yann Ollivier [[pdf]](http://www.jmlr.org/papers/volume18/14-467/14-467.pdf)
 
 ### Bayesian Optimization
+- **A New Method of Locating the Maximum Point of an Arbitrary Multipeak Curve in the Presence of Noise** (1964) Kushner [[pdf]](http://fluidsengineering.asmedigitalcollection.asme.org/article.aspx?articleid=1431594)
+- **On bayesian methods for seeking the extremum** (1974) Jonas Mockus [[pdf]](https://link.springer.com/chapter/10.1007/3-540-07165-2_55)
 - **A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning** (2010) Eric Brochu [[pdf]](https://arxiv.org/pdf/1012.2599.pdf)
 
 ## Inference
