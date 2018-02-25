@@ -1326,8 +1326,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ### Upper Confidence Bound (UCB)
 - **Using Upper Confidence Bounds for Online Learning** (2000, IEEE) Peter Auer [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=892116)
-- **Using Confidence Bounds for Exploitation-Exploration Trade-offs** (2002, JMLR) Peter Auer [[pdf]](http://www.jmlr.org/papers/volume3/auer02a/auer02a.pdf)
 - **Finite-time Analysis of the Multiarmed Bandit Problem** (2002) Peter Auer [[pdf]](https://link.springer.com/article/10.1023/A:1013689704352)
+- **Using Confidence Bounds for Exploitation-Exploration Trade-offs** (2002, JMLR) Peter Auer [[pdf]](http://www.jmlr.org/papers/volume3/auer02a/auer02a.pdf)
 
 ### Thompson Sampling
 - **A Tutorial on Thompson Sampling** (2017) Daniel Russo [[pdf]](https://arxiv.org/abs/1707.02038)
