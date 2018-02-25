@@ -726,7 +726,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ## Recommender Systems
 - [Collaborative Filtering: A Machine Learning Perspective by Benjamin Marlin](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.87.4817&rep=rep1&type=pdf)
 - [Missing Data Problems in Machine Learning by Benjamin Marlin](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.160.8408&rep=rep1&type=pdf)
-- [A Unified Approach to Collaborative Filtering via Linear Models and Beyond](https://mesuvash.github.io/assets/pdf/papers/thesis.pdf)
+- [A Unified Approach to Collaborative Filtering via Linear Models and Beyond by Suvash](https://mesuvash.github.io/assets/pdf/papers/thesis.pdf)
+- [Deep Matrix Factorization for Recommendation by Mart](https://esc.fnwi.uva.nl/thesis/centraal/files/f315001319.pdf)
 
 <!--------------------------------------------------- SURVEYS -------------------------------------------------->
 # Surveys 
@@ -756,11 +757,12 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ### Hybrid 
 - **Hybrid Recommender Systems: Survey and Experiments** (2002) Robin Burke [[pdf]](https://link.springer.com/article/10.1023/A:1021240730564)
+
 ### Deep Learning
 - **Deep Learning Based Recommendation: A Survey** (2017) Juntao [[pdf]](https://link.springer.com/chapter/10.1007/978-981-10-4154-9_52)
 - **Deep Learning based Recommender System: A Survey and New Perspectives** (2017) SHUAI ZHANG et al. [[pdf]](https://arxiv.org/pdf/1707.07435.pdf)
-
 - **Towards Bayesian Deep Learning: A Survey** (2016) Hao Wang et al. [[pdf]](https://arxiv.org/pdf/1604.01662v2.pdf)
+
 ### Point of Interest Recommendation
 - **Point-of-Interest Recommendation in Location Based Social Networks with Topic and Location Awareness** (2013, SIAM) Bin Liu [[pdf]](http://epubs.siam.org/doi/abs/10.1137/1.9781611972832.44)
 - **Recommendations in Location-based Social Networks: A Survey** (2014) Jie Bao [[pdf]](https://link.springer.com/article/10.1007/s10707-014-0220-8)
@@ -776,6 +778,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **A Brief Survey of Deep Reinforcement Learning** (2016) Kai Arulkumaran et al. [[pdf]](https://arxiv.org/pdf/1708.05866.pdf)
 - **A Survey of Online Experiment Design with the Stochastic Multi-Armed Bandit** (2016) Giuseppe Burtini et al. [[pdf]](https://arxiv.org/pdf/1510.00757v4.pdf)
 - **DEEP REINFORCEMENT LEARNING: AN OVERVIEW** (2017) Yuxi Li [[pdf]](https://arxiv.org/pdf/1701.07274.pdf)
+### Bayesian Reinforcement Learning
+- **Bayesian Reinforcement Learning: A Survey** (2015) Mohammad [[pdf]](https://arxiv.org/abs/1609.04436)
 
 ## Bandits
 - **A Survey on Contextual Multi-armed Bandits** (2015) Li Zhou [[pdf]](https://arxiv.org/abs/1508.03326) 
@@ -844,7 +848,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ### Expectation Maximization
 - **Maximum Likelihood from Incomplete Data via the EM Algorithm** (1977) Dempster [[pdf]](http://web.mit.edu/6.435/www/Dempster77.pdf)
 - **The Calculation of Posterior Distributions by Data Augmentation** (1987) Martin Tanner [[pdf]](http://www.stat.cmu.edu/~brian/905-2009/all-papers/tanner-wong-1987-with-disc.pdf)
-- **A View of the Em Algorithm that Justifies Incremental, Sparse, and other Variants** (1998) [[pdf]](http://www.cs.toronto.edu/~radford/em.abstract.html)
+- **A View of the Em Algorithm that Justifies Incremental, Sparse, and other Variants** (1998) Radford Neal [[pdf]](http://www.cs.toronto.edu/~radford/em.abstract.html)
 - **A Gentle Tutorial of the EM Algorithm and its Application to Parameter Estimation for Gaussian Mixture and Hidden Markov Models** (1998) Jeff Bilmes [[pdf]](http://melodi.ee.washington.edu/people/bilmes/mypapers/em.pdf)
 - **What is the expectation maximization algorithm** (2008) Chuong B Do [[pdf]](https://www.nature.com/articles/nbt1406)
 
