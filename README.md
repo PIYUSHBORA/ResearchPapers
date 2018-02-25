@@ -1267,6 +1267,12 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ## Exploration vs Exhaustation 
 
+### Upper Confidence Bound (UCB)
+- **Using Confidence Bounds for Exploitation-Exploration Trade-offs** (2002, JMLR) Peter Auer [[pdf]](http://www.jmlr.org/papers/volume3/auer02a/auer02a.pdf)
+
+### Thompson Sampling
+- **A Tutorial on Thompson Sampling** (2017) Daniel Russo [[pdf]](https://arxiv.org/abs/1707.02038)
+
 # Applications
 
 ## Recommendation Systems
@@ -1281,7 +1287,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Cascading Bandits for Large-Scale Recommendation Problems** (2016, UAI) Shi Zong [[pdf]](http://www.bkveton.com/docs/uai2016.pdf)
 - **A Multiple-Play Bandit Algorithm Applied to Recommender Systems** (2015, AAAI) Jonathan [[pdf]](https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS15/paper/viewFile/10385/10364)
 
-### Missing Data 
+### Active Learning Recommendation
+- **Variational Bayesian Approach to Movie Rating Prediction** (2007, KDD) Yew Jin Lim [[pdf]](https://www.cs.uic.edu/~liub/KDD-cup-2007/proceedings/variational-Lim.pdf)
+- **Active Learning for Online Bayesian Matrix Factorization** (2012, KDD) Jorge Silva [[pdf]](http://www.niculescu-mizil.org/KDD2012/docs/p325.pdf)
+
+### Missing Data Recommendation
 - **Collaborative Filtering and the Missing at Random Assumption** (2007, UAI) Marlin [[pdf]](https://arxiv.org/abs/1206.5267)
 - **Learning classifiers from only positive and unlabeled data** (2008, KDD) Charles Elkan [[pdf]](https://dl.acm.org/citation.cfm?id=1401920)
 - **Mind the Gaps: Weighting the Unknown in Large-Scale One-Class Collaborative Filtering** (2009, KDD) Rong Pan [[pdf]](https://dl.acm.org/citation.cfm?id=1557094)
@@ -1290,12 +1300,6 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Ranking With Non-Random Missing Ratings: Influence Of Popularity And Positivity on Evaluation Metrics** (2012, Recsys) Bruno Pradel [[pdf]](https://dl.acm.org/citation.cfm?doid=2365952.2365982)
 - **Efficient Top-N Recommendation for Very Large Scale Binary Rated Datasets** (2013, RecSys) Fabio [[pdf]](https://dl.acm.org/citation.cfm?id=2507189)
 - **Autoencoders and Probabilistic Inference with Missing Data: An Exact Solution for The Factor Analysis Case** (2018) Christopher Williams [[pdf]](https://arxiv.org/pdf/1801.03851.pdf)
-
-
-### Social Collaborative Filtering
-- **New objective functions for social collaborative filtering** (2012, WWW) Joseph Noel [[pdf]](https://dl.acm.org/citation.cfm?id=2187952)
-- **Social affinity filtering: recommendation through fine-grained analysis of user interactions and activities** (2013, COSN) Suvash Sedhain [[pdf]](https://dl.acm.org/citation.cfm?id=2512947)
-- **Social collaborative filtering for cold-start recommendations** (2014, RecSys) [[pdf]](https://dl.acm.org/citation.cfm?id=2645772)
 
 ### Matrix Factorization
 - **Lower Rank Approximation of Matrices by Least Squares with Any Choice of Weights** (1979) Ruben Gabriel [[pdf]](http://www.ma.huji.ac.il/~zamir/paper17.htm)
@@ -1315,7 +1319,6 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **(BayesianPMF) Bayesian probabilistic matrix factorization using Markov chain Monte Carlo** (2008, ICML) Ruslan Salakhutdinov [[pdf]](https://dl.acm.org/citation.cfm?id=1390267) [[math]](https://stats.stackexchange.com/questions/153241/derivation-of-normal-wishart-posterior/324925#324925)
 
 #### Singular Value Decomposition Recommendation
-- **Variational Bayesian Approach to Movie Rating Prediction** (2007, KDD) Yew Jin Lim [[pdf]](https://www.cs.uic.edu/~liub/KDD-cup-2007/proceedings/variational-Lim.pdf)
 - **(SVD++) Factorization Meets the Neighborhood: a Multifaceted Collaborative Filtering Model** (2008, KDD) Yehuda Koren [[pdf]](http://www.cs.rochester.edu/twiki/pub/Main/HarpSeminar/Factorization_Meets_the_Neighborhood-_a_Multifaceted_Collaborative_Filtering_Model.pdf)
 - **(timeSVD++) Collaborative Filtering with Temporal Dynamics** (2009, KDD) Yehuda Koren [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.379.1951&rep=rep1&type=pdf)
 - **(PureSVD) Performance of recommender algorithms on top-n recommendation tasks** (2010, RecSys) Paolo [[pdf]](https://dl.acm.org/citation.cfm?id=1864721)
@@ -1340,43 +1343,49 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **(LREC) On the Effectiveness of Linear Models for One-Class Collaborative Filtering** (2016, AAAI) Sedhain [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12333)
 - **(Linear Flow) Practical linear models for large-scale one-class collaborative filtering** (2016, IJCAI) Sedhain [[pdf]](https://dl.acm.org/citation.cfm?id=3061158) [[slides]](https://31f4ea79-a-62cb3a1a-s-sites.googlegroups.com/site/buihhung/papers/linear-flow-ijcai16-slides.pdf?attachauth=ANoY7crFxEmfzWm1N7GIIMVOe6jysE96pWJVFaFoArTMH2sX9naOzH89PyZjMSYyWaOxeNpAaALorbuLicI0Tr-mSNKFwuo0AbrjG_0l9Bg7U_eXwJJ0IZLQzsj_kEYOsZYMj95jrcLQAKPpBTHVHWjQ0aXoi6vFtHop-b5JYQ7yBcYM9Ut0dKTTE_-UZGGpHRZ8pEZKx1lnsjPHlpakHx3NVJnzydZmVVVsNPPp2xYRf1PDHNpLuQw%3D&attredirects=0)
 
-### Deep Neural Networks
+### Deep Neural Networks Recommendation
 - **Deep content-based music recommendation** (2013, NIPS) Aaron Van den Oord [[pdf]](https://papers.nips.cc/paper/5004-deep-content-based-music-recommendation)
 - **Deep Neural Networks for YouTube Recommendations** (2016, RecSys) Paul Covington [[pdf]](https://research.google.com/pubs/pub45530.html)
 - **Wide & Deep Learning for Recommender Systems** (2016, RecSys) Cheng [[pdf]](https://arxiv.org/abs/1606.07792)
 - **Embedding-based News Recommendation for Millions of Users** (2017, RecSys) Shumpei Okura [[pdf]](http://www.kdd.org/kdd2017/papers/view/embedding-based-news-recommendation-for-millions-of-users)
 
-### Restricted Boltzmann Machines
+### Restricted Boltzmann Machines Recommendation
 - **Restricted Boltzmann machines for collaborative filtering** (2007, ICML) Ruslan Salakhutdinov [[pdf]](https://dl.acm.org/citation.cfm?id=1273596)
 - **Improving Content-based and Hybrid Music Recommendation using Deep Learning** (2014, MM) Xinxi Wang [[pdf]](https://dl.acm.org/citation.cfm?id=2654940)
 
-### AutoEncoder 
+### AutoEncoder  Recommendation
 - **AutoRec: Autoencoders Meet Collaborative Filtering** (2015, WWW) Sedhain [[pdf]](http://users.cecs.anu.edu.au/~u5098633/papers/www15.pdf)
 
-#### Denoising AutoEncoders
+#### Denoising AutoEncoders Recommendation
 - **Collaborative Deep Learning for Recommender Systems** (2015, KDD) Hao Wang [[pdf]](http://www.wanghao.in/CDL.htm)
 - **(CDAE) Collaborative Denoising Auto-Encoders for Top-N Recommender Systems** (2016, WSDM) Yao Wu [[pdf]](https://dl.acm.org/citation.cfm?id=2835837) [[code]](https://github.com/jasonyaw/CDAE)
 
-### Recurrent Neural Networks 
+#### Variational AutoEncoder Recommendation
+- **Variational Autoencoders for Collaborative Filtering** (2018, WWW) Dawen Liang [[pdf]](https://arxiv.org/abs/1802.05814)
+
+### Recurrent Neural Networks Recommendation
 - **Session-based Recommendations with Recurrent Neural Networks** (2016, ICLR) Balazs Hidasi [[pdf]](https://arxiv.org/abs/1511.06939)
 
-### Convolutional Neural Networks
+### Convolutional Neural Networks Recommendation
 - **Image-based Recommendations on Styles and Substitutes** (2015, SIGIR) Julian McAuley [[pdf]](https://arxiv.org/abs/1506.04757)
 - **VBPR: Visual Bayesian Personalized Ranking from Implicit Feedback** (2016, AAAI) Ruining He [[pdf]](https://arxiv.org/abs/1510.01784)
 
-### Deep Semantic Similarity Model 
+### Deep Semantic Similarity Model Recommendation
 - **A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems** (2015, WWW) Ali Elkahk [[pdf]](https://dl.acm.org/citation.cfm?id=2741667)
 
-### Autoregressive Networks
+### Autoregressive Networks Recommendation
 - **(CF-NADE) A Neural Autoregressive Approach to Collaborative Filtering** (2016, ICML) Yin Zheng [[pdf]](https://arxiv.org/abs/1605.09477) [[code]](https://github.com/Ian09/CF-NADE)
 
-### Something To Vec
+### Something To Vec Recommendation
 - **(prod2vec) E-commerce in Your Inbox: Product Recommendations at ScaleA** (2015, KDD) Mihajlo [[pdf]](https://dl.acm.org/citation.cfm?id=2788627)
 - **Meta-Prod2Vec: Product Embeddings Using Side-Information for Recommendation** (2016, RecSys) Flavian [[pdf]](https://dl.acm.org/citation.cfm?id=2959160)
 - **Item2Vec: Neural Item Embedding for Collaborative Filtering** (2016) Oren [[pdf]](https://arxiv.org/abs/1603.04259)
 - **node2vec: Scalable Feature Learning for Networks** (2016, KDD) Aditya [[pdf]](https://snap.stanford.edu/node2vec/)
 
-### Multi-domain Collaborative Filtering 
+### Reinforcement Learning Recommendation
+- **Deep Reinforcement Learning in Large Discrete Action Spaces** (2016) Gabriel Dulac [[pdf]](https://arxiv.org/abs/1512.07679)
+
+### Multi-domain Collaborative Filtering Recommendation
 - **Multi-Domain Collaborative Filtering** (2010, UAI) Yu Zhang [[pdf]](https://arxiv.org/abs/1203.3535)
 
 ### Evaluation Metrics for Recommender Systems
@@ -1384,6 +1393,12 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Evaluating collaborative filtering recommender systems** (2004, TOIS) Jonathan Herlocker [[pdf]](https://dl.acm.org/citation.cfm?id=963772)
 
 ### Applications
+
+#### Social Recommendation
+- **New objective functions for social collaborative filtering** (2012, WWW) Joseph Noel [[pdf]](https://dl.acm.org/citation.cfm?id=2187952)
+- **Social affinity filtering: recommendation through fine-grained analysis of user interactions and activities** (2013, COSN) Suvash Sedhain [[pdf]](https://dl.acm.org/citation.cfm?id=2512947)
+- **Social collaborative filtering for cold-start recommendations** (2014, RecSys) [[pdf]](https://dl.acm.org/citation.cfm?id=2645772)
+
 #### Music Recommendation
 #### Image Recommendation
 #### Point of Interest Recommendation
@@ -1391,7 +1406,6 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 #### Hashtag Recommendation
 #### Quote Recommmendation
 #### Citation Recommendation
-
 
 ## Information Retrieval
 
