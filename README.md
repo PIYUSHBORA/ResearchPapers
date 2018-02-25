@@ -1316,7 +1316,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 #### Singular Value Decomposition Recommendation
 - **Variational Bayesian Approach to Movie Rating Prediction** (2007, KDD) Yew Jin Lim [[pdf]](https://www.cs.uic.edu/~liub/KDD-cup-2007/proceedings/variational-Lim.pdf)
 - **(SVD++) Factorization Meets the Neighborhood: a Multifaceted Collaborative Filtering Model** (2008, KDD) Yehuda Koren [[pdf]](http://www.cs.rochester.edu/twiki/pub/Main/HarpSeminar/Factorization_Meets_the_Neighborhood-_a_Multifaceted_Collaborative_Filtering_Model.pdf)
-- **Collaborative Filtering with Temporal Dynamics** (2009, KDD) Yehuda Koren [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.379.1951&rep=rep1&type=pdf)
+- **(timeSVD++) Collaborative Filtering with Temporal Dynamics** (2009, KDD) Yehuda Koren [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.379.1951&rep=rep1&type=pdf)
 - **(PureSVD) Performance of recommender algorithms on top-n recommendation tasks** (2010, RecSys) Paolo [[pdf]](https://dl.acm.org/citation.cfm?id=1864721)
 - **Hybrid algorithms for recommending new items** (2011, HetRec) Paolo [[pdf]](https://dl.acm.org/citation.cfm?id=2039325) 
 
