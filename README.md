@@ -752,7 +752,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Bayesian Learning for Neural Networks By Radford](http://www.cs.toronto.edu/~radford/ftp/thesis.pdf)
 - [Bayesian Methods for Adaptive Model by David Mackay](http://www.inference.org.uk/mackay/PhD.html)
 - [Uncertainty in Deep Learning by Yarin Gal](http://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf)
+### Variational Inferene
 - [Variational Inference and Deep Learning by Diederik](https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf?dl=1)
+- [VARIATIONAL ALGORITHMS FOR APPROXIMATE BAYESIAN INFERENCE by Matthew Beal](https://www.cse.buffalo.edu/faculty/mbeal/papers/beal03.pdf)
+### Markov Chain Monte Carlo
 - [Advances in Markov Chain Monte Carlo methods by Iain Murray](http://homepages.inf.ed.ac.uk/imurray2/pub/07thesis/murray_thesis_2007.pdf)
 
 ## Reinforcement Learning
