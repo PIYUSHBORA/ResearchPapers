@@ -1005,9 +1005,6 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ### Loss Function
 - **Are Loss Functions All the Same?** (2003) Rosasco [[pdf]](http://web.mit.edu/lrosasco/www/publications/loss.pdf)
 
-#### Lasso
-- **Regression Shrinkage and Selection via the Lasso** (1996) Robert Tibshirani [[pdf]](http://www-personal.umich.edu/~jizhu/jizhu/wuke/Tibs-JRSSB96.pdf)
-
 ### Generative vs Discriminative Models
 - **On Discriminative vs. Generative Classifiers: A comparison of logistic regression and naive Bayes** (2001, NIPS) Andrew Ng [[pdf]](https://papers.nips.cc/paper/2020-on-discriminative-vs-generative-classifiers-a-comparison-of-logistic-regression-and-naive-bayes)
 - **Discriminative models, not discriminative training** (2005) Tom Minka [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-2005-144.pdf)
@@ -1024,14 +1021,23 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 #### Bayesian Occam Razor
 - **Bayesian Interpolation** (1992) David Mackay [[pdf]](https://authors.library.caltech.edu/13792/1/MACnc92a.pdf)
+- **The Evidence Framework applied to Classification Networks** (1992) David Mackay [[pdf]](https://pdfs.semanticscholar.org/7abd/a1941534d3bb558dd959025d67f1df526303.pdf)
 - **Occam Razor** (2001) Carl Edward Ramussen [[pdf]](http://mlg.eng.cam.ac.uk/zoubin/papers/occam.pdf)
 
 #### Automatic Relevance Determination (ARD) = Sparse Bayesian Learning
+
+##### Lasso
+- **Regression Shrinkage and Selection via the Lasso** (1996) Robert Tibshirani [[pdf]](http://www-personal.umich.edu/~jizhu/jizhu/wuke/Tibs-JRSSB96.pdf)
+
+##### Relevance Vector Machine (Bayesian SVM)
+- **Relevance Vector Machine** (1999, NIPS) Michael Tipping [[pdf]](https://papers.nips.cc/paper/1719-the-relevance-vector-machine)
+- **Variational Relevance Vector Machines** (2000, UAI) Christopher Bishop [[pdf]](http://www.miketipping.com/papers/Bishop-VRVM-UAI-00.pdf)
 - **Sparse Bayesian Learning and the Relevance Vector Machine** (2001, JMLR) Michael Tipping [[pdf]](http://www.jmlr.org/papers/volume1/tipping01a/tipping01a.pdf)
 - **Analysis of Sparse Bayesian Learning** (2001, NIPS) Anita Faul [[pdf]](https://papers.nips.cc/paper/2121-analysis-of-sparse-bayesian-learning.pdf)
 - **Sparse Bayesian Learning for Basis Selection** (2004, IEEE) David Wipf [[pdf]](http://ieeexplore.ieee.org/document/1315936/)
 - **A New View of Automatic Relevance Determination** (2008, NIPS) David Wipf [[pdf]](http://papers.nips.cc/paper/3372-a-new-view-of-automatic-relevance-determination.pdf)
 - **Iterative Reweighted ℓ1 and ℓ2 Methods for Finding Sparse Solutions** (2008, IEEE) David Wipf [[pdf]](http://ieeexplore.ieee.org/document/5419071/)
+- **Relevance Vector Machines Explained** (2010) Tristan [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.651.8603&rep=rep1&type=pdf)
 - **Sparse Bayesian learning with uncertainty models and multiple dictionaries** (2017) Santosh [[pdf]](https://arxiv.org/pdf/1704.00436.pdf)
 
 ## Boosting
