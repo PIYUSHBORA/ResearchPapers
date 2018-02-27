@@ -978,6 +978,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **An Introduction to Variational Methods for Graphical Models** (1999) Michael Jordan [[pdf]](https://people.eecs.berkeley.edu/~jordan/papers/variational-intro.pdf)
 - **Graphical Models, Exponential Families, and Variational Inference** (2008) Martin Wainwright [[pdf]](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf)
 - **Stochastic Variational Inference** (2013) Matthew Hoffman [[pdf]](https://arxiv.org/abs/1206.7051)
+- **Auto-Encoding Variational Bayes** (2013) Diederik Kingma [[pdf]](https://arxiv.org/abs/1312.6114)
 
 ### Expectation Propagation
 - **Expectation Propagation for approximate Bayesian inference** (2001, UAI) Thomas Minka [[pdf]](https://arxiv.org/abs/1301.2294)
