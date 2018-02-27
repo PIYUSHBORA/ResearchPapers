@@ -1077,9 +1077,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 #### Neural Networks Bias Variance
 - **Neural Networks and the Bias/Variance Dilemma** (1992) Stuart Geman [[pdf]](http://www.dam.brown.edu/people/geman/Homepage/Essays%20and%20ideas%20about%20neurobiology/bias-variance.pdf)
 
-#### Saddle Point
+#### Neural Networks Saddle Point Loss Surfaces
 - **Identifying and attacking the saddle point problem in high-dimensional non-convex optimization** (2014) Dauphin [[pdf]](https://arxiv.org/abs/1406.2572)
-- **The Loss Surfaces of Multilayer Networks** (2014) Choromanska [[pdf]](https://arxiv.org/abs/1412.0233)
+- **The Loss Surfaces of Multilayer Networks** (2014, AISTATS) Choromanska [[pdf]](https://arxiv.org/abs/1412.0233)
+- **A Random Matrix Approach to Neural Networks** (2017) Cosme [[pdf]](https://arxiv.org/abs/1702.05419)
+- **Geometry of Neural Network Loss Surfaces via Random Matrix Theory** (2017, PMLR) Jeffrey Pennington [[pdf]](http://www.pennington.ml/papers/geometry_nns.pdf)
 
 ### Piecewise Linear Classifiers
 - **The Linear Separability Problem: Some Testing Methods** (2006) [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1603620)
