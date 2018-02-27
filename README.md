@@ -904,6 +904,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ### Expectation Maximization
 - **Maximum Likelihood from Incomplete Data via the EM Algorithm** (1977) Dempster [[pdf]](http://web.mit.edu/6.435/www/Dempster77.pdf)
 - **The Calculation of Posterior Distributions by Data Augmentation** (1987) Martin Tanner [[pdf]](http://www.stat.cmu.edu/~brian/905-2009/all-papers/tanner-wong-1987-with-disc.pdf)
+- **Learning from incomplete data** (1994) Zoubin Ghahramani [[pdf]](https://dspace.mit.edu/handle/1721.1/7202)
+- **On Convergence Properties of the EM Algorithm for Gaussian Mixtures** (1995) Lei Xu [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.18.5213&rep=rep1&type=pdf) [[notes]](https://pdfs.semanticscholar.org/9f72/5124a1557299c51f7769f3a0bbc113e949c4.pdf)
 - **A View of the Em Algorithm that Justifies Incremental, Sparse, and other Variants** (1998) Radford Neal [[pdf]](http://www.cs.toronto.edu/~radford/em.abstract.html)
 - **A Gentle Tutorial of the EM Algorithm and its Application to Parameter Estimation for Gaussian Mixture and Hidden Markov Models** (1998) Jeff Bilmes [[pdf]](http://melodi.ee.washington.edu/people/bilmes/mypapers/em.pdf)
 - **What is the expectation maximization algorithm** (2008) Chuong B Do [[pdf]](https://www.nature.com/articles/nbt1406) [[notes]](https://media.nature.com/original/nature-assets/nbt/journal/v26/n8/extref/nbt1406-S1.pdf)
