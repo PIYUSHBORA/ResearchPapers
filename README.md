@@ -911,6 +911,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **A Gentle Tutorial of the EM Algorithm and its Application to Parameter Estimation for Gaussian Mixture and Hidden Markov Models** (1998) Jeff Bilmes [[pdf]](http://melodi.ee.washington.edu/people/bilmes/mypapers/em.pdf)
 - **What is the expectation maximization algorithm** (2008) Chuong B Do [[pdf]](https://www.nature.com/articles/nbt1406) [[notes]](https://media.nature.com/original/nature-assets/nbt/journal/v26/n8/extref/nbt1406-S1.pdf)
 
+#### (Monte Carlo EM) Monte Carlo Expectation Maximization 
+- **A Maximization Technique Occurring in the Statistical Analysis of Probabilistic Functions of Markov Chains** (1970) Leonard Baum [[pdf]](https://projecteuclid.org/euclid.aoms/1177697196)
+- **On Convergence Properties of the Monte Carlo EM Algorithm** (2012) Ronald [[pdf]](https://arxiv.org/abs/1206.4768)
+
 ### Information Geometry
 - **Information-Geometric Optimization Algorithms: A Unifying Picture via Invariance Principles** (2017, JMLR) Yann Ollivier [[pdf]](http://www.jmlr.org/papers/volume18/14-467/14-467.pdf)
 
@@ -949,9 +953,6 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Sampling-Based Approaches to Calculating Marginal Densities** (1990) Alan Gelfand [[pdf]](http://wwwf.imperial.ac.uk/~das01/MyWeb/SCBI/Papers/GelfandSmith.pdf)
 - **Bayesian Computation Via the Gibbs Sampler and Related Markov Chain Monte Carlo Methods** (1993) Smith [[pdf]](https://www.jstor.org/stable/pdf/2346063.pdf?refreqid=excelsior%3Aa91748e2636f33acc8addd5b281e57c7)
 - **Markov Chains for Exploring Posterior Distributions** (1994) Luke Tierney [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.110.5995&rep=rep1&type=pdf)
-
-##### Monte Carlo Expectation Maximization
-- **A Maximization Technique Occurring in the Statistical Analysis of Probabilistic Functions of Markov Chains** (1970) Leonard Baum [[pdf]](https://projecteuclid.org/euclid.aoms/1177697196)
 
 ##### Hybrid Monte Carlo
 - **(HMC) Hybrid Monte Carlo** (1987) Simon Duane [[pdf]](http://www.sciencedirect.com/science/article/pii/037026938791197X) 
