@@ -906,7 +906,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **The Calculation of Posterior Distributions by Data Augmentation** (1987) Martin Tanner [[pdf]](http://www.stat.cmu.edu/~brian/905-2009/all-papers/tanner-wong-1987-with-disc.pdf)
 - **A View of the Em Algorithm that Justifies Incremental, Sparse, and other Variants** (1998) Radford Neal [[pdf]](http://www.cs.toronto.edu/~radford/em.abstract.html)
 - **A Gentle Tutorial of the EM Algorithm and its Application to Parameter Estimation for Gaussian Mixture and Hidden Markov Models** (1998) Jeff Bilmes [[pdf]](http://melodi.ee.washington.edu/people/bilmes/mypapers/em.pdf)
-- **What is the expectation maximization algorithm** (2008) Chuong B Do [[pdf]](https://www.nature.com/articles/nbt1406)
+- **What is the expectation maximization algorithm** (2008) Chuong B Do [[pdf]](https://www.nature.com/articles/nbt1406) [[notes]](https://media.nature.com/original/nature-assets/nbt/journal/v26/n8/extref/nbt1406-S1.pdf)
 
 ### Information Geometry
 - **Information-Geometric Optimization Algorithms: A Unifying Picture via Invariance Principles** (2017, JMLR) Yann Ollivier [[pdf]](http://www.jmlr.org/papers/volume18/14-467/14-467.pdf)
