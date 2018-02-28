@@ -902,6 +902,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Natural Conjugate Gradient in Variational Inference** (2008, NIPS) Honkela [[pdf]](https://www.hiit.fi/u/ahonkela/papers/Honkela07ICONIP.pdf)
 
 ### Expectation Maximization
+- **A Maximization Technique Occurring in the Statistical Analysis of Probabilistic Functions of Markov Chains** (1970) Leonard Baum [[pdf]](https://projecteuclid.org/euclid.aoms/1177697196)
 - **Maximum Likelihood from Incomplete Data via the EM Algorithm** (1977) Dempster [[pdf]](http://web.mit.edu/6.435/www/Dempster77.pdf)
 - **The Calculation of Posterior Distributions by Data Augmentation** (1987) Martin Tanner [[pdf]](http://www.stat.cmu.edu/~brian/905-2009/all-papers/tanner-wong-1987-with-disc.pdf)
 - **Learning from incomplete data** (1994) Zoubin Ghahramani [[pdf]](https://dspace.mit.edu/handle/1721.1/7202)
