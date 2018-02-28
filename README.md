@@ -1015,6 +1015,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **A Theory of the Learnable** (1984, ACM) Valiant [[pdf]](https://people.mpi-inf.mpg.de/~mehlhorn/SeminarEvolvability/ValiantLearnable.pdf)
 
 ### VC Dimension
+- **Classifying Learnable Geometric Concepts with the Vapnik-Chervonenkis Dimension** (1986) Anselm Blumer [[pdf]](https://dl.acm.org/citation.cfm?id=12158)
 - **Learnability and the Vapnik-Chervonenkis Dimension** (1989) Anselm Butler [[pdf]](http://www2.denizyuret.com/ref/blumer/ft_gateway.cfm.pdf)
 - **Bounds on the Sample Complexity of Bayesian Learning Using Information Theory and the VC Dimension** (1994) David Haussler [[pdf]](http://rob.schapire.net/papers/bounds-on-bayes.pdf)
 
@@ -1058,7 +1059,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Training cost-sensitive neural networks with methods addressing the class imbalance problem** (2006) ZhiHua Zhou [[pdf]](http://ieeexplore.ieee.org/document/1549828/)
 - **Training very deep networks** (2015) R. Srivastava et al. [[pdf]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
 
-#### Universal Approximators
+#### Neural Networks Universal Approximators
+- **How Neural Nets Work** (1988, NIPS) Alan Lapades [[pdf]](https://papers.nips.cc/paper/59-how-neural-nets-work.pdf)
+- **Approximation by superpositions of a sigmoidal function** (1988) Cybenko [[pdf]](https://link.springer.com/article/10.1007/BF02551274)
 - **Multilayer Feedforward Networks are Universal Approximators** (1989) Kurt Hornik [[pdf]](https://www.sciencedirect.com/science/article/pii/0893608089900208)
 
 #### Initialization
@@ -1114,6 +1117,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ### Perceptron
 - **The Perceptron: A Probabilistic Model for Information Storage and Organization in The Brain** (1958) Rosenblatt [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.588.3775)
+- **On Convergence Proofs for Perceptrons** (1962) Novikoff [[pdf]](https://cs.uwaterloo.ca/~y328yu/classics/novikoff.pdf)
+- **The Perceptron Algorithm** (2015) Kristoffer [[pdf]](https://pdfs.semanticscholar.org/75df/a29799462a472ac515f9a2c178852abf1eb3.pdf)
 
 ### AutoEncoders
 - **Autoencoders, Minimum Description Length and Helmholtz Free Energy** (1993) Geoffrey Hinton [[pdf]](https://papers.nips.cc/paper/798-autoencoders-minimum-description-length-and-helmholtz-free-energy)
