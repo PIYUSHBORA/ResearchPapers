@@ -1063,6 +1063,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **How Neural Nets Work** (1988, NIPS) Alan Lapades [[pdf]](https://papers.nips.cc/paper/59-how-neural-nets-work.pdf)
 - **Approximation by superpositions of a sigmoidal function** (1988) Cybenko [[pdf]](https://link.springer.com/article/10.1007/BF02551274)
 - **Multilayer Feedforward Networks are Universal Approximators** (1989) Kurt Hornik [[pdf]](https://www.sciencedirect.com/science/article/pii/0893608089900208)
+- **Whats Hidden in the Hidden Layers** (1989) David Touretzky [[pdf]](https://www.cs.cmu.edu/~dst/pubs/byte-hiddenlayer-1989.pdf)
 
 #### Initialization
 - **Why Does Unsupervised Pre-training Help Deep Learning?** (2010) Dumitru Erhan [[pdf]](http://www.jmlr.org/papers/v11/erhan10a.html)
