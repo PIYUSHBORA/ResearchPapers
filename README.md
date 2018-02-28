@@ -1343,6 +1343,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ## Reinforcement Learning
 - **Learning to predict by the methods of temporal differences** (1988) Richard Sutton [[pdf]](https://link.springer.com/article/10.1023/A:1022633531479)
 - **Reinforcement Learning Algorithms as Function Approximators** (1989) Richard Sutton 
+- **TD-Gammon, a self-teaching backgammon program, achieves master-level play** (1993, AAAI) Gerald  [[pdf]](https://pdfs.semanticscholar.org/2b11/305f69641ecb8bd4a5e59cfebe41ad9ed989.pdf)
 
 ### Deep Reinforcement Learning
 - **Playing Atari with Deep Reinforcement Learning** (2012) Volodymyr Mnih et al. [[pdf]](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
