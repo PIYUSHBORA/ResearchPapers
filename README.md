@@ -1119,6 +1119,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ### Perceptron
 - **The Perceptron: A Probabilistic Model for Information Storage and Organization in The Brain** (1958) Rosenblatt [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.588.3775)
 - **On Convergence Proofs for Perceptrons** (1962) Novikoff [[pdf]](https://cs.uwaterloo.ca/~y328yu/classics/novikoff.pdf)
+- **Large Margin Classification Using the Perceptron Algorithm** (1999) Yoav [[pdf]](http://cseweb.ucsd.edu/~yfreund/papers/LargeMarginsUsingPerceptron.pdf)
 - **The Perceptron Algorithm** (2015) Kristoffer [[pdf]](https://pdfs.semanticscholar.org/75df/a29799462a472ac515f9a2c178852abf1eb3.pdf)
 
 ### AutoEncoders
