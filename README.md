@@ -980,9 +980,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Graphical Models, Exponential Families, and Variational Inference** (2008) Martin Wainwright [[pdf]](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf)
 - **Stochastic Variational Inference** (2013) Matthew Hoffman [[pdf]](https://arxiv.org/abs/1206.7051)
 - **Auto-Encoding Variational Bayes** (2013) Diederik Kingma [[pdf]](https://arxiv.org/abs/1312.6114)
+- **Black Box Variational Inference** (2014, AISTATS) Rajesh [[pdf]](http://www.cs.columbia.edu/~blei/seminar/2016_discrete_data/readings/RanganathGerrishBlei2014.pdf)
 
 ### Expectation Propagation
 - **Expectation Propagation for approximate Bayesian inference** (2001, UAI) Thomas Minka [[pdf]](https://arxiv.org/abs/1301.2294)
+- **Expectation-Propagation for the Generative Aspect Model** (2002, UAI) Thomas Minka [[pdf]](https://arxiv.org/pdf/1301.0588.pdf)
 
 ## Machine Learning
 
@@ -1021,6 +1023,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Bounds on the Sample Complexity of Bayesian Learning Using Information Theory and the VC Dimension** (1994) David Haussler [[pdf]](http://rob.schapire.net/papers/bounds-on-bayes.pdf)
 
 ### Occam Razor
+
+#### Bayesian Information Criterion
+- **(BIC) Estimating the Dimension of a Model** (1978) Gideon Schwarz [[pdf]](https://projecteuclid.org/euclid.aos/1176344136)
 
 #### Bayesian Occam Razor
 - **Bayesian Interpolation** (1992) David Mackay [[pdf]](https://authors.library.caltech.edu/13792/1/MACnc92a.pdf)
@@ -1266,6 +1271,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ##### Likelihood Weighting
 - **Weighing and Integrating Evidence for Stochastic Simulation in Bayesian Networks** (1989, UAI) Robert Fung [[pdf]](https://arxiv.org/abs/1304.1504)
+
+#####  Rejection Sampling
+- **Adaptive Rejection Sampling for Gibbs Sampling** (1992) Gilks Wild [[pdf]](http://www.math.chalmers.se/Stat/Grundutb/CTH/mve186/1415/adaptive.sampling.pdf)
+- **Adaptive Rejection Metropolis Sampling within Gibbs Sampling** (1995) Gilks [[pdf]](https://www.jstor.org/stable/2986138?seq=1#page_scan_tab_contents)
 
 ##### Importance Sampling 
 - **Simulation Approaches to General Probabilistic Inference on Belief Networks** (1989, UAI) Ross [[pdf]](https://arxiv.org/abs/1304.1526)
