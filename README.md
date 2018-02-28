@@ -1017,7 +1017,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ### PAC Probable Approximately Correct
 - **A Theory of the Learnable** (1984, ACM) Valiant [[pdf]](https://people.mpi-inf.mpg.de/~mehlhorn/SeminarEvolvability/ValiantLearnable.pdf)
 
-### VC Dimension
+### Vapnik-Chervonenkis Dimension (VC Dimension)
 - **Classifying Learnable Geometric Concepts with the Vapnik-Chervonenkis Dimension** (1986) Anselm Blumer [[pdf]](https://dl.acm.org/citation.cfm?id=12158)
 - **Learnability and the Vapnik-Chervonenkis Dimension** (1989) Anselm Butler [[pdf]](http://www2.denizyuret.com/ref/blumer/ft_gateway.cfm.pdf)
 - **Bounds on the Sample Complexity of Bayesian Learning Using Information Theory and the VC Dimension** (1994) David Haussler [[pdf]](http://rob.schapire.net/papers/bounds-on-bayes.pdf)
@@ -1064,6 +1064,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Cost-Sensitive Learning with Neural Networks** (1998, ECAI) Matjaz [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.8285&rep=rep1&type=pdf)
 - **Training cost-sensitive neural networks with methods addressing the class imbalance problem** (2006) ZhiHua Zhou [[pdf]](http://ieeexplore.ieee.org/document/1549828/)
 - **Training very deep networks** (2015) R. Srivastava et al. [[pdf]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
+#### Freezing Weights
+- **The Cascade-Correlation Learning Architecture** (1989, NIPS) Scott Fahlman [[pdf]](https://papers.nips.cc/paper/207-the-cascade-correlation-learning-architecture.pdf)
 
 #### Neural Networks Universal Approximators
 - **How Neural Nets Work** (1988, NIPS) Alan Lapades [[pdf]](https://papers.nips.cc/paper/59-how-neural-nets-work.pdf)
