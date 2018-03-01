@@ -1141,9 +1141,13 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion** (2010) Pascal Vincent [[pdf]](http://www.jmlr.org/papers/v11/vincent10a.html)
 
 ### Bayesian Neural Networks
+- **Learning stochastic feedforward networks** (1990) Radford Neal [[pdf]](http://www.cs.toronto.edu/~radford/ftp/sff.pdf)
 - **A Practical Bayesian Framework for Backpropagation Networks** (1992) David Mackay [[pdf]](https://authors.library.caltech.edu/13793/1/MACnc92b.pdf )
+- **Bayesian training of backpropagation networks by the hybrid Monte Carlo method** (1992) Radford Neal [[pdf]](http://www.cs.toronto.edu/~radford/ftp/bbp.pdf)
+- **Priors for infinite networks** (1994) Radford Neal [[pdf]](http://www.cs.toronto.edu/~radford/ftp/pin.pdf)
 - **Bayesian Learning For Neural Networks** (1995) Radford Neal [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.446.9306&rep=rep1&type=pdf)
 - **Bayesian approach for neural networks—review and case studies** (2001) Jouko Lampinen [[pdf]](https://www.sciencedirect.com/science/article/pii/S0893608000000988)
+- **Classification with Bayesian Neural Networks** (2006) Radford Neal [[pdf]](https://link.springer.com/content/pdf/10.1007%2F11736790.pdf)
 
 #### Variational Inference Neural Networks
 - **Keeping the neural networks simple by minimizing the description length of the weights** (1993, COLT) Geoffrey Hinton [[pdf]](https://dl.acm.org/citation.cfm?id=168306)
