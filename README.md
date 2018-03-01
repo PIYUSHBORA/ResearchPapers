@@ -986,6 +986,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **A Conceptual Introduction to Hamiltonian Monte Carlo** (2017) Michael [[pdf]](https://arxiv.org/pdf/1701.02434.pdf)
 
 ### Variational Inference
+- **Modeling by shortest data description** (1978) Rissanen [[pdf]](https://www.sciencedirect.com/science/article/pii/0005109878900055)
 - **A Mean Field Theory Learning Algorithm for Neural Networks** (1987) Carsten Peterson [[pdf]](http://www.complex-systems.com/pdf/01-5-6.pdf)
 - **Keeping the neural networks simple by minimizing the description length of the weights** (1993) Hinton [[pdf]](https://dl.acm.org/citation.cfm?id=168306)
 - **Bayesian Methods for Mixtures of Experts** (1995, NIPS) Waterhouse [[pdf]](https://papers.nips.cc/paper/1167-bayesian-methods-for-mixtures-of-experts)
