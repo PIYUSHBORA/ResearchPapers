@@ -1132,6 +1132,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Large Margin Classification Using the Perceptron Algorithm** (1999) Yoav [[pdf]](http://cseweb.ucsd.edu/~yfreund/papers/LargeMarginsUsingPerceptron.pdf)
 - **The Perceptron Algorithm** (2015) Kristoffer [[pdf]](https://pdfs.semanticscholar.org/75df/a29799462a472ac515f9a2c178852abf1eb3.pdf)
 
+### Hemholtz Machine
+- **The Helmholtz machine** (1995) Peter Dayan [[pdf]](http://www.gatsby.ucl.ac.uk/~dayan/papers/hm95.pdf)
+- **The wake-sleep algorithm for unsupervised neural networks** (1995) Geoffrey Hinton [[pdf]](http://www.psi.toronto.edu/pubs/1999%20and%20before/WakeSleep-Science95.pdf)
+- **Factor analysis using delta-rule wake-sleep learning** (1995) Radford Neal [[pdf]](http://www.cs.toronto.edu/~radford/ftp/ws-fa.pdf)
+
 ### AutoEncoders
 - **Autoencoders, Minimum Description Length and Helmholtz Free Energy** (1993) Geoffrey Hinton [[pdf]](https://papers.nips.cc/paper/798-autoencoders-minimum-description-length-and-helmholtz-free-energy)
 - **Reducing the dimensionality of data with neural networks** (2006) Geoffrey Hinton [[pdf]](https://www.cs.toronto.edu/~hinton/science.pdf)
