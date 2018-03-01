@@ -1133,6 +1133,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **On the importance of initialization and momentum in deep learning** (2013) Ilya Sutskever [[pdf]](http://proceedings.mlr.press/v28/sutskever13.pdf)
 - **RMSProp CSC321 Lecture 6e** (2014) Hinton [[pdf]](https://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)
 - **Adam: A method for stochastic optimization** (2014) D. Kingma and J. Ba [[pdf]](http://arxiv.org/pdf/1412.6980)
+- **Expectation Backpropagation: Parameter-Free Training of Multilayer Neural Networks with Continuous or Discrete Weights** (2014, NIPS) Daniel Soudry [[pdf]](https://papers.nips.cc/paper/5269-expectation-backpropagation-parameter-free-training-of-multilayer-neural-networks-with-continuous-or-discrete-weights.pdf)
 
 #### Regularization
 - **Simplifying Neural Networks by Soft Weight-Sharing** (1992) Hinton [[pdf]](http://www.cs.toronto.edu/~fritz/absps/sunspots.pdf)
