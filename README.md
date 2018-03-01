@@ -760,6 +760,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ## Neural Networks
 - [Improving Neural Networks with Dropout by Nitish](http://www.cs.toronto.edu/~nitish/msc_thesis.pdf)
 
+## Gaussian Processes
+- [EVALUATION OF GAUSSIAN PROCESSES AND OTHER METHODS FOR NON-LINEAR REGRESSION by Charles Edward Rasmussen](http://mlg.eng.cam.ac.uk/pub/pdf/Ras96b.pdf)
+
 ## Generative Models
 - [Learning Deep Generative Models by Ruslan](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.156.1804&rep=rep1&type=pdf) 
 
@@ -1293,6 +1296,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Hierarchical Bayesian Nonparametric Models with Applications** (2009) Yee Whye Teh [[pdf]](https://www.stats.ox.ac.uk/~teh/research/npbayes/TehJor2010a.pdf)
 
 #### Gaussian Processes
+- **Gaussian Processes for Regression** (1996, NIPS) Christopher Williams [[pdf]](https://papers.nips.cc/paper/1048-gaussian-processes-for-regression.pdf)
+- **Evaluation Of Gaussian Processes And Other Methods for non-linear Regression** (1996) Charles Edward Rasmussen [[pdf]](http://mlg.eng.cam.ac.uk/pub/pdf/Ras96b.pdf)
 
 ## Probabilistic Graphical Models
 - **Structured Learning and Prediction in Computer Vision** (2011) Sebastian [[pdf]](http://www.nowozin.net/sebastian/papers/nowozin2011structured-tutorial.pdf)
