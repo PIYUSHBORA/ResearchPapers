@@ -1034,6 +1034,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Occam Razor** (2001) Carl Edward Ramussen [[pdf]](http://mlg.eng.cam.ac.uk/zoubin/papers/occam.pdf)
 
 #### Automatic Relevance Determination (ARD) = Sparse Bayesian Learning
+
+##### Bayesian Neural Networks
 - **Assessing relevance determination methods using DELVE** (1998) [[pdf]](http://www.cs.toronto.edu/~radford/ftp/ard-delve.pdf)
 
 ##### Lasso
