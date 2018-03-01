@@ -752,9 +752,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Bayesian Learning for Neural Networks By Radford](http://www.cs.toronto.edu/~radford/ftp/thesis.pdf)
 - [Bayesian Methods for Adaptive Model by David Mackay](http://www.inference.org.uk/mackay/PhD.html)
 - [Uncertainty in Deep Learning by Yarin Gal](http://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf)
+
 ### Variational Inferene
 - [Variational Inference and Deep Learning by Diederik](https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf?dl=1)
 - [VARIATIONAL ALGORITHMS FOR APPROXIMATE BAYESIAN INFERENCE by Matthew Beal](https://www.cse.buffalo.edu/faculty/mbeal/papers/beal03.pdf)
+
 ### Markov Chain Monte Carlo
 - [Advances in Markov Chain Monte Carlo methods by Iain Murray](http://homepages.inf.ed.ac.uk/imurray2/pub/07thesis/murray_thesis_2007.pdf)
 
@@ -1035,9 +1037,6 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 #### Automatic Relevance Determination (ARD) = Sparse Bayesian Learning
 
-##### Bayesian Neural Networks
-- **Assessing relevance determination methods using DELVE** (1998) [[pdf]](http://www.cs.toronto.edu/~radford/ftp/ard-delve.pdf)
-
 ##### Lasso
 - **Regression Shrinkage and Selection via the Lasso** (1996) Robert Tibshirani [[pdf]](http://www-personal.umich.edu/~jizhu/jizhu/wuke/Tibs-JRSSB96.pdf)
 
@@ -1063,11 +1062,18 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ## Mixture Models
 - **Bayesian Modelling and Inference on Mixtures of Distributions** (2005) Jean [[pdf]](https://www.ceremade.dauphine.fr/~xian/mixo.pdf)
 
+## Piecewise Linear Classifiers
+- **The Linear Separability Problem: Some Testing Methods** (2006) [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1603620)
+- **Comparison of a neural network piecewise linear classifier** (1991) Zhen Ping Lo [[pdf]](https://ac.els-cdn.com/0167865591900013/1-s2.0-0167865591900013-main.pdf?_tid=f4c37e5a-15ec-11e8-8bd6-00000aab0f6c&acdnat=1519096990_136a057a772e6d15dd623eca5a6739c3)
+- **PIECEWISE LINEAR CLASSIFIERS WITH AN APPROPRIATE NUMBER OF HYPERPLANES** (1998) Hiroshi [[pdf]](https://ac.els-cdn.com/S0031320398000168/1-s2.0-S0031320398000168-main.pdf?_tid=26b0d138-15ed-11e8-a35d-00000aacb360&acdnat=1519097074_0feee0b3276fdac6ad00582369f4d8d9)
+
 ## Deep Learning
+
 ### Training and Optimization
 - **Cost-Sensitive Learning with Neural Networks** (1998, ECAI) Matjaz [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.8285&rep=rep1&type=pdf)
 - **Training cost-sensitive neural networks with methods addressing the class imbalance problem** (2006) ZhiHua Zhou [[pdf]](http://ieeexplore.ieee.org/document/1549828/)
 - **Training very deep networks** (2015) R. Srivastava et al. [[pdf]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
+
 #### Freezing Weights
 - **The Cascade-Correlation Learning Architecture** (1989, NIPS) Scott Fahlman [[pdf]](https://papers.nips.cc/paper/207-the-cascade-correlation-learning-architecture.pdf)
 
@@ -1114,19 +1120,25 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Improving neural networks by preventing co-adaptation of feature detectors** (2012) G. Hinton et al. [[pdf]](http://arxiv.org/pdf/1207.0580.pdf)
 - **Dropout: A simple way to prevent neural networks from overfitting** (2014) N. Srivastava et al. [[pdf]](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
 
-#### Neural Networks Bias Variance
+### Neural Networks Bias Variance
 - **Neural Networks and the Bias/Variance Dilemma** (1992) Stuart Geman [[pdf]](http://www.dam.brown.edu/people/geman/Homepage/Essays%20and%20ideas%20about%20neurobiology/bias-variance.pdf)
 
-#### Neural Networks Saddle Point Loss Surfaces
+### Neural Networks Saddle Point Loss Surfaces
 - **Identifying and attacking the saddle point problem in high-dimensional non-convex optimization** (2014) Dauphin [[pdf]](https://arxiv.org/abs/1406.2572)
 - **The Loss Surfaces of Multilayer Networks** (2014, AISTATS) Choromanska [[pdf]](https://arxiv.org/abs/1412.0233)
 - **A Random Matrix Approach to Neural Networks** (2017) Cosme [[pdf]](https://arxiv.org/abs/1702.05419)
 - **Geometry of Neural Network Loss Surfaces via Random Matrix Theory** (2017, PMLR) Jeffrey Pennington [[pdf]](http://www.pennington.ml/papers/geometry_nns.pdf)
 
-### Piecewise Linear Classifiers
-- **The Linear Separability Problem: Some Testing Methods** (2006) [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1603620)
-- **Comparison of a neural network piecewise linear classifier** (1991) Zhen Ping Lo [[pdf]](https://ac.els-cdn.com/0167865591900013/1-s2.0-0167865591900013-main.pdf?_tid=f4c37e5a-15ec-11e8-8bd6-00000aab0f6c&acdnat=1519096990_136a057a772e6d15dd623eca5a6739c3)
-- **PIECEWISE LINEAR CLASSIFIERS WITH AN APPROPRIATE NUMBER OF HYPERPLANES** (1998) Hiroshi [[pdf]](https://ac.els-cdn.com/S0031320398000168/1-s2.0-S0031320398000168-main.pdf?_tid=26b0d138-15ed-11e8-a35d-00000aacb360&acdnat=1519097074_0feee0b3276fdac6ad00582369f4d8d9)
+### Variational Inference Neural Networks
+- **Keeping the neural networks simple by minimizing the description length of the weights** (1993, COLT) Geoffrey Hinton [[pdf]](https://dl.acm.org/citation.cfm?id=168306)
+- **Practical Variational Inference for Neural Networks** (2011, NIPS) Alex Graves [[pdf]](http://papers.nips.cc/paper/4329-practical-variational-inference-for-neural-networks)
+- **Variational Dropout and the Local Reparameterization Trick** (2015, NIPS) Diederik Kingma [[pdf]](http://papers.nips.cc/paper/5666-variational-dropout-and-the-local-reparameterization-trick)
+
+### Uncertainty Neural networks
+- **Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning** (2016) Yarin gal [[pdf]](http://proceedings.mlr.press/v48/gal16.html)
+
+### Bayesian Compression Deep Learning
+- **Bayesian Compression for Deep Learning** (2017, NIPS) Christos Louizos [[pdf]](https://arxiv.org/abs/1705.08665)
 
 ### Perceptron
 - **The Perceptron: A Probabilistic Model for Information Storage and Organization in The Brain** (1958) Rosenblatt [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.588.3775)
@@ -1148,24 +1160,24 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion** (2010) Pascal Vincent [[pdf]](http://www.jmlr.org/papers/v11/vincent10a.html)
 
 ### Bayesian Neural Networks
-- **Learning stochastic feedforward networks** (1990) Radford Neal [[pdf]](http://www.cs.toronto.edu/~radford/ftp/sff.pdf)
-- **A Practical Bayesian Framework for Backpropagation Networks** (1992) David Mackay [[pdf]](https://authors.library.caltech.edu/13793/1/MACnc92b.pdf )
-- **Bayesian training of backpropagation networks by the hybrid Monte Carlo method** (1992) Radford Neal [[pdf]](http://www.cs.toronto.edu/~radford/ftp/bbp.pdf)
+#### Bayesian Neural Network Prior Selection
 - **Priors for infinite networks** (1994) Radford Neal [[pdf]](http://www.cs.toronto.edu/~radford/ftp/pin.pdf)
-- **Bayesian Learning For Neural Networks** (1995) Radford Neal [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.446.9306&rep=rep1&type=pdf)
+
+#### Bayesian Neural Networks Automatic Relevance Determination
+- **Assessing relevance determination methods using DELVE** (1998) [[pdf]](http://www.cs.toronto.edu/~radford/ftp/ard-delve.pdf)
+
+#### Bayesian Neural Networks Model
+- **Bayesian Methods for Adaptive Model** (1992) David Mackay [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.31.4284&rep=rep1&type=pdf)
 - **Bayesian approach for neural networks—review and case studies** (2001) Jouko Lampinen [[pdf]](https://www.sciencedirect.com/science/article/pii/S0893608000000988)
 - **Classification with Bayesian Neural Networks** (2006) Radford Neal [[pdf]](https://link.springer.com/content/pdf/10.1007%2F11736790.pdf)
 
-#### Variational Inference Neural Networks
-- **Keeping the neural networks simple by minimizing the description length of the weights** (1993, COLT) Geoffrey Hinton [[pdf]](https://dl.acm.org/citation.cfm?id=168306)
-- **Practical Variational Inference for Neural Networks** (2011, NIPS) Alex Graves [[pdf]](http://papers.nips.cc/paper/4329-practical-variational-inference-for-neural-networks)
-- **Variational Dropout and the Local Reparameterization Trick** (2015, NIPS) Diederik Kingma [[pdf]](http://papers.nips.cc/paper/5666-variational-dropout-and-the-local-reparameterization-trick)
-
-#### Uncertainty Neural networks
-- **Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning** (2016) Yarin gal [[pdf]](http://proceedings.mlr.press/v48/gal16.html)
-
-#### Bayesian Compression Deep Learning
-- **Bayesian Compression for Deep Learning** (2017, NIPS) Christos Louizos [[pdf]](https://arxiv.org/abs/1705.08665)
+#### Bayesian Neural Networks Training
+- **Learning stochastic feedforward networks** (1990) Radford Neal [[pdf]](http://www.cs.toronto.edu/~radford/ftp/sff.pdf)
+- **Bayesian Back-Propagation** (1991) Wray Buntine [[pdf]](https://pdfs.semanticscholar.org/c836/84f6207697c12850db423fd9747572cf1784.pdf)
+- **A Practical Bayesian Framework for Backpropagation Networks** (1992) David Mackay [[pdf]](https://authors.library.caltech.edu/13793/1/MACnc92b.pdf )
+- **Bayesian training of backpropagation networks by the hybrid Monte Carlo method** (1992) Radford Neal [[pdf]](http://www.cs.toronto.edu/~radford/ftp/bbp.pdf)
+- **Bayesian Learning For Neural Networks** (1995) Radford Neal [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.446.9306&rep=rep1&type=pdf)
+- **Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks** (2015, ICML) Jose Miguel [[pdf]](https://arxiv.org/abs/1502.05336)
 
 ### Restricted Boltzman Machines
 - **Restricted Boltzmann Machines for Collaborative Filtering** (2007) Ruslan Salakhutdinov [[pdf]](http://www.machinelearning.org/proceedings/icml2007/papers/407.pdf)
