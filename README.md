@@ -1039,7 +1039,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Classifying Learnable Geometric Concepts with the Vapnik-Chervonenkis Dimension** (1986) Anselm Blumer [[pdf]](https://dl.acm.org/citation.cfm?id=12158)
 - **Learnability and the Vapnik-Chervonenkis Dimension** (1989) Anselm Butler [[pdf]](http://www2.denizyuret.com/ref/blumer/ft_gateway.cfm.pdf)
 - **Bounds on the Sample Complexity of Bayesian Learning Using Information Theory and the VC Dimension** (1994) David Haussler [[pdf]](http://rob.schapire.net/papers/bounds-on-bayes.pdf)
-
+ 
 ### Occam Razor
 
 #### Bayesian Information Criterion
@@ -1049,6 +1049,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Bayesian Interpolation** (1992) David Mackay [[pdf]](https://authors.library.caltech.edu/13792/1/MACnc92a.pdf)
 - **The Evidence Framework applied to Classification Networks** (1992) David Mackay [[pdf]](https://pdfs.semanticscholar.org/7abd/a1941534d3bb558dd959025d67f1df526303.pdf)
 - **Occam Razor** (2001) Carl Edward Ramussen [[pdf]](http://mlg.eng.cam.ac.uk/zoubin/papers/occam.pdf)
+
+#### Cross Validation
+- **Cross-validation and multinomial prediction** (1974) M. Stone [[pdf]](https://academic.oup.com/biomet/article-abstract/61/3/509/249386?redirectedFrom=fulltext)
+- **A survey of cross-validation procedures for model selection** (2010) Sylvain [[pdf]](https://www.di.ens.fr/willow/pdfs/2010_Arlot_Celisse_SS.pdf)
 
 #### Automatic Relevance Determination (ARD) = Sparse Bayesian Learning
 
@@ -1183,6 +1187,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 #### Bayesian Neural Networks Model
 - **Bayesian Methods for Adaptive Model** (1992) David Mackay [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.31.4284&rep=rep1&type=pdf)
+- **Bayesian Methods for Neural Networks** (1995) Christopher Bishop [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/1995/01/NCRG_95_009.pdf)
 - **Bayesian approach for neural networks—review and case studies** (2001) Jouko Lampinen [[pdf]](https://www.sciencedirect.com/science/article/pii/S0893608000000988)
 - **Classification with Bayesian Neural Networks** (2006) Radford Neal [[pdf]](https://link.springer.com/content/pdf/10.1007%2F11736790.pdf)
 
