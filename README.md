@@ -1039,6 +1039,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Classifying Learnable Geometric Concepts with the Vapnik-Chervonenkis Dimension** (1986) Anselm Blumer [[pdf]](https://dl.acm.org/citation.cfm?id=12158)
 - **Learnability and the Vapnik-Chervonenkis Dimension** (1989) Anselm Butler [[pdf]](http://www2.denizyuret.com/ref/blumer/ft_gateway.cfm.pdf)
 - **Bounds on the Sample Complexity of Bayesian Learning Using Information Theory and the VC Dimension** (1994) David Haussler [[pdf]](http://rob.schapire.net/papers/bounds-on-bayes.pdf)
+- **Nearly-tight VC-dimension and pseudodimension bounds for piecewise linear neural networks** (2017) Peter [[pdf]](https://arxiv.org/pdf/1703.02930.pdf)
  
 ### Occam Razor
 
@@ -1392,6 +1393,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Learning to predict by the methods of temporal differences** (1988) Richard Sutton [[pdf]](https://link.springer.com/article/10.1023/A:1022633531479)
 - **Reinforcement Learning Algorithms as Function Approximators** (1989) Richard Sutton 
 - **TD-Gammon, a self-teaching backgammon program, achieves master-level play** (1993, AAAI) Gerald  [[pdf]](https://pdfs.semanticscholar.org/2b11/305f69641ecb8bd4a5e59cfebe41ad9ed989.pdf)
+
+### Markov Decision Process
+
+### Partially Observable Markov Decision Process (POMDP)
+- **Reinforcement Learning of POMDPs using Spectral Methods** (2016) Kamyar [[pdf]](https://arxiv.org/pdf/1602.07764.pdf)
 
 ### Deep Reinforcement Learning
 - **Playing Atari with Deep Reinforcement Learning** (2012) Volodymyr Mnih et al. [[pdf]](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
