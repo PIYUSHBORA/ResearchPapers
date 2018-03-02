@@ -1000,9 +1000,13 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **An Introduction to Variational Methods for Graphical Models** (1999) Michael Jordan [[pdf]](https://people.eecs.berkeley.edu/~jordan/papers/variational-intro.pdf)
 - **The Variational Bayesian EM Algorithm for Incomplete Data: with Application to Scoring Graphical Model Structures** (2002) Matthew Beal [[pdf]](http://mlg.eng.cam.ac.uk/zoubin/papers/valencia02.pdf)
 - **Graphical Models, Exponential Families, and Variational Inference** (2008) Martin Wainwright [[pdf]](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf)
+- **Practical Variational Inference for Neural Networks** (2011, NIPS) Alex Graves [[pdf]](http://papers.nips.cc/paper/4329-practical-variational-inference-for-neural-networks)
 - **Stochastic Variational Inference** (2013) Matthew Hoffman [[pdf]](https://arxiv.org/abs/1206.7051)
 - **Auto-Encoding Variational Bayes** (2013) Diederik Kingma [[pdf]](https://arxiv.org/abs/1312.6114)
 - **Black Box Variational Inference** (2014, AISTATS) Rajesh [[pdf]](http://www.cs.columbia.edu/~blei/seminar/2016_discrete_data/readings/RanganathGerrishBlei2014.pdf)
+- **Variational Dropout and the Local Reparameterization Trick** (2015, NIPS) Diederik Kingma [[pdf]](http://papers.nips.cc/paper/5666-variational-dropout-and-the-local-reparameterization-trick)
+- **Weight Uncertainty in Neural Networks** (2015, ICML) Charles Bundell [[pdf]](https://arxiv.org/pdf/1505.05424.pdf)
+- **Automatic Differentiation Variational Inference** (2016) Alp Kucukelbir [[pdf]](https://arxiv.org/pdf/1603.00788.pdf)
 
 ### Expectation Propagation
 - **Expectation Propagation for approximate Bayesian inference** (2001, UAI) Thomas Minka [[pdf]](https://arxiv.org/abs/1301.2294)
@@ -1153,11 +1157,6 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **The Loss Surfaces of Multilayer Networks** (2014, AISTATS) Choromanska [[pdf]](https://arxiv.org/abs/1412.0233)
 - **A Random Matrix Approach to Neural Networks** (2017) Cosme [[pdf]](https://arxiv.org/abs/1702.05419)
 - **Geometry of Neural Network Loss Surfaces via Random Matrix Theory** (2017, PMLR) Jeffrey Pennington [[pdf]](http://www.pennington.ml/papers/geometry_nns.pdf)
-
-### Variational Inference Neural Networks
-- **Keeping the neural networks simple by minimizing the description length of the weights** (1993, COLT) Geoffrey Hinton [[pdf]](https://dl.acm.org/citation.cfm?id=168306)
-- **Practical Variational Inference for Neural Networks** (2011, NIPS) Alex Graves [[pdf]](http://papers.nips.cc/paper/4329-practical-variational-inference-for-neural-networks)
-- **Variational Dropout and the Local Reparameterization Trick** (2015, NIPS) Diederik Kingma [[pdf]](http://papers.nips.cc/paper/5666-variational-dropout-and-the-local-reparameterization-trick)
 
 ### Uncertainty Neural networks
 - **Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning** (2016) Yarin gal [[pdf]](http://proceedings.mlr.press/v48/gal16.html)
