@@ -621,6 +621,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [STA946 Deep Learning by Ali Ghodsi](https://www.youtube.com/playlist?list=PLehuLRPyt1HxTolYUWeyyIoxDabDmaOSB) 
 - [NYU Deep Learning by Yann Lecunn 2014](https://cilvr.cs.nyu.edu/doku.php?id=courses:deeplearning2014:start)
 - [Illinois Topic Course: Deep Learning and Recognition by Svetlana 2017](http://slazebni.cs.illinois.edu/spring17/)
+- [MIT Introduction to Deep Learning Winter 2018](http://introtodeeplearning.com/index.html)
 
 ## Gaussian Process
 - [Gaussian Process Summer School 2017](https://www.youtube.com/playlist?list=PLpTp0l_CVmgwyAthrUmmdIFiunV1VvicM)
@@ -1150,6 +1151,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **On Calibration of Modern Neural Networks** (2017) Chuan Guo [[pdf]](https://arxiv.org/abs/1706.04599)
 
 #### Optimizer
+- **On the Momentum Term in Gradient Descent Learning Algorithms** (1999) Ning Qian [[pdf]](https://pdfs.semanticscholar.org/735d/4220d5579cc6afe956d9f6ea501a96ae99e2.pdf)
 - **Adaptive Subgradient Methods for Online Learning and Stochastic Optimization** (2011) John Duchi [[pdf]](http://jmlr.org/papers/v12/duchi11a.html)
 - **ADADELTA: An Adaptive Learning Rate Method** (2012) Matt Zeiler [[pdf]](https://arxiv.org/abs/1212.5701)
 - **No More Pesky Learning Rates** (2013) Tom Schaul [[pdf]](https://arxiv.org/pdf/1206.1106.pdf)
