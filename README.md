@@ -813,8 +813,15 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ## Semi-Supervised Learning
 - [Missing Data Problems in Machine Learning by Benjamin Marlin](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.160.8408&rep=rep1&type=pdf)
 
+## Active Learning
+- [ACTIVE LEARNING: THEORY AND APPLICATIONS by Simon Tong 2001](http://www.robotics.stanford.edu/~stong/papers/tong_thesis.pdf)
+- [CURIOUS MACHINES: ACTIVE LEARNING WITH STRUCTURED INSTANCES by Burr Settles 2008](http://burrsettles.com/pub/settles.thesis.pdf)
+
 <!--------------------------------------------------- SURVEYS -------------------------------------------------->
 # Surveys 
+
+## Unsupervised Learning
+- **Unsupervised Learning** (2004) Zoubin Ghahramani [[pdf]](http://mlg.eng.cam.ac.uk/zoubin/papers/ul.pdf)
 
 ## Semi-Supervised Learning
 - **Semi-Supervised Learning Literature Survey** (2008) Xiaojin Zhu [[pdf]](http://pages.cs.wisc.edu/~jerryzhu/pub/ssl_survey.pdf)
@@ -872,6 +879,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **A Survey on Contextual Multi-armed Bandits** (2015) Li Zhou [[pdf]](https://arxiv.org/abs/1508.03326) 
 
 ## Active Learning
+- **Active Learning for Logistic Regression: An Evaluation** (2007) Andrew Schein [[pdf]](https://repository.upenn.edu/cgi/viewcontent.cgi?referer=https://www.google.ca/&httpsredir=1&article=1378&context=cis_papers)
 - **Theoretical Foundations of Active Learning** (2009) Steve Hanneke [[pdf]](https://pdfs.semanticscholar.org/027f/f5e1d93b740e02c042b515c83a1fafa312e7.pdf)
 - **A literature survey of active machine learning in the context of natural language processing** (2009) Frederik Olsson [[pdf]](http://eprints.sics.se/3600/)
 - **Active Learning Literature Survey** (2010) Burr Settles [[pdf]](http://burrsettles.com/pub/settles.activelearning.pdf)
@@ -1452,6 +1460,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ## Active Learning
 - **Information-Based Objective Functions for Active Data Selection** (1992) David Mackay et al. [[pdf]](https://authors.library.caltech.edu/13795/1/MACnc92c.pdf)
 - **On the exponential value of labeled samples** (1995) Vittorio Castelli [[pdf]](http://www.cs.columbia.edu/~dplewis/candidacy/castelli.pdf)
+- **Active Learning with Statistical Models** (1996, JAIR) David Cohn [[pdf]](https://www.jair.org/media/295/live-295-1554-jair.pdf)
 - **The Value of Unlabeled Data for Classification Problems** (2000) Tong Zhang [[pdf]](http://www.cs.columbia.edu/~dplewis/candidacy/the-value-of-unlabeled.pdf)
 - **Automated Curriculum Learning for Neural Networks** (2016) Alex Graves et al. [[pdf]](https://arxiv.org/abs/1704.03003)
 - **A Probability Analysis on the Value of Unlabeled Data for Classification Problems** (2010, ICML) Tong Zhang [[pdf]](http://tongzhang-ml.org/papers/icml00-unlabeled.pdf)
