@@ -881,7 +881,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Lectures on Bayesian Nonparametrics** (2014) Peter Orbanz [[pdf]](http://stat.columbia.edu/~porbanz/papers/porbanz_BNP_draft.pdf)
 
 ## Optimization
+- **Tutorial on maximum likelihood estimation** (2003) Jae Myung [[pdf]](https://www.sciencedirect.com/science/article/pii/S0022249602000287)
 - **Automatic differentiation in machine learning: a survey** (2014) Atilim et al. [[pdf]](https://arxiv.org/abs/1502.05767)
+- **A tutorial on Bayesian nonparametric models** (2012) Samuel [[pdf]](https://arxiv.org/abs/1106.2697)
+
+### Information Geometry
 - **A Tutorial on Fisher Information** (2017) Alexander [[pdf]](2009://arxiv.org/pdf/1705.01064.pdf)
 
 ## Dimensionality Reduction 
