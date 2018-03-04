@@ -754,6 +754,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ## Learning Theory
 - [Fundamental Limitations of Semi-Supervised Learning by Tyler Tian Lu](http://www.cs.toronto.edu/~tl/papers/lumastersthesis.pdf)
+- [Group Decision Making with Partial Preferences by Tyler Tian Lu](https://tspace.library.utoronto.ca/bitstream/1807/69420/3/Lu_Tyler_%28Tian%29_201506_PhD_thesis.pdf)
 
 ## Probabilistic Generative Models
 - [Efficient Training of Conditional Random Fields by Hannah](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.134.8962&rep=rep1&type=pdf)
