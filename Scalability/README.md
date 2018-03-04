@@ -76,8 +76,14 @@ Scalability is anything to make myself a programmer that can work with scalabili
 - **Synchronization without contention** (1991) John Mellor [[pdf]](https://dl.acm.org/citation.cfm?id=106999)
 - **Reactive Synchronization Algorithms for Multiprocessors** (1994) Anant Agarwal [[pdf]](https://dl.acm.org/citation.cfm?id=195490)
 
+### Semaphores
+- **Implementing Condition Variables with Semaphores** (2003) Andrew Birrell [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2004/12/ImplementingCVs.pdf)
+
 ### Monitors
 - **Monitors: An operating system structuring concept** (1974) Hoare [[pdf]](https://dl.acm.org/citation.cfm?id=361161)
+
+### Remote Procedure Calls
+- **Implementing Remote Procedure Calls** (1984) Andrew Birrell [[pdf]](https://dl.acm.org/citation.cfm?id=357392)
 
 ### Virtual Memory
 - **Virtual Memory** (1970) Peter Denning [[pdf]](https://dl.acm.org/citation.cfm?id=356573)
