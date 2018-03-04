@@ -886,7 +886,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **A tutorial on Bayesian nonparametric models** (2012) Samuel [[pdf]](https://arxiv.org/abs/1106.2697)
 
 ### Information Geometry
-- **A Tutorial on Fisher Information** (2017) Alexander [[pdf]](2009://arxiv.org/pdf/1705.01064.pdf)
+- **A Tutorial on Fisher Information** (2017) Alexander [[pdf]](https://arxiv.org/pdf/1705.01064.pdf)
 
 ## Dimensionality Reduction 
 - **Dimensionality Reduction: A Comparative Review** (2009) Laurens [[pdf]](https://www.tilburguniversity.edu/upload/59afb3b8-21a5-4c78-8eb3-6510597382db_TR2009005.pdf)
