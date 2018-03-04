@@ -806,12 +806,17 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ## Recommender Systems
 - [Collaborative Filtering: A Machine Learning Perspective by Benjamin Marlin](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.87.4817&rep=rep1&type=pdf)
-- [Missing Data Problems in Machine Learning by Benjamin Marlin](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.160.8408&rep=rep1&type=pdf)
 - [A Unified Approach to Collaborative Filtering via Linear Models and Beyond by Suvash](https://mesuvash.github.io/assets/pdf/papers/thesis.pdf)
 - [Deep Matrix Factorization for Recommendation by Mart](https://esc.fnwi.uva.nl/thesis/centraal/files/f315001319.pdf)
 
+## Semi-Supervised Learning
+- [Missing Data Problems in Machine Learning by Benjamin Marlin](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.160.8408&rep=rep1&type=pdf)
+
 <!--------------------------------------------------- SURVEYS -------------------------------------------------->
 # Surveys 
+
+## Semi-Supervised Learning
+- **Semi-Supervised Learning Literature Survey** (2008) Xiaojin Zhu [[pdf]](http://pages.cs.wisc.edu/~jerryzhu/pub/ssl_survey.pdf)
 
 ## Deep Learning
 - **Deep Machine Learning - A New Frontier in Artificial Intelligence Research** (2010) Itamar [[pdf]](http://ieeexplore.ieee.org/document/5605630/)
@@ -909,7 +914,6 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ## Natural Language Processing
 - **Neural Machine Translation and Sequence-to-sequence Models: A Tutorial** (2017) Graham [[pdf]](https://arxiv.org/pdf/1703.01619v1.pdf)
-
 
 <!--------------------------------------------------- PAPERS -------------------------------------------------->
 # Papers 
@@ -1440,7 +1444,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ## Active Learning
 - **Information-Based Objective Functions for Active Data Selection** (1992) David Mackay et al. [[pdf]](https://authors.library.caltech.edu/13795/1/MACnc92c.pdf)
+- **On the exponential value of labeled samples** (1995) Vittorio Castelli [[pdf]](http://www.cs.columbia.edu/~dplewis/candidacy/castelli.pdf)
+- **The Value of Unlabeled Data for Classification Problems** (2000) Tong Zhang [[pdf]](http://www.cs.columbia.edu/~dplewis/candidacy/the-value-of-unlabeled.pdf)
 - **Automated Curriculum Learning for Neural Networks** (2016) Alex Graves et al. [[pdf]](https://arxiv.org/abs/1704.03003)
+- **A Probability Analysis on the Value of Unlabeled Data for Classification Problems** (2010, ICML) Tong Zhang [[pdf]](http://tongzhang-ml.org/papers/icml00-unlabeled.pdf)
 
 ## Exploration vs Exhaustation 
 
@@ -1451,6 +1458,23 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ### Thompson Sampling
 - **A Tutorial on Thompson Sampling** (2017) Daniel Russo [[pdf]](https://arxiv.org/abs/1707.02038)
+
+## Semi-Supervised Learning
+- **Learning with Labeled and Unlabeled Data** (2001) Matthias Seger [[pdf]](http://www.cs.columbia.edu/~dplewis/candidacy/seeger01learning.pdf)
+- **Learning From Labeled And Unlabeled Data: An Empirical Study Across Techniques And Domains** (2005) Nitesh Chawla [[pdf]](https://arxiv.org/abs/1109.2047)
+- **Semi-supervised Learning from only Positive and Unlabeled Data using Entropy** (2010, WAIM) Xiaoling Wang [[pdf]](http://www.cs.sfu.ca/~ester/papers/WAIM-2010.UnlabeledData.final.pdf)
+- **A Positive and Unlabeled Learning Algorithm for One-Class Classification of Remote-Sensing Data** (2010) Wenkai Li [[pdf]](http://faculty.ucmerced.edu/qguo/publications/igrass_pul.pdf)
+
+### Missing Data Recommendation
+- **Collaborative Filtering and the Missing at Random Assumption** (2007, UAI) Marlin [[pdf]](https://arxiv.org/abs/1206.5267)
+- **Learning classifiers from only positive and unlabeled data** (2008, KDD) Charles Elkan [[pdf]](https://dl.acm.org/citation.cfm?id=1401920)
+- **Mind the Gaps: Weighting the Unknown in Large-Scale One-Class Collaborative Filtering** (2009, KDD) Rong Pan [[pdf]](https://dl.acm.org/citation.cfm?id=1557094)
+- **Collaborative prediction and ranking with non-random missing data** (2009, RecSys) Marlin [[pdf]](https://dl.acm.org/citation.cfm?id=1639717)
+- **Recommender Systems: Missing Data and Statistical Model Estimation** (2011, AAAI) Marlin [[pdf]](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI11/paper/view/3078)
+- **Ranking With Non-Random Missing Ratings: Influence Of Popularity And Positivity on Evaluation Metrics** (2012, Recsys) Bruno Pradel [[pdf]](https://dl.acm.org/citation.cfm?doid=2365952.2365982)
+- **Efficient Top-N Recommendation for Very Large Scale Binary Rated Datasets** (2013, RecSys) Fabio [[pdf]](https://dl.acm.org/citation.cfm?id=2507189)
+- **Autoencoders and Probabilistic Inference with Missing Data: An Exact Solution for The Factor Analysis Case** (2018) Christopher Williams [[pdf]](https://arxiv.org/pdf/1801.03851.pdf)
+
 
 # Applications
 
@@ -1469,16 +1493,6 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ### Active Learning Recommendation
 - **Variational Bayesian Approach to Movie Rating Prediction** (2007, KDD) Yew Jin Lim [[pdf]](https://www.cs.uic.edu/~liub/KDD-cup-2007/proceedings/variational-Lim.pdf)
 - **Active Learning for Online Bayesian Matrix Factorization** (2012, KDD) Jorge Silva [[pdf]](http://www.niculescu-mizil.org/KDD2012/docs/p325.pdf)
-
-### Missing Data Recommendation
-- **Collaborative Filtering and the Missing at Random Assumption** (2007, UAI) Marlin [[pdf]](https://arxiv.org/abs/1206.5267)
-- **Learning classifiers from only positive and unlabeled data** (2008, KDD) Charles Elkan [[pdf]](https://dl.acm.org/citation.cfm?id=1401920)
-- **Mind the Gaps: Weighting the Unknown in Large-Scale One-Class Collaborative Filtering** (2009, KDD) Rong Pan [[pdf]](https://dl.acm.org/citation.cfm?id=1557094)
-- **Collaborative prediction and ranking with non-random missing data** (2009, RecSys) Marlin [[pdf]](https://dl.acm.org/citation.cfm?id=1639717)
-- **Recommender Systems: Missing Data and Statistical Model Estimation** (2011, AAAI) Marlin [[pdf]](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI11/paper/view/3078)
-- **Ranking With Non-Random Missing Ratings: Influence Of Popularity And Positivity on Evaluation Metrics** (2012, Recsys) Bruno Pradel [[pdf]](https://dl.acm.org/citation.cfm?doid=2365952.2365982)
-- **Efficient Top-N Recommendation for Very Large Scale Binary Rated Datasets** (2013, RecSys) Fabio [[pdf]](https://dl.acm.org/citation.cfm?id=2507189)
-- **Autoencoders and Probabilistic Inference with Missing Data: An Exact Solution for The Factor Analysis Case** (2018) Christopher Williams [[pdf]](https://arxiv.org/pdf/1801.03851.pdf)
 
 ### Matrix Factorization
 - **Lower Rank Approximation of Matrices by Least Squares with Any Choice of Weights** (1979) Ruben Gabriel [[pdf]](http://www.ma.huji.ac.il/~zamir/paper17.htm)
