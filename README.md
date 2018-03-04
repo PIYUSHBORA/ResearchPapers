@@ -752,6 +752,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Non-linear latent factor models for revealing structure in high-dimensional data by Roland Memisevic](http://www.cs.toronto.edu/~rfm/thesis/Memisevic08.pdf)
 - [Efficient Stopping Rules by Volodymyr Mnih](https://www.cs.toronto.edu/~vmnih/docs/msc-thesis.pdf)
 
+## Learning Theory
+- [Fundamental Limitations of Semi-Supervised Learning by Tyler Tian Lu](http://www.cs.toronto.edu/~tl/papers/lumastersthesis.pdf)
+
 ## Probabilistic Generative Models
 - [Efficient Training of Conditional Random Fields by Hannah](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.134.8962&rep=rep1&type=pdf)
 - [Learning Large-Scale Conditional Random Fields by Joseph](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1222&context=dissertations)
