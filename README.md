@@ -1199,6 +1199,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Extracting and composing robust features with denoising autoencoders** (2008) Pascal Vincent [[pdf]](https://dl.acm.org/citation.cfm?id=1390294)
 - **Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion** (2010) Pascal Vincent [[pdf]](http://www.jmlr.org/papers/v11/vincent10a.html)
 
+#### Variational AutoEncoders
+- **Auto-Encoding Variational Bayes** (2013, ICLR) Diederik Kingma [[pdf]](https://arxiv.org/abs/1312.6114)
+- **Stochastic Backpropagation and Approximate Inference in Deep Generative Models** (2014, ICML) Danilo Jimenez Rezende [[pdf]](https://arxiv.org/abs/1401.4082)
+
+
 ### Bayesian Neural Networks
 #### Bayesian Neural Network Prior Selection
 - **Priors for infinite networks** (1994) Radford Neal [[pdf]](http://www.cs.toronto.edu/~radford/ftp/pin.pdf)
