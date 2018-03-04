@@ -882,6 +882,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ## Optimization
 - **Automatic differentiation in machine learning: a survey** (2014) Atilim et al. [[pdf]](https://arxiv.org/abs/1502.05767)
+- **A Tutorial on Fisher Information** (2017) Alexander [[pdf]](2009://arxiv.org/pdf/1705.01064.pdf)
 
 ## Dimensionality Reduction 
 - **Dimensionality Reduction: A Comparative Review** (2009) Laurens [[pdf]](https://www.tilburguniversity.edu/upload/59afb3b8-21a5-4c78-8eb3-6510597382db_TR2009005.pdf)
