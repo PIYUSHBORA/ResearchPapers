@@ -696,6 +696,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [AM207 Harvard Stochastic Methods for Data Analysis, Inference and Optimization](http://am207.github.io/2016/index.html)
 - [AM207 Working Video Lectures Link](http://cm.dce.harvard.edu/2015/02/24104/publicationListing.shtml)
 - [Advances in Approximate Bayesian](https://www.youtube.com/watch?v=gRvxr47Gj3k&list=PLsatQfvo0v3sUhi3ijRme9MyqwLL5EOiG&index=4)
+- [BIOS8366 Advanced Statistical Computing by Chris Fonnesbeck, creator of PyMC](http://stronginference.com/Bios8366/lectures.html)
 
 ## Deep Learning
 - [CUHK ELEG5040 Introduction to Deep Learning](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/resources)
