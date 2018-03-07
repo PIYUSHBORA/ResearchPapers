@@ -753,6 +753,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Learning Probabilistic Models for Visual Motion by David Ross](http://www.cs.toronto.edu/~dross/phd/Ross_David_A_200811_PhD_thesis.pdf)
 - [Non-linear latent factor models for revealing structure in high-dimensional data by Roland Memisevic](http://www.cs.toronto.edu/~rfm/thesis/Memisevic08.pdf)
 - [Efficient Stopping Rules by Volodymyr Mnih](https://www.cs.toronto.edu/~vmnih/docs/msc-thesis.pdf)
+- [Foundations and Advances in Deep Learning by Kyung Hyun](https://aaltodoc.aalto.fi/bitstream/handle/123456789/12729/isbn9789526055756.pdf?sequence=1&isAllowed=y)
 
 ## Learning Theory
 - [Fundamental Limitations of Semi-Supervised Learning by Tyler Tian Lu](http://www.cs.toronto.edu/~tl/papers/lumastersthesis.pdf)
