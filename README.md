@@ -1424,6 +1424,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **An Introduction to Conditional Random Fields for Relational Learning** (2006) Charles Sutton [[pdf]](https://cis.temple.edu/~latecki/Courses/RobotFall08/Papers/ConditionalRandomFieldsRelationalLearning.pdf)
 - **Classical Probabilistic Models and Conditional Random Fields** (2007) Roman Klinger [[pdf]](http://www.eng.utah.edu/~cs6961/papers/klinger-crf-intro.pdf)
 
+##### Hidden Conditional Random Fields (HCRF)
+- **Hidden Conditional Random Fields for Gesture Recognition** (2006, CVPR) Sy Bor Wang [[pdf]](http://people.csail.mit.edu/sybor/cvpr06_wang.pdf)
+- **Hidden-state Conditional Random Fields** (2007, PAMI) Quattoni [[pdf]](http://www.lsi.upc.edu/~aquattoni/AllMyPapers/pami_07.pdf)
+- **Hidden Conditional Random Fields for Phone Recognition** (2009) YunHsuan Sung [[pdf]](https://web.stanford.edu/~jurafsky/asru09.pdf)
+
 
 ### Factor Graphs
 - **Iterative Decoding of Compound Codes by Probability Propagation in Graphical Models** (1998) Brendan Frey [[pdf]](http://www.psi.toronto.edu/~psi/pubs2/1999%20and%20before/ppid-jsac.pdf)
