@@ -1319,6 +1319,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 #### Adversarial Attacks
 - **Explaining and Harnessing Adversarial Examples** (2014) Ian Goodfellow [[pdf]](https://arxiv.org/abs/1412.6572)
 
+### Siamese Neural Network
+- **Siamese Neural Networks for One-shot Image Recognition** (2015, JMLR) Gregory Koch [[pdf]](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
+
 ### Latent Dirichlet Allocation
 - **Latent Dirichlet Allocation** (2003) David Blei [[pdf]](http://ai.stanford.edu/~ang/papers/jair03-lda.pdf)
 - **Probabilistic Topic Models** (2012) David Blei [[pdf]](https://dl.acm.org/citation.cfm?id=2133826)
