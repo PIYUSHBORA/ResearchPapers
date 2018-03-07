@@ -968,6 +968,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **On bayesian methods for seeking the extremum** (1974) Jonas Mockus [[pdf]](https://link.springer.com/chapter/10.1007/3-540-07165-2_55)
 - **A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning** (2010) Eric Brochu [[pdf]](https://arxiv.org/pdf/1012.2599.pdf)
 - **Practical Bayesian Optimization of Machine Learning Algorithms** (2012, NIPS) Jasper Snoek [[pdf]](http://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-l) 
+- **Batched Large-scale Bayesian Optimization in High-dimensional Spaces** (2018, AISTATS) Zi Wang [[pdf]](https://arxiv.org/abs/1706.01445)
 
 ## Inference
 
