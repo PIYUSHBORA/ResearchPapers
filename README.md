@@ -1035,7 +1035,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **Automatic Differentiation Variational Inference** (2016) Alp Kucukelbir [[pdf]](https://arxiv.org/pdf/1603.00788.pdf)
 
 ### Expectation Propagation
-- **Expectation Propagation for approximate Bayesian inference** (2001, UAI) Thomas Minka [[pdf]](https://arxiv.org/abs/1301.2294)
+- **Expectation Propagation for approximate Bayesian inference** (2001, UAI) Thomas Minka [[pdf]](https://arxiv.org/abs/1301.2294) [[webpage]](https://tminka.github.io/papers/ep/roadmap.html)
 - **Expectation-Propagation for the Generative Aspect Model** (2002, UAI) Thomas Minka [[pdf]](https://arxiv.org/pdf/1301.0588.pdf)
 
 ## Machine Learning
