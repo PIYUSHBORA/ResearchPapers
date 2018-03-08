@@ -1355,6 +1355,12 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 #### Baum-Welch Algorithm
 - **(Baum-Welch)A Maximization Technique Occurring in the Statistical Analysis of Probabilistic Functions of Markov Chains** (1970) Baum [[pdf]](https://projecteuclid.org/euclid.aoms/1177697196)
 
+#### Message Passing
+
+##### Variational Message Passing
+- **Variational Message Passing** (2004) John Winn [[pdf]](http://www.johnwinn.org/Publications/papers/VMP2004.pdf)
+
+
 #### Sampling 
 
 ##### Forward Propagation
