@@ -682,6 +682,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ## Statistical Learning Theory 
 - [MIT 9.520 Fall 2017](http://www.mit.edu/~9.520/fall17/) 
 - [ECE 901 Statistical Learning Theory Summer 2009 by Robert Novak](http://nowak.ece.wisc.edu/SLT09.html)
+- [Princeton COS511 Theoretical Machine Learning by Elad Hazan 2016](https://www.cs.princeton.edu/courses/archive/spring16/cos511/)
 
 ## Reinforcement Learning
 - [CMU 10703 RL by Ruslan](https://katefvision.github.io/)
