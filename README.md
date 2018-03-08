@@ -1519,7 +1519,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - **A Multiple-Play Bandit Algorithm Applied to Recommender Systems** (2015, AAAI) Jonathan [[pdf]](https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS15/paper/viewFile/10385/10364)
 
 ### Active Learning Recommendation
-- **Variational Bayesian Approach to Movie Rating Prediction** (2007, KDD) Yew Jin Lim [[pdf]](https://www.cs.uic.edu/~liub/KDD-cup-2007/proceedings/variational-Lim.pdf)
+- **Variational Bayesian Approach to Movie Rating Prediction** (2007, KDD) Yew Jin Lim [[pdf]](https://www.cs.uic.edu/~liub/KDD-cup-2007/proceedings/variational-Lim.pdf) [[extensions]](http://static1.1.sqspcdn.com/static/f/520053/5799271/1266424058870/extension.pdf?token=e25C3v98p8MwKLDqXDh%2Bmu94vAo%3D)
 - **Active Learning for Online Bayesian Matrix Factorization** (2012, KDD) Jorge Silva [[pdf]](http://www.niculescu-mizil.org/KDD2012/docs/p325.pdf)
 
 ### Matrix Factorization
