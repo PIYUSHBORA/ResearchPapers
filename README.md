@@ -335,6 +335,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - [Bayesian Deep Learning](https://github.com/robi56/awesome-bayesian-deep-learning)
 - [Generative Adversarial Networks](https://github.com/nightrome/really-awesome-gan)
 - [GAN Applications](https://github.com/nashory/gans-awesome-applications)
+- [Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
 ## Machine Learning
 - [Machine Learning Surveys](https://github.com/mlreview/machine-learning-surveys)
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
